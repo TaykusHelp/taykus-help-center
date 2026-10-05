@@ -1,29 +1,29 @@
 # Display
 
-Un display en un club de pádel puede ser una herramienta muy útil para mejorar la experiencia tanto de los jugadores como de los visitantes.
+El display es la pantalla que puedes colocar en el club para mostrar a jugadores y visitantes los partidos del día: horarios, jugadores y número de pista. Además de ser muy práctico, da al club una imagen más moderna y profesional.
 
-### ¿Qué es un display?
+## Cómo abrir el display
 
-Es un dispositivo que permite mostrar información relevante de manera rápida y accesible, como los horarios de partidos, los jugadores o el número de pista.
+{% stepper %}
+{% step %}
+### Acceso al display
 
-Además, un display puede contribuir a la modernización del club, ofreciendo una imagen más profesional y atractiva, lo que podría aumentar la satisfacción de los socios y atraer a nuevos clientes.
+* Clica en **Calendario** en el menú de la izquierda. Se abrirá un desplegable con dos opciones:
+  * **Display: 1 columna**
+  * **Display: 2 columnas**
 
-En nuestro programa es muy sencillo su manejo y tenemos diferentes opciones de uso. Para abrirlo solo tendríamos que:
+<div align="left"><figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
 
-1.  Clicar en **Calendario** y se abre un desplegable con dos opciones:
+{% step %}
+### Elegir el formato
 
-    1. Display: 1 columna
-    2. Display: 2 columnas
+* Selecciona la opción que prefieras según cómo quieras que se vea la pantalla.
+* El display se abrirá en una pestaña nueva. Esa es la pestaña que tendrás que mostrar en la pantalla del club.
+{% endstep %}
+{% endstepper %}
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure></div>
-
-
-
-Estas dos opciones dependerán de cómo queremos que se visualice nuestro display.
-
-Simplemente tendríamos que seleccionar la opción preferida y se abrirá nuestro display en una nueva pestaña, que sería la que tendríamos que abrir en la pantalla.
-
-A continuación mostramos unos ejemplos de cómo se visualizarían.
+Así se ve cada formato:
 
 #### Display: 1 columna
 
@@ -33,35 +33,42 @@ A continuación mostramos unos ejemplos de cómo se visualizarían.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-Si no deseamos que se muestre el nombre completo de los participantes, disponemos de otra opción en la que solo se mostrarían las iniciales.
+## Cómo mostrar solo las iniciales de los jugadores
 
-Para ello, tendríamos que hacer lo siguiente:
+Si prefieres que en la pantalla no aparezca el nombre completo de los participantes, puedes configurar el display para que muestre solo sus iniciales.
 
-1.  Acceso al menú de configuración.
+{% stepper %}
+{% step %}
+### Acceso a la configuración de reservas
 
-    * Clica en el icono de :gear: situado en la esquina superior derecha.
-    * Vuelve a clicar en Configuración
-    * Selecciona Reservas.
+* Clica en el icono <i class="fa-gear">:gear:</i> de la esquina superior derecha.
+* Vuelve a clicar en **Configuración**.
+* Selecciona **Reservas**.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+### Seleccionar el deporte
 
-2.  Nos quedamos en la columna de Grupo de recursos y clicamos sobre el id del deporte que queremos que se muestre en pantalla.
+* En la columna **Grupo de recursos**, clica sobre el ID del deporte que quieres que se muestre en la pantalla.
 
-    <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+### Activar las iniciales
 
-3.  Se abrirán las características generales de la configuración del deporte en cuestión y tan solo tendremos que marcar la casilla que dice:
+* Se abrirá la configuración general de ese deporte.
+* Marca la casilla **Mostrar iniciales de participantes**.
 
-    “Mostrar iniciales de participantes”
+<div align="left"><figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
+Una vez hecho, el display se verá así:
 
-
-
-Una vez hecho, la visualización de la pantalla quedaría así:
-
-#### Display: 1 Columna
+#### Display: 1 columna
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 

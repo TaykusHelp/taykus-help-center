@@ -1,45 +1,66 @@
 # Cómo crear a un jugador
 
-Registrar correctamente a los jugadores es fundamental para garantizar una gestión ordenada y eficiente de cualquier equipo o torneo. Una base de datos bien estructurada permite acceder fácilmente a información clave como estadísticas, historial de participación, contactos y rendimiento individual. Además, facilita la toma de decisiones, mejora la comunicación y evita errores o duplicidades. En resumen, una buena base de datos no solo optimiza la organización, sino que también contribuye al desarrollo y crecimiento del proyecto deportivo.
+Tener a los jugadores bien registrados te permite consultar su información, su historial y sus datos de contacto, y evita duplicados en la base de datos del club.
 
-Hay varias maneras de crear jugadores nuevos y añadirlos a nuestra base de datos.
+Puedes crear un jugador nuevo de dos formas: desde **Jugadores** o desde el **Calendario**, al hacer una reserva. Las dos llevan a la misma ficha.
 
-#### A través de Jugadores
+## Desde Jugadores
 
-1.  Acceso al menú de jugadores:
+{% stepper %}
+{% step %}
+### Acceso a Jugadores
 
-    * Clica en jugadores en el menú de la izquierda
+* Clica en **Jugadores** en el menú de la izquierda.
 
-    <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-2. Creación de un nuevo jugador:
-   * Clica en <i class="fa-plus">:plus:</i>.
-   * Se abre la ficha del jugador donde podremos rellenar los datos de este.
-   * Una vez completados los datos deseado, clicar en guardar.
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-#### A través de Calendario:
+{% step %}
+### Crear el jugador
 
-1. Acceso a Calendario:
-   * Clica en calendario en el menú de la izquierda.
-2. Acceso a reserva:
-   * Clica para crear una nueva reserva o en una reserva ya creada.
-3.  Crear nuevo jugador:
+* Clica en <i class="fa-plus">:plus:</i>.
+* Se abrirá la ficha del jugador para rellenar sus datos.
+* Cuando hayas completado los datos, clica en **Guardar**.
+{% endstep %}
+{% endstepper %}
 
-    * En ambas opciones es el mismo proceso.
-    * Selecciona sobre **Jugador.**
-    * Clica sobe **Crear nuevo.**
+## Desde el Calendario
 
-    <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+### Acceso a Calendario
 
-    <sup><sub>_**(Si tenemos jugadores ya creados, esta opción nos aparecerá al final del listado de jugadores, que se abrirá como un desplegable)**_<sub></sup>
+* Clica en **Calendario** en el menú de la izquierda.
+{% endstep %}
 
-Cualquiera de estas nos opciones nos derivan a la misma ficha, que es la siguiente:&#x20;
+{% step %}
+### Acceso a la reserva
+
+* Clica para crear una reserva nueva o abre una reserva ya creada. El proceso es el mismo en los dos casos.
+{% endstep %}
+
+{% step %}
+### Crear el jugador
+
+* Selecciona el campo **Jugador**.
+* Clica sobre **Crear nuevo**.
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+> Si ya tienes jugadores creados, la opción **Crear nuevo** aparece al final del desplegable con el listado de jugadores.
+{% endstep %}
+{% endstepper %}
+
+## La ficha del jugador
+
+Cualquiera de las dos opciones te lleva a esta ficha:
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-Hay muchos campos en la ficha de un jugador, por si fuera nuestro deseo tener una ficha completa, pero no todos los campos son necesarios para poder guardar a dicho usuario.&#x20;
+La ficha tiene muchos campos por si quieres guardar la información completa del jugador, pero no todos son necesarios.
 
-**Los campos obligatorios son**: \
-\- Nombre\
-\- Email \
-\- Tipo de cliente \
-Completando estos campos, ya podríamos guardar la ficha del nuevo jugador.
+> **Importante:** para poder guardar la ficha solo son obligatorios estos campos:
+>
+> * **Nombre**
+> * **Email**
+> * **Tipo de cliente**

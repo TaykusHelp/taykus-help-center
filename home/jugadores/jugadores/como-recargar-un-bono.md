@@ -1,33 +1,58 @@
 # Cómo recargar un bono
 
-Si utilizamos bonos, es fundamental saber cómo recargarlos. Existen dos formas de hacerlo: desde el TPV o a través de los jugadores. A continuación, te explicamos cómo proceder desde la sección de Jugadores:
+Si el club trabaja con bonos, es fundamental saber cómo recargarlos. Existen dos formas de hacerlo: desde el TPV o desde la ficha del jugador. En este artículo te explicamos cómo hacerlo desde **Jugadores**.
 
-1. Acceso a Jugadores:
-   * Dirígete a la columna de la izquierda y selecciona **Jugadores.**&#x20;
-2. Búsqueda del jugador o cliente:
-   *   Utiliza cualquiera de las columnas disponibles para buscar al jugador por nombre, apellido, correo, DNI, etc. y haz clic en su ID.<br>
+A continuación, se detallan los pasos a seguir:
 
-       <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-   *   También puedes usar el buscador en la esquina superior izquierda, escribir el nombre del jugador y pulsar Enter.<br>
+{% stepper %}
+{% step %}
+### Acceso a Jugadores
 
-       <div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
-3. Acceder a la sección de **Bonos:**
+* Dirígete al menú lateral izquierdo y selecciona **Jugadores**.
+{% endstep %}
 
-* Dentro del perfil del jugador, localiza el bloque de **Bonos.**
+{% step %}
+### Búsqueda del jugador
+
+* Utiliza cualquiera de las columnas disponibles para buscar al jugador por nombre, apellido, correo, DNI, etc. y haz clic en su **ID**.
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+* También puedes usar el buscador de la esquina superior izquierda: escribe el nombre del jugador y pulsa **Enter**.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+### Acceso a la sección de Bonos
+
+* Dentro del perfil del jugador, localiza el bloque de **Bonos**.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
 
-1. Recarga un **Bono:**
-   * En la esquina superior derecha, selecciona recargar.
-   * Esta opción te llevará directamente al TPV.
-2. Seleccionar el Bono deseado:
-   * Se abrirá una ventana con todos los bonos disponibles.
-   *   Selecciona el bono que deseas recargar entre los previamente configurados.<br>
+{% step %}
+### Recargar el bono
 
-       <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+* En la esquina superior derecha del bloque, selecciona **Recargar**.
+* Esta opción te llevará directamente al **TPV**.
+{% endstep %}
 
+{% step %}
+### Seleccionar el bono
 
-   * Si necesitas hacer alguna modificación específica para este cliente, puedes elegir la opción de Personalizar la recarga, **seleccionando previamente cualquier recarga de bono ya creada.**
-3. Finalizar la recarga:
-   * Procede al cobro, utilizando el método de pago preferido por el cliente.
-   * Si es una recarga personalizada a precio 0€, selecciona **Confirmar.**
+* Se abrirá una ventana con todos los bonos disponibles.
+* Selecciona el bono que quieres recargar entre los que ya tienes configurados.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+* Si necesitas hacer alguna modificación específica para este cliente, puedes elegir la opción **Personalizar la recarga**, seleccionando previamente cualquier recarga de bono ya creada.
+{% endstep %}
+
+{% step %}
+### Finalizar la recarga
+
+* Realiza el cobro con el método de pago que prefiera el cliente.
+* Si es una recarga personalizada a precio 0 €, selecciona **Confirmar**.
+{% endstep %}
+{% endstepper %}

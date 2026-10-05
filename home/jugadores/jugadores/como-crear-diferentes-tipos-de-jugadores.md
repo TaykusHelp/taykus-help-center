@@ -1,29 +1,31 @@
 # Cómo crear diferentes tipos de Jugadores
 
-Si hemos introducido una nueva categoría de cliente en el club y deseamos agregarla al programa, vamos a irnos a la columna de la izquierda a:
+Los tipos de jugador te permiten clasificar a tus clientes por categorías. Si el club tiene una categoría nueva de cliente, puedes añadirla al programa en pocos pasos.
 
-1.  Acceso a Tipos de Jugador:
+A continuación, se detallan los pasos a seguir:
 
-    * Clica sobre Jugadores en el menú de la izquierda.
-    * Selecciona Tipos de jugador, justo debajo.
+{% stepper %}
+{% step %}
+### Acceso a Tipos de jugador
 
-    <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+* Clica sobre **Jugadores** en el menú de la izquierda.
+* Selecciona **Tipos de jugador**, justo debajo.
 
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
+* En este bloque aparecen todos los tipos de jugador que ya hayas creado.
+{% endstep %}
 
-En este bloque, nos aparecerán todos los tipos de jugadores que ya hayamos creado previamente.
+{% step %}
+### Crear un nuevo tipo de jugador
 
-2.  Crear un nuevo tipo de jugador:
+* Clica en <i class="fa-plus">:plus:</i>.
+* Escribe el nombre de la nueva categoría.
 
-    * Clica en <i class="fa-plus">:plus:</i>
-    * Escribe el nombre que llevará esta nueva categoría.
+<div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
+* Guarda con <i class="fa-floppy-disk">:floppy-disk:</i>.
+{% endstep %}
+{% endstepper %}
 
-
-
-    * Guardamos :floppy\_disk:
-
-#### Nota Importante:
-
-_Es importante considerar que, al crear nuevos tipos de clientes, es común que busquemos aplicar descuentos en productos específicos, especialmente en los servicios relacionados con las reservas. Para ello habría que crear precios especializados por tipos de cliente._
+> **Importante:** al crear un nuevo tipo de cliente, lo habitual es querer aplicarle precios distintos, sobre todo en las reservas. Para ello, tendrás que crear [precios personalizados por tipo de jugador](https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/personalizacion-de-precios/personalizar-precios-por-tipo-de-jugador).
