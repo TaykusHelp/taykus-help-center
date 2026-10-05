@@ -8,7 +8,7 @@ Establecer horarios festivos permite adaptar la disponibilidad del club en días
 
 En este apartado únicamente se gestionan los horarios y la disponibilidad del club en días festivos. Aquí podrás definir qué días son festivos y en qué franjas se podrá reservar, pero los precios no se modifican desde esta sección. Si necesitas aplicar una tarifa diferente para esos días, deberás configurarla en el siguiente apartado:
 
-<a href="../precios-por-calendario/como-poner-precios-de-festivo.md" class="button primary">Cómo pones precios de festivo</a>
+<a href="../precios-por-calendario/como-poner-precios-de-festivo.md" class="button primary">Cómo poner precios de festivo</a>
 
 {% stepper %}
 {% step %}
