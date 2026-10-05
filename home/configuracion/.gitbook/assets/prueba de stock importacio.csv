@@ -1,0 +1,19 @@
+Nombre;Categoria;Precio Bruto;Tipo de Impuestos;Tipo de Producto;Marca;Tiene Stock;Stock;Stock óptimo;Código de Barras;Email Notificar Bajo Stock;Venta online;Venta en TPV;Acceso Rápido en TPV;Puede Ser Extra
+Bote de Bolas;Artículo;10;1;Equipamiento;BULLPADEL;Si;190,9998;10;;;Si;Si;Si;Si
+Overgrip;Artículo;2,5;2;Equipamiento;Wilson;Si;249;10;;;Si;Si;Si;Si
+GRIP LISO WILSON;Artículo;3;1;Equipamiento;;Si;210;10;;;No ;Si;No ;No 
+GRIP PERFORADO WILSON;Artículo;3;1;Equipamiento;;Si;250;10;;;No ;Si;No ;No 
+GRIP COLORES YPSILON;Artículo;2;1;GRIPS;;Si;200;10;;;No ;Si;No ;No 
+GRIP KUIKMA;Artículo;1,5;1;GRIPS;;Si;200;10;;;No ;Si;No ;No 
+BOLAS KUIKMA 990S;Artículo;5;1;BOLAS;;Si;200;10;;;No ;Si;No ;No 
+Pala pádel Kuikma;Artículo;99,99;1;PALAS;;No ;0;;;;No ;Si;No ;No 
+GRIP KUIKMA PERFORADO;Artículo;1,5;1;GRIPS;;No ;1;;;;No ;Si;No ;No 
+GRIP PERFORADO;Artículo;3;1;GRIPS;;Si;200;10;;;No ;Si;No ;No 
+BOLAS VIBORA;Artículo;5;1;BOLAS;;Si;200;10;;;No ;Si;No ;No 
+BOLAS BULLPADEL TOURNAMENT PRO;Artículo;5;1;BOLAS;;Si;200;10;;;No ;Si;No ;No 
+BOLAS BULLPADEL PREMIUM PRO;Artículo;6;1;BOLAS;;Si;200;10;;;No ;Si;No ;No 
+BOLAS KUIKMA CLUB;Artículo;6;1;BOLAS;;Si;200;10;;;No ;Si;No ;No 
+CAMISETA NEGRA;Artículo;10;1;TEXTIL;;No ;0;;;;No ;Si;No ;No 
+Pala Corex 18K ;Artículo;110;1;PALAS;;No ;3;;;;No ;Si;No ;No 
+Pala Nirvana 12K;Artículo;229;1;PALAS;;No ;0;;;;No ;Si;No ;No 
+Pala Cyclone 12K;Artículo;90;1;PALAS;;No ;0;;;;No ;Si;No ;No 
