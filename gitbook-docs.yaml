@@ -1,0 +1,139 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Taykus Help Center
+  structure:
+    - type: section
+      key: section-1
+      title: Home
+      path: home
+      description: ""
+      icon: house
+      default: true
+      children:
+        - type: space
+          key: space-16
+          title: Home
+          path: home
+          default: true
+          content:
+            directory: ./home
+            language: es
+        - type: space
+          key: space-1
+          title: Calendario
+          path: calendario
+          content:
+            directory: ./home/calendario
+            language: es
+        - type: space
+          key: space-15
+          title: Jugadores
+          path: jugadores
+          content:
+            directory: ./home/jugadores
+            language: es
+        - type: space
+          key: space-2
+          title: Academia
+          path: academia
+          content:
+            directory: ./home/academia
+            language: es
+        - type: space
+          key: space-14
+          title: Equipos
+          path: equipos
+          content:
+            directory: ./home/equipos
+            language: es
+        - type: space
+          key: space-3
+          title: Configuración
+          path: configuracion
+          content:
+            directory: ./home/configuracion
+            language: es
+        - type: space
+          key: space-12
+          title: Actividades
+          path: actividades
+          content:
+            directory: ./home/actividades
+            language: es
+        - type: space
+          key: space-13
+          title: TPV
+          path: tpv
+          content:
+            directory: ./home/tpv
+            language: es
+        - type: space
+          key: space-4
+          title: Ventas
+          path: ventas
+          content:
+            directory: ./home/ventas
+            language: es
+        - type: space
+          key: space-11
+          title: Marketing
+          path: marketing
+          content:
+            directory: ./home/marketing
+            language: es
+        - type: space
+          key: space-10
+          title: Pedidos
+          path: pedidos
+          content:
+            directory: ./home/pedidos
+            language: es
+        - type: space
+          key: space-9
+          title: Almacen
+          path: almacen
+          content:
+            directory: ./home/almacen
+            language: es
+        - type: space
+          key: space-8
+          title: Reportes
+          path: reportes
+          content:
+            directory: ./home/reportes
+            language: es
+        - type: space
+          key: space-6
+          title: Comunicaciones
+          path: comunicaciones
+          content:
+            directory: ./home/comunicaciones
+            language: es
+        - type: space
+          key: space-5
+          title: Veri*FACTU
+          path: veri-factu
+          content:
+            directory: ./home/veri-factu
+            language: es
+        - type: space
+          key: space-7
+          title: App Propia
+          path: app-propia
+          content:
+            directory: ./home/app-propia
+            language: es
+        - type: space
+          key: space-17
+          title: App Taykus
+          path: app-taykus
+          content:
+            directory: ./home/app-taykus
+            language: es
+        - type: space
+          key: space-18
+          title: Zona de Clientes
+          path: zona-de-clientes
+          content:
+            directory: ./home/zona-de-clientes
+            language: es
