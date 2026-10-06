@@ -4,71 +4,72 @@ icon: user-plus
 
 # Cómo añadir a un profesor nuevo
 
-Normalmente en la configuración inicial para empezar a utilizar el programa ya se incluyen las instalaciones de las que consta el centro, 3 pistas de padal, 2 pistas de tenis, 6 profesores, etc.
+Los **profesores** o **entrenadores** se crean como recursos, igual que las pistas. Así el sistema sabe cuándo están disponibles y puede asignarlos a reservas y clases sin solapes.
 
-Un recurso es aquello que los usuarios pueden reservar o lo que necesitas asignar a una actividad. Al configurarlos aquí, el sistema sabe qué está disponible, en qué horarios y cómo gestionarlo. Es la base para organizar reservas de forma ordenada y sin solapamientos.
+Normalmente los profesores ya se crean en la configuración inicial. Si necesitas añadir uno nuevo, sigue estos pasos.
 
-En este rango es donde entrarían los **profesores** o **entrenadores**.
-
-Si se necesita añadir algún nuevo **profesor** o **entrenador** solo hay que seguir estos pasos:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a la configuración
+### Acceso a Grupo de recursos
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
-* Clica en **Reservas** y directamente, se redirigirá al bloque de Grupo de Recursos.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Reservas**. Se abrirá directamente el bloque **Grupo de recursos**.
 {% endstep %}
 
 {% step %}
-### Accesos a recursos de Profesores
+### Acceso a los profesores
 
-*   Clica sobre el id de Profesores.<br>
+*   Clica sobre el **ID** de **Profesores**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
-*   Accede a recursos.<br>
+*   Abre el bloque **Recursos**.<br>
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Crear profesor nuevo
+### Crear el profesor
 
-* Clica en :heavy\_plus\_sign:
-*   Emerge una ventana que ha de cumplimentarse de la siguiente manera:<br>
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá esta ventana:<br>
 
     <figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
+#### General
 
-* #### **General:**
-  * **Nombre:** Nombre del profesor o monitor. Se recomienda añadir un número identificativo junto al nombre, ya que facilitará su búsqueda posteriormente al asignarle horarios o reservas.
-  * **Orden:** Define la posición en la que aparecerá el recurso en listados internos. Solo afecta a la organización visual dentro del sistema.
-  * **Recurso relacionado:** Permite vincular este profesor con otro recurso, por ejemplo una pista. Si se realiza una reserva con el profesor y está relacionado con una pista, ambos recursos se reservarán automáticamente.
-  * **Etiqueta:** Permite clasificar el recurso dentro de una categoría para organizar mejor la gestión interna.
-  * **Imagen:** Imagen asociada al profesor. Puede mostrarse online si el recurso está habilitado para reservas públicas.
-  * **Descripción:** Texto informativo opcional que puede utilizarse para añadir detalles sobre el profesor.
-  * **Email notificación reserva:** Dirección de correo donde se enviarán las notificaciones de reservas asociadas a este recurso.
-* #### Restricciones:
-  * **Online:** Permite que el profesor pueda reservarse desde la plataforma online.
-  * **Mostrar nombre online:** Hace visible el nombre del profesor para los clientes en la reserva online.
-  * **Mostrar en administración:** Permite que el recurso aparezca en el panel interno de gestión.
-  * **Permitir solapar reservas:** Autoriza que el profesor pueda tener reservas en el mismo horario.
-  * **Permitir solapar reservas en admin:** Permite solapamientos solo desde administración.
-  * **Máximas reservas solapadas:** Número máximo de reservas que pueden coincidir en el mismo horario.
-* #### Apariencia:
-  * **Colores:** Permiten personalizar cómo se muestra el recurso en el calendario para facilitar su identificación visual.
-* Clica en Guardar para salvar cambios.
+* **Nombre:** nombre del profesor o monitor. Te recomendamos añadir un número identificativo para encontrarlo fácilmente al asignarle horarios o reservas.
+* **Orden:** la posición en la que aparecerá en los listados internos.
+* **Recurso relacionado:** para vincular al profesor con otro recurso, por ejemplo una pista. Al reservar con el profesor, la pista también se reservará automáticamente.
+* **Etiqueta:** para clasificar el recurso en una categoría.
+* **Imagen:** foto del profesor. Puede verse online si el recurso está disponible para reservas públicas.
+* **Descripción:** texto opcional con información sobre el profesor.
+* **Email notificación reserva:** el correo al que llegarán los avisos de reservas de este profesor.
+
+#### Restricciones
+
+* **Online:** el profesor se puede reservar desde la web o la app.
+* **Mostrar nombre online:** los clientes verán su nombre al reservar online.
+* **Mostrar en administración:** el profesor aparece en el panel de gestión.
+* **Permitir solapar reservas:** el profesor puede tener varias reservas a la misma hora.
+* **Permitir solapar reservas en admin:** solo se permiten solapes desde administración.
+* **Máximas reservas solapadas:** el número máximo de reservas que pueden coincidir a la misma hora.
+
+#### Apariencia
+
+* **Colores:** cómo se verá el profesor en el calendario, para reconocerlo de un vistazo.
 {% endstep %}
 
 {% step %}
-### Asignar horario
+### Guardar
 
-Ya tenemos nuestro nuevo **Profesor** creado, pero aún no la podemos encontrar en el calendario, porque debemos darle un horario.
-
-Para ello visita el siguiente articulo:
-
-<a href="../horarios/como-asignar-un-profesor-a-un-horario.md" class="button primary">Cómo asignar un horario a un profesor</a>
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
+
+> **Importante:** el profesor todavía no aparecerá en el calendario. Antes tienes que asignarle un horario:
+
+<a href="../horarios/como-asignar-un-profesor-a-un-horario.md" class="button primary">Cómo asignar un horario a un profesor</a>

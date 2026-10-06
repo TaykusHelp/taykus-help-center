@@ -23,11 +23,16 @@ layout:
 
 # Cómo importar productos de forma masiva
 
-En este vídeo se muestra cómo realizar una importación masiva de productos en el sistema, una opción pensada para agilizar la carga de un gran volumen de artículos.
+Si el club tiene muchos productos, puedes cargarlos todos de una vez con un archivo en lugar de crearlos uno a uno.
 
-A lo largo del vídeo podrás ver el proceso completo, desde la preparación del archivo hasta su subida y correcta importación en la plataforma.
+En el vídeo se muestra el proceso completo: cómo preparar el archivo, cómo subirlo y cómo comprobar que la importación se ha hecho bien.
+
+### Plantilla para la importación
+
+Descarga la plantilla y rellénala con tus productos antes de importarla:
 
 {% file src="../../.gitbook/assets/Plantilla para importacion de productos.csv" %}
 
-{% embed url="https://youtu.be/cyUNuswH96Q" %}
+### Vídeo explicativo
 
+{% embed url="https://youtu.be/cyUNuswH96Q" %}

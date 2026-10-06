@@ -4,79 +4,77 @@ icon: circle-user-clock
 
 # Cómo asignar un profesor a un horario
 
-Los profesores se gestionan dentro del sistema como recursos, igual que las pistas o los deportes. Esto permite asignarlos a horarios y actividades para que puedan reservarse correctamente y evitar solapamientos en la planificación.
+Para que un profesor se pueda reservar, tiene que estar en un horario, igual que las pistas. Antes de asignarlo, el profesor debe estar creado como recurso. Si todavía no lo has hecho, consulta primero este artículo:
 
-Antes de poder añadir un profesor a un horario, es necesario haber creado previamente su recurso en el sistema. Si todavía no se ha hecho, consulta primero el siguiente artículo:\
 [como-anadir-a-un-profesor-nuevo.md](../grupo-de-recursos/como-anadir-a-un-profesor-nuevo.md "mention")
 
-Una vez creado el recurso, solo queda vincularlo al horario correspondiente. A continuación te explicamos cómo hacerlo:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Reservas
+### Acceso a Horarios
 
-* Dirígete a la esquina superior derecha y clica en el icono de Configuración.
-* En el desplegable que se abre, selecciona configuración.
-*   Luego accede a Reservas.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Reservas**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
+*   Clica en el bloque **Horarios**.
 
-
+    <div align="left"><figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Acceso a los horarios ya creados
+### Abrir el horario
 
-*   Localiza el bloque Horarios y haz clic.
-
-    <div align="left"><figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure></div>
-*   Haz clic sobre el id del Horario.<br>
+*   Clica sobre el **ID** del horario.<br>
 
     <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-*   Dirígete a la pestaña de **Horas de Apertura.**<br>
+*   Abre la pestaña **Horas de apertura**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Asignar horario al profesor
+### Añadir al profesor
 
-* Clica en :heavy\_plus\_sign:
-*   Se abre una ventana para cumplimentar de la siguiente manera:<br>
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá esta ventana:<br>
 
     <figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-    * **Recurso:** se busca y añade el nombre del profesor nuevo creado
-    * **Inicio:** hora de inicio de este profesor.
-    * **Fin:** hora de finalización de este profesor.
-    * **Finaliza al dia siguiente:** marca la esta casilla si este horario termina igual o mayor que las 00:00
-    * **Intervalos en minutos:** Define cada cuántos minutos se divide el calendario en bloques de tiempo disponibles para reservar. Por ejemplo, un intervalo de 30 minutos mostrará franjas de 09:00, 09:30, 10:00, 10:30, etc., sobre las que se construirán las reservas de profesores.
-    * **Duración mínima:** Indica el tiempo mínimo que debe durar una reserva de un profesor. No puede ser menor que el intervalo y tiene que ser múltiplo de este.
-    * **Duración máxima:** Indica el tiempo máximo que puede durar una reserva de un profesor. Tiene que ser múltiplo del intervalo.
-* Clica en guardar para salvar cambios.
+    * **Recurso:** busca y añade al profesor.
+    * **Inicio:** hora a la que empieza a trabajar el profesor.
+    * **Fin:** hora a la que termina.
+    * **Finaliza al día siguiente:** márcala si el horario termina a las 00:00 o más tarde.
+    * **Intervalos en minutos:** cada cuántos minutos se divide el calendario. Por ejemplo, con 30 minutos verás franjas a las 09:00, 09:30, 10:00, 10:30…
+    * **Duración mínima:** lo mínimo que puede durar una reserva con el profesor. No puede ser menor que el intervalo y debe ser múltiplo de él.
+    * **Duración máxima:** lo máximo que puede durar una reserva con el profesor. Debe ser múltiplo del intervalo.
+* Clica en **Guardar**.
 {% endstep %}
 
 {% step %}
-### Comprobar la disponibilidad del profesor en el horario
+### Comprobar que funciona
 
-* Existen dos formas de comprobar que el profesor se ha asignado correctamente al horario:
-  * **Primera:**&#x20;
-    *   Dirígete al calendario y crea una reserva que implique seleccionar un profesor.
+Hay dos formas de comprobar que el profesor está bien asignado:
 
-        <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-    *   Comprueba que el profesor aparece en el listado de recursos disponibles y que puede seleccionarse.
+**Opción 1: haciendo una reserva**
 
-        <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-    * Intenta completar la reserva. Si el sistema permite realizarla, significa que el recurso está correctamente configurado.\
-      ![](<../../../.gitbook/assets/image (22).png>)
-  * **Segunda:**
-    *   Dirígete al calendario y haz clic en la pestaña **Profesores**.<br>
+*   En el calendario, crea una reserva en la que tengas que elegir profesor.
 
-        <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-    *   Comprueba que el nombre del profesor aparece en la parrilla del calendario.
+    <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+*   Comprueba que el profesor aparece en la lista y que puedes seleccionarlo.
 
-        <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+* Intenta completar la reserva. Si el sistema te deja, el profesor está bien configurado.\
+  ![](<../../../.gitbook/assets/image (22).png>)
+
+**Opción 2: en la vista de profesores**
+
+*   En el calendario, clica en la pestaña **Profesores**.<br>
+
+    <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+*   Comprueba que el profesor aparece en la parrilla.
+
+    <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-Comprobar el horario tras asignar un profesor es un paso fundamental para asegurarse de que el recurso está disponible y puede utilizarse sin incidencias. Realizar esta verificación evita errores en reservas futuras y garantiza que la planificación del calendario funcione correctamente.

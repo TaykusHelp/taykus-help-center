@@ -1,65 +1,80 @@
 # Cómo crear un bono monedero
 
-El **bono monedero** permite a los clubes cargar saldo a un jugador para que pueda utilizarlo posteriormente en reservas, productos o servicios dentro del club.\
-Este saldo se irá descontando automáticamente cada vez que el jugador realice una compra o reserva.
+El **bono monedero** carga saldo en la cuenta del jugador para que lo gaste en reservas, productos o servicios del club. El saldo se descuenta automáticamente con cada compra o reserva.
 
-A continuación, te explicamos cómo configurarlo.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceder a la configuración de Bonos
+### Acceso a Bonos
 
-* Dirígete a la columna de la izquierda y selecciona **Configuración**.
-* Accede a **Ventas**.
-*   En la parte superior, selecciona la pestaña **Bonos**.<br>
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Ventas**.
+*   Abre la pestaña **Bonos**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Crear un nuevo bono
+### Crear el bono
 
 * Clica en :heavy\_plus\_sign:.
-*   Completa los campos de la siguiente manera
+* Se abrirá la ficha del bono:
 
-    <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    * **Logo:** Permite añadir una imagen representativa para el bono. Esta imagen se utilizará para identificarlo visualmente dentro del sistema o en la venta online.
-    * **Nombre:** Nombre del bono que verán los usuarios y el personal del club. Se recomienda utilizar un nombre claro, por ejemplo: _Monedero Club_ o _Bono Saldo 50€_.
-    * **Precio Bruto:** Precio final del bono incluyendo impuestos. Es el importe que pagará el cliente.
-    * **Precio Neto:** Precio del bono sin impuestos. El sistema lo calcula automáticamente en función del tipo de impuesto seleccionado.
-    * **Tipo de impuestos:** Permite seleccionar el impuesto que se aplicará a la venta del bono (por ejemplo, IVA correspondiente según la normativa del club).
-    * **Detalle:** Campo de descripción donde puedes añadir información adicional sobre el bono. Este texto puede utilizarse para explicar sus condiciones o funcionamiento.
-    * **Venta online:** Si esta opción está activada, el bono estará disponible para su compra a través de la web del club.
-    * **Tendencia:** Permite destacar el bono dentro de la venta online, mostrándolo como una opción recomendada o destacada.
-    * **Popular:** Marca el bono como una opción popular dentro de las opciones de compra.
-    * **Venta en TPV:** Permite vender este bono directamente desde el TPV del club.
-    * **Acceso rápido en TPV:** Si se activa, el bono aparecerá en los accesos rápidos del TPV para facilitar su venta.
-    * **Tipo de Bono:** Define la naturaleza del bono. En este caso, se selecciona **Bono Dinero**, que funciona como un monedero con saldo.
-    * **Descripción:** Permite añadir una breve explicación interna sobre el bono.
-    * **Tipo de cantidad:** Define el tipo de saldo que gestionará el bono. En los bonos monedero suele ser **Dinero**.
-    * **Cantidad a rellenar:** Cantidad de saldo que se cargará en el bono cuando se venda o se asigne a un jugador.
-    * **Días de Caducidad:** Número de días tras los cuales el bono caducará desde el momento en que se activa o se compra.
-    * **Días Validez Uso:** Define durante cuántos días se podrá utilizar el bono una vez activado.
-    * **Fecha de inicio de validez:** Permite establecer una fecha concreta a partir de la cual el bono podrá utilizarse.
+{% step %}
+### Datos generales
+
+* **Logo:** imagen para reconocer el bono en el sistema y en la venta online.
+* **Nombre:** el nombre que verán los jugadores y el personal del club. Usa un nombre claro, por ejemplo: _Monedero Club_ o _Bono Saldo 50 €_.
+* **Precio bruto:** precio final del bono, con impuestos. Es lo que paga el cliente.
+* **Precio neto:** precio sin impuestos. Se calcula automáticamente según el tipo de impuesto.
+* **Tipo de impuestos:** el impuesto que se aplica a la venta del bono.
+* **Detalle:** texto opcional para explicar las condiciones del bono.
+{% endstep %}
+
+{% step %}
+### Dónde se vende
+
+* **Venta online:** márcala para que el bono se pueda comprar en la web del club.
+* **Tendencia:** destaca el bono en la venta online como opción recomendada.
+* **Popular:** marca el bono como opción popular.
+* **Venta en TPV:** márcala para poder venderlo desde el TPV.
+* **Acceso rápido en TPV:** el bono aparecerá en los accesos rápidos del TPV.
+{% endstep %}
+
+{% step %}
+### Tipo y cantidad
+
+* **Tipo de bono:** selecciona **Bono Dinero**, que funciona como un monedero con saldo.
+* **Descripción:** texto interno opcional.
+* **Tipo de cantidad:** selecciona **Dinero**.
+* **Cantidad a rellenar:** el saldo que se carga en el bono al venderlo o asignarlo.
+{% endstep %}
+
+{% step %}
+### Validez
+
+* **Días de caducidad:** días hasta que el bono caduca, contando desde que se compra o se activa.
+* **Días validez uso:** días durante los que se puede usar el bono una vez activado.
+* **Fecha de inicio de validez:** fecha a partir de la cual se puede usar el bono.
+{% endstep %}
+
+{% step %}
+### Guardar
+
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
 
-Para poder crear el bono correctamente, es necesario completar los siguientes **campos obligatorios**:
+> **Importante:** para poder guardar el bono son obligatorios estos campos: **Nombre**, **Precio bruto**, **Tipo de impuestos**, **Tipo de bono**, **Tipo de cantidad** y **Cantidad a rellenar**.
 
-· **Nombre**\
-· **Precio Bruto**\
-· **Tipo de impuestos**\
-· **Tipo de bono**\
-· **Tipo de cantidad**\
-· **Cantidad a rellenar**
-
-Si alguno de estos campos no se completa, el sistema no permitirá guardar el bono.
-
-Una vez guardado, el bono quedará disponible en el sistema y podrá **venderse o asignarse a los jugadores desde el TPV o desde su ficha de jugador**, descontándose automáticamente a medida que se utilice.
+Una vez guardado, el bono se puede vender o asignar a los jugadores desde el TPV o desde su ficha, y el saldo se irá descontando con cada compra o reserva.

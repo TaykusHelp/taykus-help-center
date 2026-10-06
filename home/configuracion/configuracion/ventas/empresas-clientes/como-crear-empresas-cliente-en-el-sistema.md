@@ -1,37 +1,35 @@
 # Cómo crear empresas cliente en el sistema
 
-En esta sección podrás registrar las empresas cliente en el sistema, guardando sus datos para utilizarlos posteriormente en procesos de facturación, reservas y gestión administrativa.\
-Tener esta información previamente creada permite reutilizarla automáticamente cuando sea necesario, evitando introducir los datos manualmente en cada operación.
+Si algunos de tus clientes son empresas, puedes guardar sus datos en el sistema. Así podrás usarlos en facturas, reservas y gestiones sin tener que escribirlos cada vez, y evitarás errores en los documentos.
 
-Mantener las empresas cliente correctamente registradas facilita el trabajo diario y reduce errores en la documentación generada por el sistema.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Empresas clientes <a href="#acceso-a-configuracion-de-empresas" id="acceso-a-configuracion-de-empresas"></a>
+### Acceso a Empresas clientes <a href="#acceso-a-configuracion-de-empresas" id="acceso-a-configuracion-de-empresas"></a>
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
 * Clica en **Ventas**.
-*   Selecciona la pestaña **Empresas Clientes.**<br>
+*   Abre la pestaña **Empresas clientes**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Crear datos de Empresas Clientes
+### Crear la empresa cliente
 
-* Clica en :heavy\_plus\_sign:
-*   Emerge la siguiente ventana que se ha de cumplimentar con los datos que el cliente nos facilite.
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá esta ventana. Complétala con los datos que te facilite el cliente.
 
     <figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-* Clica en Guardar para finalizar
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
 
-Una vez guardada, la empresa cliente quedará registrada en el sistema y podrá seleccionarse automáticamente en futuras operaciones de facturación y gestión.\
-Podrás editar sus datos en cualquier momento si fuese necesario.
+La empresa cliente quedará registrada y podrás elegirla en futuras facturas y gestiones.
 
-Para saber cómo editar los datos, véase el siguiente artículo:\
-<a href="como-editar-los-datos-de-una-empresa-cliente.md" class="button primary">Cómo editar los datos de una empresa cliente</a><br>
+**Artículos relacionados:**
 
-Para saber cómo emitir una factura, véase el siguiente artículo:\
-<a href="https://app.gitbook.com/s/QFNRYl4MHLCMNIVqCXJJ/ventas/facturas/como-emitir-una-factura-desde-ventas-greater-than-lineas" class="button primary">Cómo emitir una factura desde Ventas > Líneas</a><br>
+<a href="como-editar-los-datos-de-una-empresa-cliente.md" class="button primary">Cómo editar los datos de una empresa cliente</a>
+
+<a href="https://app.gitbook.com/s/QFNRYl4MHLCMNIVqCXJJ/ventas/facturas/como-emitir-una-factura-desde-ventas-greater-than-lineas" class="button primary">Cómo emitir una factura desde Ventas > Líneas</a>

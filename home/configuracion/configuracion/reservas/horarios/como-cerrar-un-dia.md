@@ -4,62 +4,58 @@ icon: calendar-xmark
 
 # Cómo cerrar un día
 
-El cierre de un día completo permite bloquear todas las pistas y horarios durante una jornada específica, impidiendo que se realicen reservas en ese día. Esta opción es especialmente útil en días festivos, eventos internos del club o por motivos operativos.
+Puedes cerrar el club un día completo para que no se puedan hacer reservas en ninguna pista. Es útil en festivos, eventos internos o por cualquier otro motivo.
 
-Existen dos formas de hacerlo: desde Configuración – Reservas – Horarios o a través del Calendario. A continuación, te explicamos cómo proceder en cada caso.
+Para hacerlo se usa un horario llamado **Cerrado**, con más prioridad que el resto, al que se le añaden las fechas de cierre.
+
+> Si solo quieres cerrar **una pista** un día concreto, puedes hacerlo directamente desde el calendario: [Cómo cerrar una pista](https://app.gitbook.com/s/hSQoRJmdDmzxYVh7vpFW/calendario/calendario/como-cerrar-una-pista).
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Reservas:
+### Acceso a Horarios
 
-* Dirígete a la esquina superior derecha y clica en el icono de Configuración.
-* En el desplegable que se abre, selecciona configuración.&#x20;
-* Luego accede a Reservas.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Reservas**.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure></div>
+*   Clica en el bloque **Horarios**.<br>
 
-* Localiza el bloque Horarios y haz clic.
-
-<div align="left"><figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Crea un nuevo horario
+### Crear el horario Cerrado
 
-_**(Este Horario puede estar previamente creado, si es el caso, hay que saltarse este paso)**_
+Si ya tienes un horario **Cerrado**, salta este paso.
 
-* Se abre el siguiente menú para completar de la siguiente manera![](<../../../.gitbook/assets/image (60).png>)
-  * **Nombre:** Se le va a llamar “_Cerrado_”
-  * **Prioridad:** Hay que añadir una prioridad superior a los otros horarios, por lo tanto, es preferible ponerle “_100_” de prioridad.
-  * No se selecciona nada más y se clica en guardar.
+* Clica en :heavy\_plus\_sign:.
+* Se abrirá esta ventana:
+
+<div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure></div>
+
+* **Nombre:** _Cerrado_.
+* **Prioridad:** tiene que ser mayor que la de los demás horarios. Te recomendamos _100_.
+* No rellenes nada más y clica en **Guardar**.
 {% endstep %}
 
 {% step %}
-### Añadir fechas al horario Cerrado:
+### Añadir las fechas de cierre
 
-* Selecciona el id de horario “Cerrado”.
-* Dirígete al bloque de Excepciones.
+* Clica sobre el **ID** del horario **Cerrado**.
+* Ve al bloque **Excepciones**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure></div>
 
-
-
-* Clica en <i class="fa-plus" style="color:purple;">:plus:</i> para añadir las fechas en las que se quiere cerrar.
-* Nos dirige al siguiente menú que debemos cumplimentar de la siguiente manera:
-
-
+* Clica en <i class="fa-plus" style="color:purple;">:plus:</i>.
+* Se abrirá esta ventana:
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure></div>
 
-**o Día:** Fecha en la que se quiere cerrar.
-
-**o Todos los años**: Marcamos, solo si queremos que en esta fecha siempre se cierre.
-
-**o Tipo de excepción:** Por defecto, siempre aparece “_Incluye Fecha”,_ se deja así.
-
-* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para salvar cambios.
-
-
+* **Día:** la fecha en la que cierra el club.
+* **Todos los años:** márcala solo si el club cierra esa fecha todos los años.
+* **Tipo de excepción:** déjalo en _Incluye fecha_, que es el valor por defecto.
+* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para guardar.
 {% endstep %}
 {% endstepper %}
-

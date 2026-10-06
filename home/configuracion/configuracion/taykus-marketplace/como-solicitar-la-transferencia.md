@@ -4,53 +4,50 @@ icon: money-bill-transfer
 
 # ¿Cómo solicitar la transferencia?
 
-En este artículo te explicamos cómo solicitar el volcado de pagos y consultar la información económica del sistema de forma sencilla.
+Los pagos online que recibe el club a través de Taykus no se transfieren solos: eres tú quien pide la transferencia cuando la necesitas. Así tienes más control para revisar y cuadrar los pagos.
 
-A diferencia de otros sistemas automáticos, el volcado de pagos no se genera de manera automática, lo que te permite **solicitarlo en el momento que necesites**, teniendo un mayor control sobre la revisión, el seguimiento y la conciliación de los pagos.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
 ### Acceso a Pagos
 
-* Dirígete a la esquina superior derecha y clica en el icono de Configuración.
-* En el desplegable que se abre, selecciona configuración.
-*   Accede a Taykus MarketPlace.<br>
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Taykus MarketPlace**.<br>
 
     <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
-*   Localiza la pestaña de **Pagos** y haz clic.<br>
+*   Abre la pestaña **Pagos**.<br>
 
     <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Solicitud de transferencia
+### Solicitar la transferencia
 
-* Dirígete al bloque de **Confirmados.**
-* Haz clic en Venta para seleccionar todas las líneas de pago.
-*   Presiona <mark style="color:orange;">**Solicitar Transferencia**</mark>**.**<br>
+* Ve al bloque **Confirmados**.
+* Clica en **Venta** para seleccionar todas las líneas de pago.
+*   Pulsa <mark style="color:orange;">**Solicitar transferencia**</mark>.<br>
 
     <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-En un plazo aproximado de **dos días laborables**, la transferencia debería reflejarse en tu cuenta.
-
-Una vez hayamos solicitado la transferencia correctamente, aparecerá el siguiente mensaje:<br>
+* Aparecerá este mensaje de confirmación:
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-Para saber cómo descargar la **Auto-factura** visita el siguiente enlace:\
-[como-descargar-la-auto-factura.md](como-descargar-la-auto-factura.md "mention")<br>
+> La transferencia suele llegar a tu cuenta en unos **dos días laborables**.
 {% endstep %}
+{% endstepper %}
 
-{% step %}
-### Información de Pagos
+## Las pestañas de Pagos
 
-Cuando accedemos a la pestaña de pagos, a su vez nos encontramos cuatro pestañas más, cada una con diseñada para aportar información al usuario.
+Dentro de **Pagos** hay cuatro pestañas:
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure></div>
 
-* **Confirmados:** Pagos correspondientes a reservas ya realizadas y disponibles para ser solicitados.
-* **No confirmados:** Pagos de reservas que aún están en periodo de cancelación o pendientes de realizarse.
-* **Ya enviados:** Pagos que ya han sido transferidos con éxito.
-* **Incompletos:** Transferencias que no se han podido realizar debido a la falta de datos.
-{% endstep %}
-{% endstepper %}
+* **Confirmados:** pagos de reservas ya jugadas que puedes solicitar.
+* **No confirmados:** pagos de reservas que todavía se pueden cancelar o que aún no se han jugado.
+* **Ya enviados:** pagos que ya se han transferido.
+* **Incompletos:** transferencias que no se han podido hacer porque faltan datos.
+
+Para descargar el justificante de la transferencia, consulta:
+
+[como-descargar-la-auto-factura.md](como-descargar-la-auto-factura.md "mention")

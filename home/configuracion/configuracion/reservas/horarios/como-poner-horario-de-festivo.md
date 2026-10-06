@@ -4,64 +4,59 @@ icon: calendar-star
 
 # Cómo poner horario de festivo
 
-Establecer horarios festivos permite adaptar la disponibilidad del club en días señalados, sin modificar la planificación habitual. Con esta configuración podrás ajustar de forma puntual la apertura de las instalaciones, la oferta de horarios para reservas y la actividad de la academia durante festivos, eventos especiales o cierres excepcionales. En este artículo aprenderás paso a paso cómo crear y gestionar estos horarios para mantener siempre tu calendario alineado con la realidad del club.
+Puedes dar a los festivos un horario distinto al habitual: otra hora de apertura, otras franjas para reservar u otra actividad de la academia. La planificación del resto de días no cambia.
 
-En este apartado únicamente se gestionan los horarios y la disponibilidad del club en días festivos. Aquí podrás definir qué días son festivos y en qué franjas se podrá reservar, pero los precios no se modifican desde esta sección. Si necesitas aplicar una tarifa diferente para esos días, deberás configurarla en el siguiente apartado:
+> **Importante:** aquí solo se cambia el **horario**. Si los festivos tienen otro **precio**, configúralo aparte:
+>
+> <a href="../precios-por-calendario/como-poner-precios-de-festivo.md" class="button primary">Cómo poner precios de festivo</a>
 
-<a href="../precios-por-calendario/como-poner-precios-de-festivo.md" class="button primary">Cómo poner precios de festivo</a>
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
 ### Acceso a Horarios
 
-* Dirígete a la esquina superior derecha y clica en el icono de Configuración.
-* En el desplegable que se abre, selecciona configuración.&#x20;
-*   Luego accede a Reservas.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Reservas**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure></div>
-*   Localiza el bloque Horarios y haz clic.<br>
+*   Clica en el bloque **Horarios**.<br>
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure></div>
-
-
 {% endstep %}
 
 {% step %}
-### Crear un nuevo horario
+### Crear el horario de festivos
 
-Puedes omitir este paso si el horario que necesitas ya coincide con el que utilizas en fin de semana —o con cualquier otro día de la semana— o si ya tienes un horario festivo previamente creado. En ese caso, simplemente selecciónalo y continúa con la configuración.
+Salta este paso si ya tienes un horario de festivos, o si el festivo usará un horario que ya existe (por ejemplo, el de fin de semana).
 
-* Para crear Horario de Festivos, clica en :heavy\_plus\_sign:.
-*   Se abre el siguiente menú para completar de la siguiente manera.
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá esta ventana:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Nombre:** Se le va a llamar “_Festivo_”.
-    * **Prioridad:** Hay que añadir una prioridad superior a los otros horarios, por lo tanto, es preferible ponerle “_100_” de prioridad.
-    * No se selecciona nada más y se clica en guardar.
+    * **Nombre:** _Festivo_.
+    * **Prioridad:** tiene que ser mayor que la de los demás horarios. Te recomendamos _100_.
+    * No rellenes nada más y clica en **Guardar**.
 {% endstep %}
 
 {% step %}
-### Añadir fechas al horario
+### Añadir los días festivos
 
-En este paso se asignarán los días festivos al horario que corresponda. Si ya tiene un horario creado que encaja con ese día —por ejemplo, el de fin de semana— simplemente selecciónalo. Si se ha creado un horario específico para festivos, tendrá que añadirlos ahí.
+Añade los festivos al horario que quieras que usen: el de festivos que acabas de crear o uno que ya exista, como el de fin de semana.
 
-* Selección el id del horario en cuestión.
-*   Dirígete al bloque de Excepciones.
+* Clica sobre el **ID** del horario.
+*   Ve al bloque **Excepciones**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure></div>
-
-
-* Clica en <i class="fa-plus" style="color:purple;">:plus:</i> para añadir las fechas en las que se quiere cerrar.
-*   Nos dirige al siguiente menú que debemos cumplimentar de la siguiente manera:
-
-
+* Clica en <i class="fa-plus" style="color:purple;">:plus:</i>.
+*   Se abrirá esta ventana:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Día:** Fecha en la que se quiere cerrar.
-    * **Todos los años**: Marcamos, solo si queremos que en esta fecha siempre se cierre.
-    * **Tipo de excepción:** Por defecto, siempre aparece “_Incluye Fecha”,_ se deja así.
-* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para salvar cambios.
+    * **Día:** la fecha del festivo.
+    * **Todos los años:** márcala si el festivo se repite cada año en la misma fecha.
+    * **Tipo de excepción:** déjalo en _Incluye fecha_, que es el valor por defecto.
+* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para guardar.
 {% endstep %}
 {% endstepper %}

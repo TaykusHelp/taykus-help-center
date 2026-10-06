@@ -1,25 +1,26 @@
 # Cómo acceder al menú de configuración
 
-Acceder al menú de configuración es un proceso bastante sencillo y al cual, se va a poder acceder desde cualquier parte del programa, para ello:
+El menú de configuración está disponible desde cualquier pantalla de Taykus. Desde él se ajustan los datos del club, las reservas, las ventas, los usuarios y el resto de opciones del sistema.
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a configuración
+### Abrir el desplegable
 
-* Clica en el icono de configuración <i class="fa-gear" style="color:blue;">:gear:</i>, situado en la esquina superior derecha.
-* Se abre un desplegable.
-* Clica de nuevo en **Configuración** <i class="fa-gear" style="color:blue;">:gear:</i>
-
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
-
-*   Hecho esto, se abrirá el menú de configuración que se visualizará de la siguiente manera:<br>
-
-    <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha.
+* Se abrirá un desplegable.
 {% endstep %}
 
 {% step %}
+### Entrar en Configuración
 
+* Clica de nuevo en **Configuración** <i class="fa-gear" style="color:blue;">:gear:</i>.
 
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
+* Se abrirá el menú de configuración:
+
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

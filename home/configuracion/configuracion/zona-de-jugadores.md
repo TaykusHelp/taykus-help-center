@@ -28,15 +28,15 @@ icon: tablet-screen-button
 {% tab title="Galería" %}
 ## Cómo subir una imagen a la galería
 
-La galería de la zona de clientes permite almacenar imágenes que posteriormente pueden utilizarse en diferentes secciones de la web o insertarse en las comunicaciones enviadas desde Taykus.
+En la galería de la zona de jugadores puedes guardar imágenes para usarlas después en la web del club o en los emails que envías desde Taykus.
 
-En este artículo te mostramos cómo acceder a la galería y subir una nueva imagen.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a configuración <a href="#acceso-a-configuracion" id="acceso-a-configuracion"></a>
+### Acceso a la galería <a href="#acceso-a-configuracion" id="acceso-a-configuracion"></a>
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
 *   Clica en **Zona de jugadores**.
 
     <div align="left"><img src="https://taykus-help-center.gitbook.io/taykushelpcenter/~gitbook/image?url=https%3A%2F%2F2372912666-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FV0h7jTfpeuZY1RmPEtNK%252Fuploads%252FQTgPwRwywKVIk5TknlOF%252Fimage.png%3Falt%3Dmedia%26token%3D978afef3-8c5a-4d23-a6a5-52c7272ec869&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=7a8ef143&#x26;sv=2" alt="" width="563"></div>
@@ -50,21 +50,21 @@ En este artículo te mostramos cómo acceder a la galería y subir una nueva ima
 {% step %}
 ### Subir imagen <a href="#subir-imagen" id="subir-imagen"></a>
 
-*   Haz clic sobre el lápiz
+*   Clica en el lápiz.
 
     <div align="left"><img src="https://taykus-help-center.gitbook.io/taykushelpcenter/~gitbook/image?url=https%3A%2F%2F2372912666-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FV0h7jTfpeuZY1RmPEtNK%252Fuploads%252F9YRjuD3QUQiwID7Lu5cs%252Fimage.png%3Falt%3Dmedia%26token%3D638af4b0-1478-4efa-9dbf-18f1a50bb7eb&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=71e6c068&#x26;sv=2" alt="" width="563"></div>
-*   Selecciona sobre el rectángulo y busca la imagen en tu dispositivo o arrastra la imagen directamente sobre el.
+*   Clica en el rectángulo y busca la imagen en tu dispositivo, o arrástrala directamente encima.
 
     <div align="left"><img src="https://taykus-help-center.gitbook.io/taykushelpcenter/~gitbook/image?url=https%3A%2F%2F2372912666-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FV0h7jTfpeuZY1RmPEtNK%252Fuploads%252FAxgE1Nle1UohM3Elk8s1%252Fimage.png%3Falt%3Dmedia%26token%3D0db08e65-6810-46c8-afc9-4ceb374b8eb3&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=d19b340d&#x26;sv=2" alt="" width="563"></div>
 
-> **IMPORTANTE:** Antes de subir la imagen, comprueba que su tamaño no supera los **0,3 MiB**. Si el archivo excede este límite, no podrá cargarse en la galería.
+> **Importante:** la imagen no puede pesar más de **0,3 MiB**. Si pesa más, no se podrá subir.
 
-* Clica sobre el disquete para guardar los cambios.&#x20;
+* Clica en el disquete <i class="fa-floppy-disk" style="color:blue;">:floppy-disk:</i> para guardar.
 
 
 {% endstep %}
 {% endstepper %}
 
-Una vez completada la carga, la imagen quedará almacenada en la galería del club y estará disponible para utilizarla cuando la necesites.
+La imagen quedará guardada en la galería del club, lista para usarla cuando la necesites.
 {% endtab %}
 {% endtabs %}

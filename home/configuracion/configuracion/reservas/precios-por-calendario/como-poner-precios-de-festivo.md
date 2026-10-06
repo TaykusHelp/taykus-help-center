@@ -4,63 +4,59 @@ icon: party-horn
 
 # Cómo poner precios de festivo
 
-Configurar precios específicos para días festivos permite aplicar tarifas distintas a las habituales cuando el club opera en fechas señaladas. De este modo podrás ajustar el coste de las reservas en jornadas con mayor demanda o disponibilidad especial, manteniendo siempre una gestión de precios coherente con la realidad del calendario. En este artículo aprenderás cómo crear y asignar precios de festivo paso a paso.
+Puedes cobrar un precio distinto en los festivos, por ejemplo si hay más demanda esos días. Los precios del resto de días no cambian.
 
-En este apartado solo se gestionan las tarifas. Los precios de festivo se aplican sobre los horarios que ya tengas configurados, pero no modifican la apertura ni la disponibilidad de las pistas o actividades. Si necesitas cambiar también el horario, deberás hacerlo desde el apartado correspondiente a horarios festivos.
+> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta:
+>
+> [como-poner-horario-de-festivo.md](../horarios/como-poner-horario-de-festivo.md "mention")
 
-Para saber como accede al siguiente apartado:\
-[como-poner-horario-de-festivo.md](../horarios/como-poner-horario-de-festivo.md "mention")
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Precios por Calendario
+### Acceso a Precios por calendario
 
-* Dirígete a la esquina superior derecha y clica en el icono de **Configuración**.
-* En el desplegable que se abre, selecciona **configuración**.&#x20;
-*   Luego accede a **Reservas**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Reservas**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure></div>
-*   Localiza el bloque **Precios por Calendario** y haz clic.<br>
+*   Clica en el bloque **Precios por calendario**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Crear un nuevo horario
+### Crear el calendario de precios de festivos
 
-_**Puedes omitir este paso si el horario con las tarifas que necesitas ya coincide con el que utilizas en fin de semana —o con cualquier otro día de la semana— o si ya tienes un horario festivo previamente creado. En ese caso, simplemente selecciónalo y continúa con la configuración.**_
+Salta este paso si ya tienes uno de festivos, o si el festivo usará unos precios que ya existen (por ejemplo, los de fin de semana).
 
-* Para crear Horario de Festivos, clica en :heavy\_plus\_sign:.
-*   Se abre el siguiente menú para completar de la siguiente manera.
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá esta ventana:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Nombre:** Se le va a llamar “_Festivo_”.
-    * **Prioridad:** Hay que añadir una prioridad superior a los otros horarios, por lo tanto, es preferible ponerle “_100_” de prioridad.
-    * No se selecciona nada más y se clica en guardar.
+    * **Nombre:** _Festivo_.
+    * **Prioridad:** tiene que ser mayor que la de los demás. Te recomendamos _100_.
+    * No rellenes nada más y clica en **Guardar**.
 {% endstep %}
 
 {% step %}
-### Añadir fechas al horario
+### Añadir los días festivos
 
-En este paso se asignarán los días festivos al horario que corresponda. Si ya tiene un horario creado con las tarifas que encaja con ese día —por ejemplo, el de fin de semana— simplemente selecciónalo. Si se ha creado un horario específico para festivos, tendrá que añadirlos ahí.
+Añade los festivos al calendario de precios que quieras que usen: el de festivos o uno que ya exista, como el de fin de semana.
 
-* Selección el id del horario en cuestión.
-*   Dirígete al bloque de Excepciones.
+* Clica sobre el **ID** del calendario de precios.
+*   Ve al bloque **Excepciones**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure></div>
-
-
-* Clica en <i class="fa-plus" style="color:purple;">:plus:</i> para añadir las fechas en las que se quiere poner el precio.
-*   Nos dirige al siguiente menú que debemos cumplimentar de la siguiente manera:
-
-
+* Clica en <i class="fa-plus" style="color:purple;">:plus:</i>.
+*   Se abrirá esta ventana:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Día:** Fecha en la que se quiere cerrar.
-    * **Todos los años**: Marcamos, solo si queremos que en esta fecha siempre se cierre.
-    * **Tipo de excepción:** Por defecto, siempre aparece “_Incluye Fecha”,_ se deja así.
-* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para salvar cambios.
+    * **Día:** la fecha del festivo.
+    * **Todos los años:** márcala si el festivo se repite cada año en la misma fecha.
+    * **Tipo de excepción:** déjalo en _Incluye fecha_, que es el valor por defecto.
+* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para guardar.
 {% endstep %}
 {% endstepper %}

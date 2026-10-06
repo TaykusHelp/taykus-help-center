@@ -1,37 +1,37 @@
 # Cajas
 
-En esta sección <mark style="background-color:$danger;">**no debe realizarse ninguna modificación**</mark>, especialmente en la **Caja Online**. No se deben editar datos ni configuraciones, ya que cualquier cambio puede afectar al correcto funcionamiento del sistema y a la conciliación de cobros.
+En el apartado **Cajas** se ven las cajas del club. Desde aquí puedes crear una **caja independiente para cada usuario**, para que cada persona gestione y vea solo sus propios movimientos de efectivo.
 
-Esta área es únicamente informativa y sirve para identificar las distintas cajas del club. Desde aquí se pueden crear **cajas independientes para cada usuario**, de modo que cada persona gestione y visualice únicamente sus propios movimientos de efectivo.
+> **Importante:** en este apartado <mark style="background-color:$danger;">**no se debe modificar nada**</mark> de las cajas que ya existen, sobre todo de la **Caja Online**. Cualquier cambio puede afectar al funcionamiento del sistema y a la conciliación de cobros. Si tienes dudas, consulta al equipo de soporte.
 
-Para crear una caja independiente solo hay que seguir este proceso:
+A continuación, se detallan los pasos para crear una caja independiente:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Cajas
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
 * Clica en **Ventas**.
-*   Selecciona la pestaña **Cajas.**
+*   Abre la pestaña **Cajas**.
 
     <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-*   En esta sección nos encontraremos con dos cajas: principal y on-line. <mark style="background-color:$danger;">**NO TOCAR BAJO NINGUN CONCEPTO.**</mark> Cualquier duda, preguntar al equipo de soporte.
+*   Verás dos cajas: **Principal** y **Online**. <mark style="background-color:$danger;">**No las modifiques bajo ningún concepto.**</mark>
 
     <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Crear caja personalizada
+### Crear la caja
 
-* Clica en :heavy\_plus\_sign:
-*   Emerge una venta que ha de cumplimentarse de la siguiente manera:<br>
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá una ventana:<br>
 
     <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-    * **Nombre:** El título que se le va a dar a esta caja, si es para alguien del personal, se recomienda añadir el nombre de esta persona.
+    * **Nombre:** el nombre de la caja. Si es para alguien del personal, te recomendamos poner el nombre de esa persona.
     * **Tipo:** Local.
-    * **Hora cierre:** Selecciona la hora a la que se quiera cerrar esta caja de manera automática. Sino se completa este campo, la caja se deberá cerrar siempre de manualmente.
-    * **Importes Cierres:** Cantidad sugerida para dejar en la caja cuando se está cerrando.
-* Cluca en Guardar para salvar los cambios.
+    * **Hora cierre:** la hora a la que la caja se cerrará automáticamente. Si no la rellenas, tendrás que cerrar la caja siempre a mano.
+    * **Importes cierres:** la cantidad que se sugiere dejar en la caja al cerrarla.
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}

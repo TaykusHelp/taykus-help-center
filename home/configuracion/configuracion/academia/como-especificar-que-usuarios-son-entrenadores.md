@@ -4,28 +4,26 @@ icon: medal
 
 # Cómo especificar qué usuarios son entrenadores
 
-Para que un usuario pueda aparecer como entrenador dentro del sistema, primero debe ser marcado como tal en su ficha. Esto permite asignarle entrenamientos, incluirlo en horarios y gestionar su disponibilidad desde el calendario.\
-En este artículo verás cómo identificar a un usuario como entrenador y activar todas las funciones asociadas a ese rol.
+Para que un usuario funcione como entrenador (con entrenamientos, horarios y disponibilidad en el calendario), tienes que relacionarlo con su recurso de profesor.
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración - Academia
+### Acceso a Academias
 
-* Dirígete al menú de configuración, en la esquina superior derecha, y clica en **configuración**.
-* Accede a **Academias.**
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Academias**.
 {% endstep %}
 
 {% step %}
-### Especifica que usuarios son entrenadores
+### Relacionar al usuario con su recurso
 
-* Dentro de **academias,** se abre otro menú donde se encuentran todos los usuarios divididos en dos columnas:
-  * Nombre y Recurso
-*   Clicamos sobre recurso y en el desplegable relacionamos al usuario con el recurso.<br>
+* Verás todos los usuarios en una tabla con dos columnas: **Nombre** y **Recurso**.
+*   Clica en la columna **Recurso** del usuario y elige en el desplegable su recurso.<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure></div>
 
-
-
-**IMPORTANTE:** El recurso pueden ser tanto pistas como profesores, es importante relacionar a cada profesor con su propio recurso.
+> **Importante:** en el desplegable aparecen tanto pistas como profesores. Relaciona a cada entrenador con **su propio recurso de profesor**.
 {% endstep %}
 {% endstepper %}

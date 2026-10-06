@@ -1,41 +1,50 @@
 # Cómo crear un producto tipo Cuota
 
-Los productos de tipo cuota son aquellos que se repiten de forma periódica, como una membresía mensual, una cuota trimestral o una suscripción anual. Desde su configuración se define cada cuánto se cobran, durante cuánto tiempo están activos y qué incluyen. Crear y mantener bien estas cuotas es clave para que el sistema gestione correctamente los cobros recurrentes, las renovaciones y el acceso de los usuarios a los servicios asociados.
+Los productos de tipo **Cuota** son los que se cobran de forma periódica, como una mensualidad, una cuota trimestral o una suscripción anual. En su ficha se define cada cuánto se cobran y cómo, para que el sistema gestione los cobros recurrentes.
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Productos
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
-* Clica en **Ventas** y directamente, se redirigirá a la pestaña de **Productos**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Ventas**. Se abrirá directamente la pestaña **Productos**.
 {% endstep %}
 
 {% step %}
-### Crear producto tipo Cuota
+### Crear el producto
 
 * Clica en :heavy\_plus\_sign:.
-*   Se abre una sección que se deberá cumplimentar de la siguiente manera:
+* Se abrirá la ficha del producto:
 
-    <figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    * **Nombre:** descripción detallada del servicio.
-    * **Logo:** si queremos ponerle un logo para que sea más fácilmente reconocible desde el TPV.
-    * **Categoría:** Por defecto, siempre viene marcada como artículo, deberemos cambiarla en el desplegable a Cuota.
-    * **Tipo de producto:** En el desplegable seleccionaremos el tipo de producto previamente creado.\
-      _<mark style="background-color:blue;">**\*Nota:**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">cuando abrimos un desplegable dentro del programa, nos aparecen como máximo cinco opciones, si queremos más solo tendremos que escribir el título de la deseada</mark>_<sup><sub>_<mark style="background-color:blue;">.</mark>_<sub></sup>
-    * **Precio bruto:** el precio que va a tener de venta al público.
-    * **Tipo de impuesto:** pulsamos y aparece por defecto el 21%, pero si lo necesitamos podemos crear más.
-    * **Marca**: Si queremos dejar registrada la marca/ nombre de la cuota.
-    * **Puntos de fidelización**: El valor es la cantidad en unidad mínima de tu moneda (Ejemplo, en Euros serían céntimos, en dólares céntimos) que se recarga en un bono monedero por cada unidad de compra. Como ejemplo, si trabajas con Euro y escribes 2, el cliente se recompensará con 2 céntimos de euro por cada unidad de producto comprada
-    * **Venta online:** marcamos la casilla si queremos que se pueda adquirir a través de internet.
-    * **Venta en TPV:** para que se pueda cobrar este producto a través de la caja.
-    * **Periodicidad:** cada cuanto queremos que se cobre la cuota, seleccionamos la opción en el desplegable.
-    * **Prorratear primero:** si queremos que cuando se inscriban en la cuota se le haga un prorrateo de la mensualidad.
-    * **Facturación bancaria:** Si queremos que se domicilie el pago.
-    * **Inscripción:** si queremos poner una matrícula o precio de inscripción.
-* Clica en guardar para salvar los cambios.
+{% step %}
+### Completar los datos
 
+* **Nombre:** nombre descriptivo de la cuota.
+* **Logo:** opcional. Ayuda a reconocer el producto en el TPV.
+* **Categoría:** viene marcada como **Artículo** por defecto. Cámbiala a **Cuota**.
+* **Tipo de producto:** elige uno de los tipos de producto que ya tengas creados.
+* **Precio bruto:** precio de venta al público.
+* **Tipo de impuesto:** aparece el 21 % por defecto. Si lo necesitas, puedes crear otros.
+* **Marca:** opcional. Para dejar registrada la marca o el nombre de la cuota.
+* **Puntos de fidelización:** cantidad que se recarga en el bono monedero del cliente por cada unidad comprada, en la unidad mínima de tu moneda (en euros, céntimos). Por ejemplo, si escribes 2, el cliente recibe 2 céntimos por cada unidad que compre.
+* **Venta online:** márcala si se puede comprar por internet.
+* **Venta en TPV:** márcala para poder cobrarla desde la caja.
+* **Periodicidad:** elige en el desplegable cada cuánto se cobra la cuota.
+* **Prorratear primero:** márcala para que, al inscribirse a mitad de periodo, el primer cobro sea proporcional.
+* **Facturación bancaria:** márcala si la cuota se cobra por domiciliación.
+* **Inscripción:** para añadir una matrícula o precio de inscripción.
 
+> En los desplegables solo aparecen cinco opciones. Si no ves la que buscas, empieza a escribir su nombre.
+{% endstep %}
+
+{% step %}
+### Guardar
+
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
-

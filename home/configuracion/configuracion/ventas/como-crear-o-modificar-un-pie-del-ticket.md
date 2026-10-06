@@ -1,29 +1,29 @@
 # Cómo crear o modificar un pie del ticket
 
-En muchos casos, agregar un pie de página a un ticket de compra es útil para incluir información adicional, como términos y condiciones, promociones, agradecimientos o detalles de contacto.
+El pie del ticket es un texto que aparece al final de todos los tickets de compra. Sirve para añadir información como condiciones, promociones, un agradecimiento o los datos de contacto del club.
 
-En este artículo vamos a enseñar a cómo hacerlo en nuestro programa:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Ticket
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
 * Clica en **Ventas**.
-*   Selecciona la pestaña **Ticket.**<br>
+*   Abre la pestaña **Ticket**.<br>
 
     <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Añadir pie de ticket
+### Escribir el pie del ticket
 
 * Clica en <i class="fa-pencil" style="color:green;">:pencil:</i>.
-*   En este apartado es donde debe escribirse lo que se quiera añadir al pie del ticket<br>
+*   Escribe el texto que quieres que aparezca al pie del ticket.<br>
 
     <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-* Clica en guardar para salvar cambios.
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
 
-**IMPORTANTE:** Solo se puede añadir un pie de ticket.
+> **Importante:** solo se puede tener un pie de ticket. Para cambiarlo, edita el que ya existe.

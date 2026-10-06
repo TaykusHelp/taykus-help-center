@@ -1,45 +1,44 @@
 # Personalizar precios por tipo de jugador
 
-Algunos clubes cuentan con diferentes tipos de jugador, ya sea porque abonan una cuota que les otorga ciertos beneficios (como descuentos y precios preferenciales), o porque reciben un trato especial sin necesidad de pagar una cuota. Para simplificar el proceso de cobrar estos productos (reservas, cuotas, artículos, etc.) sin tener que modificar manualmente los precios cada vez, el sistema permite configurar estos precios especiales para que se apliquen automáticamente.
+Si el club tiene distintos tipos de jugador (por ejemplo, los que pagan una cuota con ventajas o los que tienen un trato especial), puedes fijar un precio propio para cada tipo en cualquier producto (reservas, cuotas, artículos…). El sistema lo aplicará automáticamente al cobrar.
 
-Para hacer esto, los pasos a seguir son:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Productos
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
-* Clica en **Ventas** y directamente, se redirigirá a la pestaña de **Productos**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Ventas**. Se abrirá directamente la pestaña **Productos**.
 {% endstep %}
 
 {% step %}
-### Acceso al producto
+### Abrir el producto
 
-**El siguiente paso es clave** cuando se quiere aplicar un descuento a un tipo de cliente. Especialmente en el caso de las reservas, donde existen diferentes franjas horarias como hora punta o hora valle, es fundamental identificar exactamente a qué servicio y a qué franja se va a aplicar ese descuento.
+* Busca en el listado el producto al que quieres aplicar el precio especial.
 
-* Localiza en el listado el producto en cuestión.
-*   Clica sobre el id, se redirigirá a la pestaña general del producto en cuestión.
+> **Importante:** elige bien el producto. En las reservas suele haber un servicio por franja (hora punta, hora valle…), así que asegúrate de abrir el servicio y la franja exactos a los que quieres aplicar el precio.
+
+*   Clica sobre su **ID**. Se abrirá la pestaña **General** del producto.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure></div>
-*   Selecciona la pestaña de **Precios especiales.**<br>
+*   Abre la pestaña **Precios especiales**.<br>
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Crear precio especial
+### Crear el precio especial
 
-* Clica en :heavy\_plus\_sign:
-*   Se abre una ventana que ha de cumplimentarse solo los siguientes campos:<br>
+* Clica en :heavy\_plus\_sign:.
+*   Se abrirá una ventana en la que solo tienes que completar estos campos:<br>
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Tipo de Clientes:** seleccionamos en el desplegable el tipo de cliente al que queremos darle el descuento.
-    * **Precio Bruto:** escribe con números el nuevo precio. Si se desea que salga gratis, tendría que poner el precio a cero.
-* Clica en guardar para salvar cambios.
+    * **Tipo de clientes:** elige en el desplegable el tipo de jugador.
+    * **Precio bruto:** el nuevo precio, en números. Si quieres que sea gratis, pon 0.
+* Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
 
-Si el descuento debe afectar a más de una franja o a distintos tipos de producto, este proceso deberá repetirse para cada uno de ellos, asegurando así que la tarifa reducida se aplique solo donde corresponde y evitando errores en los precios.
-
-Si se quiere establecer un precio distinto para cada número de participantes, es necesario crear una configuración por cada caso.
+> Si quieres un precio distinto para cada tipo de jugador, crea un precio especial para cada uno. Y si debe aplicarse en varias franjas o en varios productos, repite el proceso en cada uno.

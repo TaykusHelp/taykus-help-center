@@ -1,40 +1,51 @@
 # Cómo crear un producto tipo Artículo
 
-Los productos de tipo artículo son aquellos físicos que se gestionan con stock, como material deportivo, ropa o accesorios. Desde su configuración se controla cuántas unidades hay disponibles, su precio y sus movimientos de entrada y salida. Crear y mantener bien estos artículos es clave para que el sistema lleve un control de inventario correcto, evite vender sin existencias y tenga siempre actualizado el almacén.
+Los productos de tipo **Artículo** son productos físicos, como material deportivo, ropa o accesorios. Pueden llevar control de stock, para que el sistema sepa cuántas unidades quedan y avise cuando haya pocas.
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Productos
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
-* Clica en **Ventas** y directamente, se redirigirá a la pestaña de **Productos**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+* Clica en **Ventas**. Se abrirá directamente la pestaña **Productos**.
 {% endstep %}
 
 {% step %}
-### Crear producto tipo Artículo
+### Crear el producto
 
 * Clica en :heavy\_plus\_sign:.
-*   Se abre una sección que se deberá cumplimentar de la siguiente manera:
+* Se abrirá la ficha del producto:
 
-    <figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    * **Nombre:** descripción detallada del servicio.
-    * **Logo:** si queremos ponerle un logo para que sea más fácilmente reconocible desde el TPV.
-    * **Categoría:** Por defecto, siempre viene marcada como artículo, deberemos cambiarla en el desplegable a Artículo.
-    * **Tipo de producto:** En el desplegable seleccionaremos el tipo de producto previamente creado.\
-      _<mark style="background-color:blue;">**\*Nota:**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">cuando abrimos un desplegable dentro del programa, nos aparecen como máximo cinco opciones, si queremos más solo tendremos que escribir el título de la deseada</mark>_<sup><sub>_<mark style="background-color:blue;">.</mark>_<sub></sup>
-    * **Marca**: Si queremos dejar registrada la marca/ nombre de la cuota.
-    * **Precio bruto:** el precio que va a tener de venta al público.
-    * **Tipo de impuesto:** pulsamos y aparece por defecto el 21%, pero si lo necesitamos podemos crear más.
-    * **Puntos de fidelización**: El valor es la cantidad en unidad mínima de tu moneda (Ejemplo, en Euros serían céntimos, en dólares céntimos) que se recarga en un bono monedero por cada unidad de compra. Como ejemplo, si trabajas con Euro y escribes 2, el cliente se recompensará con 2 céntimos de euro por cada unidad de producto comprada
-    * **Puede ser un extra:** si marcamos esta casilla se podrá seleccionar como un suplemento.
-    * **Tiene Stock:** marcamos esta casilla si queremos que se contabilice el stock de este producto.
-    * **Stock optimo:** el stock mínimo que debe de haber.
-    * **Email notificación bajo stock:** si indicamos un correo electrónico en este apartado, nos avisará cuando esté por debajo del stock óptimo.
-    * **Venta online:** marcamos la casilla si queremos que se pueda adquirir a través de internet.
-    * **Venta en TPV:** para que se pueda cobrar este producto a través de la caja.
-* Clica en guardar para salvar los cambios.
+{% step %}
+### Completar los datos
+
+* **Nombre:** nombre descriptivo del artículo.
+* **Logo:** opcional. Ayuda a reconocer el producto en el TPV.
+* **Categoría:** viene marcada como **Artículo** por defecto. Déjala así.
+* **Tipo de producto:** elige uno de los tipos de producto que ya tengas creados.
+* **Marca:** opcional. La marca del artículo.
+* **Precio bruto:** precio de venta al público.
+* **Tipo de impuesto:** aparece el 21 % por defecto. Si lo necesitas, puedes crear otros.
+* **Puntos de fidelización:** cantidad que se recarga en el bono monedero del cliente por cada unidad comprada, en la unidad mínima de tu moneda (en euros, céntimos). Por ejemplo, si escribes 2, el cliente recibe 2 céntimos por cada unidad que compre.
+* **Puede ser un extra:** márcala para poder añadir este artículo como suplemento.
+* **Tiene stock:** márcala para llevar el control de stock del artículo.
+* **Stock óptimo:** el número mínimo de unidades que quieres tener.
+* **Email notificación bajo stock:** si escribes un correo, recibirás un aviso cuando el stock baje del óptimo.
+* **Venta online:** márcala si se puede comprar por internet.
+* **Venta en TPV:** márcala para poder cobrarlo desde la caja.
+
+> En los desplegables solo aparecen cinco opciones. Si no ves la que buscas, empieza a escribir su nombre.
+{% endstep %}
+
+{% step %}
+### Guardar
+
+* Clica en **Guardar**.
+* El artículo aparecerá en el listado de productos y en el TPV.
 {% endstep %}
 {% endstepper %}
-
-Seguidos estos pasos, ya se podrá encontrar el producto de categoría artículo en el listado y en el TPV.

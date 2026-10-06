@@ -1,14 +1,16 @@
 # Cómo crear o modificar un impuesto
 
-En este artículo se explica cómo crear y configurar el IVA en el sistema. Definir correctamente los impuestos es fundamental para que los precios se calculen de forma adecuada, las facturas sean correctas y los informes reflejen los importes reales conforme a la normativa fiscal.
+Los impuestos (IVA) se aplican a cada producto para calcular su precio neto. Tenerlos bien configurados es necesario para que los precios, las facturas y los informes sean correctos.
+
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Configuración de Ventas
+### Acceso a Impuestos
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
 * Clica en **Ventas**.
-*   Selecciona la pestaña **Impuestos.**
+*   Abre la pestaña **Impuestos**.
 
     <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -17,23 +19,21 @@ En este artículo se explica cómo crear y configurar el IVA en el sistema. Defi
 ### Crear un impuesto
 
 * Clica en :heavy\_plus\_sign:.
-*   Se abre una ventana que se deberá cumplimentar de la siguiente manera:<br>
+*   Se abrirá una ventana:<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Nombre:** el nombre que queramos ponerle al impuesto, aunque como recomendación, el nombre debería ser el porcentaje a retener.
-    * **Porcentaje:** el porcentaje de retención.
-* Clica en guardar para salvar cambios.
+    * **Nombre:** el nombre del impuesto. Te recomendamos usar el propio porcentaje (por ejemplo, 21 %).
+    * **Porcentaje:** el porcentaje del impuesto.
+* Clica en **Guardar**.
 {% endstep %}
+{% endstepper %}
 
-{% step %}
-### Modificar un impuesto
+## Modificar un impuesto
 
-* Clica en id del impuesto a cambiar.
+* Clica sobre el **ID** del impuesto que quieres cambiar.
 *   Clica en el icono de editar <i class="fa-pen" style="color:green;">:pen:</i>.<br>
 
     <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
-* Realiza los cambios.
-* Clica en guardar.
-{% endstep %}
-{% endstepper %}
+* Haz los cambios.
+* Clica en **Guardar**.

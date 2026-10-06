@@ -4,65 +4,65 @@ icon: display-chart-up-circle-dollar
 
 # Cómo poner precios al horario
 
-Configurar precios permite definir y gestionar las tarifas que se aplican a los distintos servicios del club. De este modo podrás establecer importes claros y coherentes según el tipo de reserva, su duración o condiciones, asegurando que el sistema calcule correctamente los cobros. En este artículo aprenderás cómo crear y asignar precios paso a paso.
+En **Precios por calendario** se decide qué precio tiene cada reserva según el día y la hora. Por ejemplo, puedes cobrar distinto en hora punta y en hora valle. Cada franja usa un producto de tipo **Servicio**, que es el que marca el precio.
 
-En este apartado solo se gestionan las tarifas. Los precios se aplican sobre los horarios que ya tengas configurados, pero no modifican la apertura ni la disponibilidad de las pistas o actividades. Si necesitas cambiar también el horario, deberás hacerlo desde el apartado correspondiente a horarios.
+> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta:
+>
+> [como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
 
-Para saber como accede al siguiente apartado:\
-[como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Precios por Calendario
+### Acceso a Precios por calendario
 
-* Dirígete a la esquina superior derecha y clica en el icono de **Configuración**.
-* En el desplegable que se abre, selecciona **configuración**.&#x20;
-*   Luego accede a **Reservas**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Reservas**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure></div>
-*   Localiza el bloque **Precios por Calendario** y haz clic.<br>
+*   Clica en el bloque **Precios por calendario**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Crear un nuevo horario
+### Crear el calendario de precios
 
 * Clica en :heavy\_plus\_sign:.
-*   Se abre el siguiente menú para completar de la siguiente manera.
+*   Se abrirá esta ventana:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Nombre:** Escribe el titulo del horario, es recomendable que corresponda a los días de la semana que va a abarcar.
-    * **Prioridad:** Es necesario asignar una prioridad numérica a cada precio. Se recomienda utilizar valores bajos, ya que el sistema aplica primero los precios con mayor prioridad (número más bajo). De este modo, si un precio general tiene mayor prioridad que un precio de festivo, se aplicará el primero y no el de festivo, aunque la fecha coincida.
-    * **Inicio:** Fecha en la que comienza a aplicar estos precios, si es inmediata no es necesario completar.&#x20;
-    * **Fin:** Fecha en la que finalizan estos precios, si son continuos y no hay previsión de cambio de precios, no es necesario completar.
-    * **Día de la semana:** Marca las casillas correspondiente a los días de la semana en que se va a aplicar este horario.
-* Clica en guardar para salvar cambios.
+    * **Nombre:** te recomendamos que indique los días de la semana que incluye.
+    * **Prioridad:** un número que decide qué precio manda si dos coinciden. Se aplica primero el de **número más bajo**. Por ejemplo, si un precio general tiene un número más bajo que el de festivo, se aplicará el general aunque la fecha sea festiva.
+    * **Inicio:** fecha desde la que se aplican estos precios. Si es desde ya, déjalo vacío.
+    * **Fin:** fecha hasta la que se aplican. Si no hay fecha de fin prevista, déjalo vacío.
+    * **Día de la semana:** marca los días en los que se aplican estos precios.
+* Clica en **Guardar**.
 {% endstep %}
 
 {% step %}
-### Añadir precios al horario
+### Añadir las franjas de precio
 
-En este paso se crearán las franjas horarias a las que se aplicarán los distintos precios. El sistema permite definir tramos de tiempo con tarifas diferentes dentro de un mismo día, de modo que, por ejemplo, una hora punta y una hora valle puedan tener precios distintos según el horario configurado.
+Dentro de un mismo día puedes tener varias franjas con precios distintos (por ejemplo, hora punta y hora valle).
 
-* Selección el id del horario en cuestión.
-*   Dirígete al bloque de **Precios**.
+* Clica sobre el **ID** del calendario de precios.
+*   Ve al bloque **Precios**.
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure></div>
 * Clica en :heavy\_plus\_sign:.
-*   Se abre una ventana que debemos cumplimentar de la siguiente manera:
+*   Se abrirá esta ventana:
 
     <figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-    * **Recurso:** se añaden todas las pistas o profesores a los que se vaya a aplicar este horario.
-    * **Inicio:** Hora de inicio de esta franja horaria a la que se aplicará este precio.
-    * **Fin:** Hora de fin de esta franja horaria a la que se aplicará este precio.
-    * **Finaliza al día siguiente:** marca la esta casilla si este horario termina igual o mayor que las 00:00.
-    * **Aplicar este precio en solapamientos:** En caso de solapamiento, se aplicará este precio a todo el periodo afectado, en lugar de dividir el coste entre los distintos tramos que se superponen.
-    * **Producto:** Selecciona el producto de tipo **Servicio** que se aplicará a esta franja horaria.
-* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para salvar cambios.
+    * **Recurso:** las pistas o profesores a los que se aplica el precio.
+    * **Inicio:** hora en la que empieza la franja.
+    * **Fin:** hora en la que termina la franja.
+    * **Finaliza al día siguiente:** márcala si la franja termina a las 00:00 o más tarde.
+    * **Aplicar este precio en solapamientos:** si una reserva ocupa dos franjas, se cobrará toda con este precio en lugar de repartirla entre los dos.
+    * **Producto:** el producto de tipo **Servicio** que marca el precio de esta franja.
+* Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para guardar.
 {% endstep %}
 {% endstepper %}
 
-Si existen varias franjas con precios distintos, se deberá repetir este proceso para cada una de ellas.
+> Si hay varias franjas con precios distintos, repite el último paso para cada una.
