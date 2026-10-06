@@ -12,6 +12,8 @@ Taykus trae dos horarios ya creados. Puedes modificarlos o borrarlos y crear uno
 
 {% embed url="https://youtu.be/0UDRdOUjr54" %}
 
+> **Este artículo es el paso 3 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
@@ -79,3 +81,9 @@ Aquí vas a configurar dos cosas:
 * Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}
+
+## Si algo no funciona
+
+* **La pista no aparece en el calendario:** comprueba que está añadida en **Horas de apertura** (paso 4). Crear el horario sin añadir la pista no basta.
+* **He ampliado el horario y no me deja reservar en las horas nuevas:** amplía también la franja en [precios por calendario](../precios-por-calendario/como-poner-precios-al-horario.md). El horario y los precios tienen que cubrir las mismas horas.
+* **No me deja guardar la duración:** la duración mínima y la máxima tienen que ser múltiplos del intervalo. Con un intervalo de 30 minutos puedes poner 60 o 90, pero no 45.

@@ -12,6 +12,8 @@ Los **tipos de reserva** son categorías (escuela, clase particular, partido…)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure></div>
 
+> **Este artículo es el paso 6 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
@@ -115,3 +117,7 @@ A continuación, se detallan los pasos a seguir:
 > Si el tipo de reserva ocupa dos recursos (por ejemplo, pista y profesor), repite este paso para cada uno.
 {% endstep %}
 {% endstepper %}
+
+## Si algo no funciona
+
+* **El tipo de reserva no aparece al reservar en una pista:** añade esa pista en la pestaña **Recursos** del tipo de reserva (paso 3).

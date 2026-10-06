@@ -33,6 +33,7 @@
       * [Cómo crear un bono de horas](configuracion/ventas/bonos/como-crear-un-bono-de-horas.md)
       * [Cómo crear un bono monedero](configuracion/ventas/bonos/como-crear-un-bono-monedero.md)
   * [🕒 Reservas](configuracion/reservas/README.md)
+    * [Cómo se configura una pista para reservar](configuracion/reservas/como-se-configura-una-pista-para-reservar.md)
     * [Grupo de recursos](configuracion/reservas/grupo-de-recursos/README.md)
       * [Cómo crear un recurso](configuracion/reservas/grupo-de-recursos/como-crear-un-recurso.md)
       * [Cómo añadir a un profesor nuevo](configuracion/reservas/grupo-de-recursos/como-anadir-a-un-profesor-nuevo.md)

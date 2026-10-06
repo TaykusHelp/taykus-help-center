@@ -8,6 +8,8 @@ Un **recurso** es todo lo que se puede reservar o asignar a una actividad: una p
 
 Normalmente las instalaciones del club ya se crean en la configuración inicial. Si necesitas añadir una nueva, sigue estos pasos.
 
+> **Este artículo es el pasos 1 y 2 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}

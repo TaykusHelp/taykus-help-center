@@ -1,5 +1,9 @@
 # 🕒 Reservas
 
+{% content-ref url="como-se-configura-una-pista-para-reservar.md" %}
+[como-se-configura-una-pista-para-reservar.md](como-se-configura-una-pista-para-reservar.md)
+{% endcontent-ref %}
+
 {% tabs %}
 {% tab title="Grupo de Recursos" %}
 {% content-ref url="grupo-de-recursos/como-crear-un-recurso.md" %}

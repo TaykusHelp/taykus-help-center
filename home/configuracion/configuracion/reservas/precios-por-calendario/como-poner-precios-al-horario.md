@@ -10,6 +10,8 @@ En **Precios por calendario** se decide qué precio tiene cada reserva según el
 >
 > [como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
 
+> **Este artículo es el paso 5 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
@@ -66,3 +68,9 @@ Dentro de un mismo día puedes tener varias franjas con precios distintos (por e
 {% endstepper %}
 
 > Si hay varias franjas con precios distintos, repite el último paso para cada una.
+
+## Si algo no funciona
+
+* **La reserva sale a 0 €:** revisa que la pista está añadida en la franja, que la franja cubre la hora de la reserva y, si termina a las 00:00 o más tarde, que está marcada **Finaliza al día siguiente**.
+* **He ampliado el horario de apertura y no me deja reservar en las horas nuevas:** amplía también aquí la franja de precio. El horario y los precios tienen que cubrir las mismas horas.
+* **Un festivo cobra el precio normal:** revisa que el calendario de precios de festivo tiene una prioridad más alta que el de entre semana.
