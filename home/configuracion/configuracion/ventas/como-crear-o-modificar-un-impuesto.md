@@ -23,7 +23,7 @@ A continuación, se detallan los pasos a seguir:
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Nombre:** el nombre del impuesto. Te recomendamos usar el propio porcentaje (por ejemplo, 21 %).
+    * **Nombre:** el nombre del impuesto. Te recomendamos usar el propio porcentaje, por ejemplo _21 %_ o _IVA 21 %_.
     * **Porcentaje:** el porcentaje del impuesto.
 * Clica en **Guardar**.
 {% endstep %}

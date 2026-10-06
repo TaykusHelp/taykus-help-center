@@ -36,7 +36,7 @@ A continuación, se detallan los pasos a seguir:
     <div align="left"><figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure></div>
 
     * **Nombre:** un nombre según los días que incluye (por ejemplo, _Entre semana_ o _Fin de semana_).
-    * **Prioridad:** cuál manda si dos horarios coinciden. Normalmente se da más prioridad al fin de semana: así, si quieres que un festivo entre semana funcione como un sábado, ese día usará el horario de fin de semana.
+    * **Prioridad:** cuál manda si dos horarios coinciden: gana el **número más alto**. Normalmente se da más prioridad al fin de semana que a entre semana: así, si quieres que un festivo entre semana funcione como un sábado, ese día usará el horario de fin de semana.
     * **Inicio/Fin:** fechas desde y hasta las que se aplica el horario. Si las dejas vacías, se aplica desde que lo guardas.
     * **Día de la semana:** marca los días que incluye este horario.
 * Clica en **Guardar**.

@@ -34,7 +34,7 @@ A continuación, se detallan los pasos a seguir:
     <div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure></div>
 
     * **Nombre:** te recomendamos que indique los días de la semana que incluye.
-    * **Prioridad:** un número que decide qué precio manda si dos coinciden. Se aplica primero el de **número más bajo**. Por ejemplo, si un precio general tiene un número más bajo que el de festivo, se aplicará el general aunque la fecha sea festiva.
+    * **Prioridad:** un número que decide qué precio manda si dos coinciden. Se aplica primero el de **número más alto**. Lo habitual es poner el número más bajo a entre semana, uno mayor al fin de semana (así puedes aplicar el precio de fin de semana a un día entre semana) y el más alto a festivos o cerrado.
     * **Inicio:** fecha desde la que se aplican estos precios. Si es desde ya, déjalo vacío.
     * **Fin:** fecha hasta la que se aplican. Si no hay fecha de fin prevista, déjalo vacío.
     * **Día de la semana:** marca los días en los que se aplican estos precios.

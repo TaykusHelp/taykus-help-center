@@ -1,6 +1,6 @@
 # Cómo crear o modificar una marca
 
-Las marcas sirven para agrupar los productos según su fabricante. Así es más fácil encontrarlos y después analizarlos en los informes de ventas y estadísticas.
+Las marcas son etiquetas que pones a los productos para agruparlos y filtrarlos después, por ejemplo en los informes de ventas. Lo habitual es usar el nombre del fabricante (Nike, Head…), pero puedes llamarlas como quieras.
 
 A continuación, se detallan los pasos a seguir:
 

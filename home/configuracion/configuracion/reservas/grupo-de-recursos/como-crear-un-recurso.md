@@ -30,11 +30,11 @@ Si el deporte ya existe, pasa directamente al paso 4.
 
 Estos son los campos obligatorios:
 
-* **Nombre:** el nombre del deporte. Si vas a crear profesores, elige **No Deporte**.
+* **Nombre:** el nombre del deporte.
 *   **Orden:** la posición en la que se verá en el calendario.
 
     <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
-* **Deporte:** el deporte.
+* **Deporte:** el deporte. Si vas a crear profesores, elige **No Deporte**.
 * **Categoría:** el tipo de recurso.
 * **Intervalos en minutos:** cada cuántos minutos se divide el calendario.
 * **Duración mínima:** lo mínimo que puede durar una reserva.
@@ -49,8 +49,8 @@ Estos son los campos obligatorios:
 * **Mostrar jugadores:** márcala para ver los jugadores directamente en la reserva del calendario.
 * **Discontinuado:** márcala para dejar de usar este deporte.
 * **Mostrar iniciales participantes:** márcala para que en el display salgan las iniciales en lugar del nombre completo.
-* **Máximo tiempo entre reservas online:** el espacio libre que se puede dejar entre una reserva online y otra.
-* **Espacio entre reservas en apertura/cierre:** igual que el anterior, pero teniendo en cuenta también la hora de apertura y de cierre.
+* **Máximo tiempo entre reservas online:** el hueco libre más pequeño que se permite dejar entre una reserva online y otra. Sirve para que no queden huecos tan cortos que luego nadie pueda reservarlos.
+* **Espacio entre reservas en apertura/cierre:** igual que el anterior, pero teniendo en cuenta también los huecos con la hora de apertura y de cierre.
 * **Tiempo mín. entre reservas admin:** el espacio libre mínimo entre una reserva hecha desde administración y otra.
 * **Hora inicio día:** la hora a la que empieza el día, con un número entero entre 0 y 23.
 {% endstep %}

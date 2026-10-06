@@ -12,8 +12,8 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Acceso a Usuarios
 
-* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha y entra en **Configuración**.
-*   Clica en **Usuarios**.
+* Clica en el icono <i class="fa-gear" style="color:blue;">:gear:</i> de la esquina superior derecha.
+*   En el desplegable, clica en **Usuarios**.
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}

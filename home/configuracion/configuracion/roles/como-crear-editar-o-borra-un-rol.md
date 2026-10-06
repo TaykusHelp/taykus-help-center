@@ -28,7 +28,7 @@ Verás el listado de roles y podrás abrir cada uno para ver sus permisos.
 * **Profesor:** acceso parcial a calendario, academia y jugadores.
 * **Soporte Taykus:** acceso completo, para que el equipo de soporte pueda ayudarte con dudas o incidencias.
 
-> Si no quieres que los profesores entren al programa como administradores, puedes darles una dirección de acceso solo para profesores, donde verán únicamente sus clases, alumnos y calendario. Por ejemplo: `https://mariademo.taykusdemo.com/teachers/logi`
+> Si no quieres que los profesores entren al programa como administradores, puedes darles una dirección de acceso solo para profesores, donde verán únicamente sus clases, alumnos y calendario. Por ejemplo: `https://mariademo.taykusdemo.com/teachers/login`
 
 ## Niveles de permisos
 
