@@ -1,63 +1,59 @@
 # Cómo crear un partido
 
-Con la funcionalidad de Partidos, el club puede crear partidos abiertos para que los jugadores se apunten y así cubrir huecos libres en pista de forma sencilla y automática.\
-En este artículo te explicamos cómo crear un partido paso a paso.
+Con los partidos, el club puede abrir plazas en una pista para que los jugadores se apunten. Es una forma sencilla de llenar huecos libres en el calendario.
 
-En este artículo detallaremos cómo  y los pasos a seguir:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### **Acceso a Calendario**
+### Acceso a Calendario
 
-* Dirígete a la columna de la izquierda y clica en **Calendario.**
+* Dirígete al menú lateral izquierdo y selecciona **Calendario**.
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-### **Selección de Tipo de Reserva**
+### Selección del tipo de reserva
 
-* Selecciona la pista y la hora a la que quieres crear el partido.
-* Se abre el menú de Tipos de Reserva.
-*   Elige la opción de **Partido.**
+* Clica sobre la pista y la hora en la que quieres crear el partido.
+* Se abrirá el menú de tipos de reserva.
+*   Elige **Partido**.
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### **Creación de Partido**
+### Datos del partido
 
-*   Se abre el siguiente menú para completar de la siguiente manera:<br>
+*   Se abrirá la ficha del partido:<br>
 
     <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-
-
-    * **Nivel mínimo y máximo del partido:** En este campo se puede establecer el nivel máximo y mínimo permitido en el partido. No es un campo obligatorio. En caso de que no se complete este apartado, el nivel lo determinará el primer jugador que se inscriba.
-    * **Género**: Clicando en esta opción, se abre el siguiente desplegable:
-      * **Abierto**: Se pueden apuntar a este partido cualquier persona.
-      * **Masculino**: Solo podrán inscribirse a este partido, aquellas personas que se hayan identificado con género masculino.
-      * **Femenino**: Solo podrán inscribirse a este partido, aquellas personas que se hayan identificado con género femenino.
-      * **Mixto**: Se podrán inscribir dos personas identificadas con género masculino y dos identificadas con género femenino.
-
-
+    * **Nivel mínimo y máximo:** el nivel permitido en el partido. Es opcional: si no lo completas, el nivel lo marcará el primer jugador que se apunte.
+    * **Género:** al clicar se abre un desplegable con estas opciones:
+      * **Abierto:** puede apuntarse cualquier persona.
+      * **Masculino:** solo pueden apuntarse personas identificadas con género masculino.
+      * **Femenino:** solo pueden apuntarse personas identificadas con género femenino.
+      * **Mixto:** pueden apuntarse dos personas identificadas con género masculino y dos con género femenino.
 {% endstep %}
 
 {% step %}
-### **Selección de Jugadores**
+### Añadir jugadores (opcional)
 
-Este campo no es obligatorio.
-
-* Clica en el bloque de **Participantes.**
-* Selecciona Buscar.
+* Clica en el bloque **Participantes**.
+* Selecciona **Buscar**.
 *   Escribe el nombre del jugador.<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
 
-Finalmente, haz clic en **Guardar** para confirmar.
+{% step %}
+### Guardar el partido
+
+* Clica en **Guardar** para confirmar.
+* El partido aparecerá en el calendario y los jugadores podrán apuntarse.
 {% endstep %}
 {% endstepper %}
 
-Una vez creado, el partido quedará visible en el calendario para que otros jugadores puedan inscribirse.
+> Mientras el partido no esté completo, se coloca en una pista virtual llamada **Partidos**. Te lo explicamos en [Cómo funcionan los partidos en el calendario](como-funcionan-los-partidos-en-el-calendario.md).

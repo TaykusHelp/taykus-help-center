@@ -1,31 +1,29 @@
 # Cómo crear una reserva múltiple
 
-La **reserva múltiple** permite crear varias reservas al mismo tiempo dentro del calendario.
+La **reserva múltiple** crea varias reservas a la vez. Es muy útil cuando un jugador quiere una pista fija durante un periodo (por ejemplo, todos los martes) o cuando el club necesita bloquear varias pistas para torneos, clases o eventos.
 
-Esta opción resulta especialmente útil cuando un jugador quiere reservar una pista de forma recurrente durante un periodo concreto, o cuando el club necesita bloquear varias instalaciones para torneos, clases, eventos u otras actividades.
+En una misma reserva múltiple puedes elegir varios **recursos**, **fechas**, **días** y **horarios**.
 
-Con las reservas múltiples podremos seleccionar diferentes **recursos**, **fechas**, **días** y **horarios** dentro de una misma solicitud.
-
-### Video Explicativo
+### Vídeo explicativo
 
 {% embed url="https://youtu.be/Wf7-vtLXeM0" %}
 
-En este artículo veremos cómo crear una reserva múltiple y cómo comprobar la disponibilidad antes de guardarla.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Calendario
+### Acceso a la pestaña Múltiple
 
-* Dirígete al menú lateral izquierdo y selecciona **Calendario.**
-* Selecciona el **día**, la **pista** y la **hora** sobre la que quieres iniciar la reserva.
-*   A continuación, elige el **tipo de reserva** correspondiente.<br>
+* Dirígete al menú lateral izquierdo y selecciona **Calendario**.
+* Clica sobre el **día**, la **pista** y la **hora** en la que quieres empezar la reserva.
+*   Elige el **tipo de reserva**.<br>
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-* Accede a la pestaña **Múltiple** para configurar la repetición de la reserva.
+* Abre la pestaña **Múltiple**.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt="" width="274"><figcaption></figcaption></figure></div>
 
-Dentro de la pestaña **Múltiple** se configurarán los recursos, duración y horarios que formarán parte de la reserva múltiple.
+En esta pestaña configurarás los recursos, la duración y los horarios de la reserva múltiple.
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -33,63 +31,56 @@ Dentro de la pestaña **Múltiple** se configurarán los recursos, duración y h
 {% step %}
 ### Seleccionar los recursos
 
-* Pulsa sobre el botón :heavy\_plus\_sign:\
+* Pulsa el botón :heavy\_plus\_sign:\
   ![](<../../.gitbook/assets/image (1).png>)
-* Se abrirá una ventana donde podrás seleccionar las pistas o instalaciones que quieres reservar.
+* Se abrirá una ventana para elegir las pistas o instalaciones que quieres reservar.
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-* Marca los recursos deseados y pulsa **OK** para confirmar la selección.
+* Marca los recursos y pulsa **OK**.
 {% endstep %}
 
 {% step %}
-### Indicar fecha y descripción
+### Indicar fechas y descripción
 
-*   **Indicar fechas y descripción:**
+* **Fecha de inicio:** día en el que empieza la reserva múltiple.
+* **Fecha de fin:** último día en el que se repite la reserva.
+* **Descripción:** un nombre para reconocer la reserva múltiple.
 
-    * **Fecha de inicio:** día desde el que comenzará la reserva múltiple.
-    * **Fecha de fin:** día hasta el que se repetirá la reserva.
-    * **Descripción:** texto identificativo para reconocer la reserva múltiple.
-
-    <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Seleccionar días y horarios
 
-* Selecciona la **hora** en la que quieres realizar la reserva.
-* Pulsa sobre el botón **+** para añadir esa franja horaria.
-*   Selecciona los **días de la semana** en los que quieres aplicar esa reserva.<br>
+* Elige la **hora** de la reserva.
+* Pulsa el botón **+** para añadir esa franja horaria.
+*   Marca los **días de la semana** en los que se repetirá.<br>
 
     <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
-* Repite el proceso si necesitas añadir diferentes días u horarios.
+* Repite el proceso si necesitas otros días u horarios.
 
-> **Importante:** después de seleccionar la hora, es necesario pulsar sobre el botón **+**. Si no se añade la franja horaria con este botón, aunque se seleccionen los días, el sistema no permitirá guardar correctamente la reserva múltiple.
+> **Importante:** después de elegir la hora, tienes que pulsar el botón **+**. Si no añades la franja con este botón, aunque marques los días, el sistema no dejará guardar la reserva múltiple.
 {% endstep %}
 
 {% step %}
-### Comprueba disponibilidad
+### Comprobar la disponibilidad
 
-*   Antes de guardar la reserva definitiva, deberás comprobar la disponibilidad.<br>
+*   Antes de guardar, pulsa para comprobar la disponibilidad.<br>
 
     <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-* Este paso permite revisar si los recursos seleccionados están disponibles en las fechas y horarios indicados.
-* Si alguno de los recursos no estuviera disponible, aparecerá marcado en rojo.\
+* Así verás si los recursos están libres en las fechas y horarios elegidos.
+* Los que no estén disponibles aparecerán marcados en rojo.\
   ![](<../../.gitbook/assets/image (3).png>)
 {% endstep %}
 
 {% step %}
-### Guardar la reserva Múltiple
+### Guardar la reserva múltiple
 
-* Una vez revisada la disponibilidad, podrás guardar la reserva múltiple.
-* El sistema creará las reservas correspondientes según los recursos, días y horarios configurados.
-* En caso de que alguna reserva no pueda crearse por falta de disponibilidad, deberás revisar los recursos marcados en rojo y modificar la selección si fuera necesario.
+* Cuando hayas revisado la disponibilidad, guarda la reserva múltiple.
+* El sistema creará todas las reservas según los recursos, días y horarios configurados.
+* Si alguna no se puede crear por falta de disponibilidad, revisa los recursos marcados en rojo y cambia la selección.
 {% endstep %}
 {% endstepper %}
 
-Una vez guardada, la reserva múltiple quedará registrada en el calendario.
-
-Desde el propio calendario podrás consultar las reservas creadas, revisar los recursos utilizados y gestionar la información relacionada con cada reserva siempre que sea necesario.<br>
-
-
-
+Una vez guardada, verás todas las reservas en el calendario y podrás consultarlas y gestionarlas cuando lo necesites.

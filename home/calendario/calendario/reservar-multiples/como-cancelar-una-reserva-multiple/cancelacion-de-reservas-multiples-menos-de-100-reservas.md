@@ -1,10 +1,8 @@
 # Cancelación de reservas múltiples (menos de 100 reservas)
 
-La cancelación de múltiples reservas permite gestionar de forma rápida varias reservas desde el calendario sin necesidad de hacerlo de manera individual.
+Desde el listado de reservas múltiples puedes cancelar muchas reservas de una vez, sin tener que hacerlo una a una. Cada acción permite cancelar hasta **100 reservas**.
 
-En el siguiente vídeo se muestra cómo realizar este proceso (hasta un máximo de 100 reservas por acción).
-
-### Video Explicativo
+### Vídeo explicativo
 
 {% embed url="https://youtu.be/dfZGPsTuPnk" %}
 
@@ -15,7 +13,7 @@ A continuación, se detallan los pasos a seguir:
 ### Acceso al listado de Reservas Múltiples
 
 * Dirígete al menú lateral izquierdo y selecciona **Calendario**.
-*   En el desplegable, clica sobre **Reservas Múltiples.**<br>
+*   En el desplegable, clica sobre **Reservas Múltiples**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -23,53 +21,46 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Selección de reservas
 
-* Localiza en el listado la reserva múltiple que deseas cancelar.
-* Clica sobre el id.
-* En el siguiente listado, encontraremos todas las líneas de reservas correspondientes.
-*   Clica sobre id, para hacer una selección masiva.
+* Localiza en el listado la reserva múltiple que quieres cancelar y clica sobre su **ID**.
+* Verás todas las reservas que forman parte de ella.
+*   Clica sobre **ID** en la cabecera para seleccionarlas todas.
 
     <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Cancelación de reservas
+### Tipo de anulación
 
-* Una vez seleccionadas, clica sobre el botón de **Anular.**
+* Con las reservas seleccionadas, clica en el botón **Anular**.
 *   Se desplegarán dos opciones:
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Anular reserva y deudas:** elimina la reserva y borra también la deuda.
-    * **Anular reserva manteniendo las deudas:** elimina la reserva pero conserva el pago pendiente de la pista (útil cuando un jugador cancela fuera de plazo y quieres liberar la pista pero mantener la deuda).
-* Haz clic en la opción deseada.
-* Según la que elijas, aparecerá un mensaje de confirmación.\
+    * **Anular reserva y deudas:** elimina la reserva y también la deuda.
+    * **Anular reserva manteniendo las deudas:** elimina la reserva pero conserva el pago pendiente de la pista. Es útil cuando un jugador cancela fuera de plazo y quieres liberar la pista sin perder la deuda.
+* Clica en la opción que necesites.
+* Aparecerá un mensaje de confirmación según la opción elegida.\
   ![](<../../../.gitbook/assets/image (9).png>)![](<../../../.gitbook/assets/image (10).png>)
 {% endstep %}
 
 {% step %}
-### Confirmación de la cancelación
+### Confirmación
 
-* Confirma la acción para proceder con la cancelación de las reservas seleccionadas.
+* Confirma para cancelar las reservas seleccionadas.
 {% endstep %}
 
 {% step %}
-### Resultado de la acción
+### Resultado
 
-*   Una vez realizada la acción, las reservas cambiarán su estado de **Reservada** a **Cancelada**.<br>
+*   Las reservas pasarán del estado **Reservada** a **Cancelada**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-### Importante
-
-Las reservas **no se eliminan del sistema**, únicamente cambian su estado a **Cancelada**, por lo que seguirán siendo visibles en los listados.
-
-Para evitar confusiones, es recomendable cambiar el nombre de dicha reserva a **CANCELADO.**
-
-***
+> **Importante:** las reservas **no se borran del sistema**: solo cambian a estado **Cancelada** y siguen apareciendo en los listados. Para evitar confusiones, te recomendamos cambiar el nombre de la reserva múltiple a **CANCELADO**.
 
 ### A tener en cuenta
 
-* El sistema permite cancelar un máximo de **100 reservas por acción.**
-* Si necesitas cancelar más de 100 reservas, será necesario realizar el proceso en varias acciones.
+* Puedes cancelar un máximo de **100 reservas por acción**.
+* Si necesitas cancelar más de 100, repite el proceso en varias tandas.

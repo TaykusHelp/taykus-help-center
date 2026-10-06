@@ -1,40 +1,40 @@
 # Cómo cobrar una reserva
 
-El cobro de reservas es una parte esencial en la operativa diaria de cualquier club, ya que garantiza el correcto registro de ingresos y evita descuadres en caja. Realizar este proceso de forma adecuada permite mantener el control de pagos y asegurar una gestión ordenada de las reservas.
+Cobrar las reservas desde el calendario deja cada pago registrado en el sistema y evita descuadres en la caja.
 
-En este artículo te explicamos cómo cobrar una reserva paso a paso.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceso a Calendario:
+### Acceso a Calendario
 
-*   Haz clic en **Calendario** en el menú situado a la izquierda.<br>
+*   Dirígete al menú lateral izquierdo y selecciona **Calendario**.<br>
 
     <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Selecciona la reserva
+### Selección de la reserva
 
-* Clica sobre la reserva que se quiere cobrar.
-* Selecciona al jugador o a los jugadores que van a abonar la reserva.
+* Clica sobre la reserva que quieres cobrar.
+* Selecciona al jugador o a los jugadores que van a pagar.
 *   En el menú que se abre, elige **Pagar reserva**.
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Pagar en TPV
+### Cobro en el TPV
 
-* El sistema redirige automáticamente al TPV.
-* Selecciona la forma de pago:
-  *   Efectivo / Tarjeta / Bono monedero (si aplica)
+* El sistema te llevará automáticamente al TPV.
+* Selecciona la forma de pago: efectivo, tarjeta o bono monedero (si el jugador tiene uno).
 
-      <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-*   Una vez completado el cobro, el ticket cambiará su estado a **Pagado**.
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+
+*   Al completar el cobro, el ticket pasará a estado **Pagado**.
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
-Cobrar correctamente las reservas asegura que todos los pagos queden registrados y evita errores en la gestión de caja. Verificar cada operación antes de finalizarla ayuda a mantener un control claro de los ingresos y una operativa diaria sin incidencias.
+> **Importante:** revisa el importe y la forma de pago antes de finalizar el cobro para que la caja cuadre al cierre del día.

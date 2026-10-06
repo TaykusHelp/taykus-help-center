@@ -1,65 +1,51 @@
 # Cómo actualizar el número máximo de participantes en reservas múltiples
 
-Puede haber situaciones en las que el club necesite modificar el número máximo de participantes permitido en varias reservas, por ejemplo, si cambia la configuración de una actividad, el aforo disponible o la organización de las plazas.
+Puedes cambiar el número máximo de participantes de muchas reservas a la vez, por ejemplo si cambia el aforo de una actividad o la organización de las plazas. El cambio se puede aplicar a toda la reserva múltiple o solo a unas fechas.
 
-Desde el módulo de **Reservas Múltiples**, puedes actualizar este límite de forma masiva para todas las reservas de una reserva múltiple o solo para determinadas fechas.
-
-### Video Explicativo
+### Vídeo explicativo
 
 {% embed url="https://youtu.be/zbh5PRkP59k" %}
 
-Desde aquí puedes ver el paso a paso:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Acceder a la reserva múltiple
+### Acceso a la reserva múltiple
 
-* En el menú lateral izquierdo, accede a **Calendario**.
-*   Selecciona la opción **Reservas Múltiples**.<br>
+* Dirígete al menú lateral izquierdo y selecciona **Calendario**.
+*   Clica sobre **Reservas Múltiples**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
-* Localiza la reserva múltiple que quieres modificar.
-* Haz clic sobre el **ID** de la reserva múltiple.
-
-Al acceder, se mostrará el listado de todas las reservas que forman parte de esa reserva múltiple.
+* Localiza la reserva múltiple que quieres modificar y clica sobre su **ID**.
+* Verás el listado de todas las reservas que forman parte de ella.
 
 <figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Seleccionar las reservas que quieres modificar
+### Selección de las reservas
 
-Si quieres modificar todas las reservas, selecciona todas desde el listado y accede a:
+* **Para cambiar todas las reservas:** clica sobre **ID** en la cabecera para seleccionarlas todas.
+* **Para cambiar solo una fecha o un periodo:** filtra antes por la columna **Inicio**:
+  * Clica sobre las tres líneas horizontales de la columna.
+  *   Elige **Mayor que** para cambiar las reservas a partir de una fecha.
 
-**Acciones > Cambiar hora/duración**
-
-Si solo quieres modificar reservas de una fecha concreta o de un periodo determinado, puedes usar los filtros de las columnas.
-
-#### Filtrar por fecha de inicio
-
-* Ve a la columna **Inicio**.
-* Haz clic sobre las tres líneas horizontales.
-*   Selecciona el filtro que necesites:
-
-    * **Mayor que**, si quieres modificar reservas a partir de una fecha concreta.
-
-    <figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
-
-    * **En el rango**, si quieres modificar reservas entre dos fechas determinadas.
-* Una vez filtradas las reservas, selecciona las que quieras modificar.
+      <figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+  * O elige **En el rango** para cambiar las reservas entre dos fechas.
+  * Después, selecciona las reservas filtradas.
 {% endstep %}
 
 {% step %}
 ### Actualizar el número máximo de participantes
 
-* Con las reservas seleccionadas, haz clic en **Acciones**.
-*   Selecciona **Actualizar número máximo de participantes.**<br>
+* Con las reservas seleccionadas, clica en **Acciones**.
+*   Selecciona **Actualizar número máximo de participantes**.<br>
 
     <div align="left"><figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure></div>
-*   En la ventana que se abre, selecciona la pista o recurso al que quieres mover las reservas.<br>
+*   En la ventana que se abre, indica el nuevo número máximo de participantes.<br>
 
     <figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-* Haz clic en **OK**.
+* Clica en **OK**.
 {% endstep %}
 {% endstepper %}
 

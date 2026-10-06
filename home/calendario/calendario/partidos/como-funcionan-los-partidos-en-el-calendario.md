@@ -1,41 +1,19 @@
 # Cómo funcionan los partidos en el calendario
 
-Cuando se crea un partido abierto, el sistema no ocupa automáticamente una pista real. Esto se debe a que el partido puede no estar completo en el momento de su creación.
+Cuando creas un partido abierto, no ocupa una pista real hasta que está completo. Así el club no pierde disponibilidad por partidos que todavía no tienen todos los jugadores.
 
-A continuación, te explicamos cómo funciona internamente.
-
-***
-
-### ¿Qué es la pista virtual “Partidos”?
+## La pista virtual "Partidos"
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-Al crear un partido abierto, este se ubica inicialmente en una pista virtual llamada **Partidos**.
+Al crear un partido abierto, se coloca primero en una pista virtual llamada **Partidos**. No es una pista física del club: es un espacio temporal donde el partido espera mientras se apuntan los jugadores.
 
-Esta pista no corresponde a una pista física del club, sino que sirve como espacio temporal mientras el partido se completa con los jugadores necesarios.
+## Cuando el partido se completa
 
-***
+En cuanto el partido tiene todos los jugadores, el sistema lo pasa automáticamente a una pista real que esté libre en esa franja horaria.
 
-### ¿Por qué no ocupa una pista real desde el principio?
+## Si las pistas reales se llenan antes
 
-El sistema evita bloquear pistas reales mientras el partido no esté completo.
+Si todas las pistas reales de esa franja se ocupan y el partido sigue incompleto, el sistema lo anula automáticamente. Así se evitan solapes en el calendario.
 
-De esta forma, el club no pierde disponibilidad en su calendario por partidos que aún no tienen todos los participantes confirmados.
-
-***
-
-### ¿Qué ocurre cuando el partido se completa?
-
-Una vez que el partido alcanza el número necesario de jugadores, el sistema lo asignará automáticamente a una pista real disponible en esa franja horaria.
-
-***
-
-### ¿Qué ocurre si las pistas reales se completan antes?
-
-Si durante esa misma franja horaria se ocupan todas las pistas reales y el partido abierto sigue incompleto, el sistema lo anulará automáticamente.
-
-Esto evita sobreocupaciones o conflictos en el calendario.
-
-***
-
-Con este funcionamiento, el club puede fomentar la creación de partidos sin comprometer la disponibilidad real de sus instalaciones.
+Gracias a este funcionamiento, el club puede animar a crear partidos sin comprometer la disponibilidad real de sus pistas.
