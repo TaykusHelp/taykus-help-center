@@ -10,8 +10,6 @@ En **Precios por calendario** se decide qué precio tiene cada reserva según el
 >
 > [como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
 
-> **Este artículo es el paso 5 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
-
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}

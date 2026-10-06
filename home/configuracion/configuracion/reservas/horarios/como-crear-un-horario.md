@@ -12,8 +12,6 @@ Taykus trae dos horarios ya creados. Puedes modificarlos o borrarlos y crear uno
 
 {% embed url="https://youtu.be/0UDRdOUjr54" %}
 
-> **Este artículo es el paso 3 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../como-se-configura-una-pista-para-reservar.md)
-
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}

@@ -8,6 +8,8 @@ Los **profesores** o **entrenadores** se crean como recursos, igual que las pist
 
 Normalmente los profesores ya se crean en la configuración inicial. Si necesitas añadir uno nuevo, sigue estos pasos.
 
+> **Importante: crear el profesor no es suficiente.** Después de crearlo aquí, **no aparecerá en el calendario** hasta que le asignes un horario. Es el paso que más se olvida: en cuanto termines este artículo, sigue con [Cómo asignar un profesor a un horario](../horarios/como-asignar-un-profesor-a-un-horario.md).
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
@@ -70,6 +72,6 @@ A continuación, se detallan los pasos a seguir:
 {% endstep %}
 {% endstepper %}
 
-> **Importante:** el profesor todavía no aparecerá en el calendario. Antes tienes que asignarle un horario:
+> **No te olvides:** el profesor todavía **no aparece en el calendario**. Ahora tienes que asignarle un horario:
 
 <a href="../horarios/como-asignar-un-profesor-a-un-horario.md" class="button primary">Cómo asignar un horario a un profesor</a>

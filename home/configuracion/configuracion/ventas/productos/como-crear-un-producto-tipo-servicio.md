@@ -2,8 +2,6 @@
 
 Los productos de tipo **Servicio** son los que tienen una duración, como una reserva de pádel, una clase o una sesión. En su ficha se define cuánto duran, cuánto cuestan y cómo se venden, y el sistema los usa para calcular la disponibilidad y el precio de las reservas.
 
-> **Este artículo es el paso 4 de 6** para que una pista se pueda reservar. Ver la lista completa: [Cómo se configura una pista para reservar](../../reservas/como-se-configura-una-pista-para-reservar.md)
-
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
