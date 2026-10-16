@@ -25,18 +25,19 @@ Los códigos promocionales permiten aplicar descuentos de forma rápida y contro
 * Clica en :heavy\_plus\_sign:
 *   Se abre una sección que se deberá cumplimentar de la siguiente manera:
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/anadir-promocion.png" alt=""><figcaption></figcaption></figure>
 
     * **Nombre:** Nombre interno de la promoción para identificarla en el sistema. Se recomienda usar un nombre claro que permita reconocer fácilmente el código.
-    * **Cantidad:** Número de códigos que se generarán. Para crear un código promocional este valor debe ser **1 y únicamente 1**. No debe modificarse. Si se quiere limitar su uso, debe hacerse desde los campos de límites de uso, no aumentando esta cantidad.
+    * **Cantidad:** Número de veces que se podrá usar el código, con un máximo de **1000**. Por ejemplo, si escribes 50, el sistema crea el mismo código 50 veces y podrá utilizarse 50 veces en total.
     * **Tipo de descuento:** Define cómo se aplicará el descuento. Puede ser en **dinero** (importe fijo) o en **porcentaje** sobre el precio.
     * **Descuento:** Valor del descuento que se aplicará según el tipo seleccionado.
-    * **Fecha de inicio:** Fecha a partir de la cual el código estará activo y podrá utilizarse.
-    * **Fecha final:** Fecha límite de validez del código. A partir de ese día dejará de funcionar automáticamente.
-    * **Empieza por:** Permite definir un prefijo automático para mantener una nomenclatura concreta en los códigos.
-    * **Texto exacto:** Código promocional que deberá introducir el cliente. Es el texto que se compartirá públicamente.
-    * **Máximo número de usos:** Límite total de veces que el código puede utilizarse entre todos los clientes.
-    * **Usos máximos en venta:** Número máximo de veces que un mismo cliente puede usar el código en una misma compra.
+    * **Fecha de inicio:** Fecha a partir de la cual el código estará activo. Si se deja vacía, el código estará activo desde el momento en que se guarde.
+    * **Fecha final:** Fecha límite de validez del código. A partir de ese día dejará de funcionar automáticamente. Si se deja vacía, el código no caduca.
+    * **Empieza por:** Prefijo con el que empezarán los códigos que genere el sistema automáticamente (por ejemplo, `VER-`).
+    * **Texto exacto:** Código fijo que eliges tú y que deberá introducir el cliente (por ejemplo, `VERANO10`). Es el texto que se compartirá públicamente.
+
+    > **Importante:** Rellena solo uno de los dos campos: **Empieza por** o **Texto exacto**.
+* Clica en **Guardar**.
 {% endstep %}
 
 {% step %}
@@ -57,3 +58,5 @@ Los códigos promocionales permiten aplicar descuentos de forma rápida y contro
 {% endstepper %}
 
 Crear y verificar un código promocional correctamente garantiza que los descuentos se apliquen sin errores y evita incidencias en caja o en reservas online. Recomendamos siempre probar el código antes de compartirlo con los clientes para asegurarse de que funciona según lo previsto.
+
+Si quieres que el descuento solo se aplique a algunos productos, consulta [Cómo limitar un código promocional a ciertos productos](como-limitar-un-codigo-promocional-a-ciertos-productos.md).

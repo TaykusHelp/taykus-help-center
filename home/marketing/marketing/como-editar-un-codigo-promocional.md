@@ -30,7 +30,7 @@ En este artículo te explicamos cómo editar un código promocional paso a paso.
 
         * **Nombre:** nombre de la promoción. Puede editarse en cualquier momento.
         * **Usos:** número total de veces que el código ha sido utilizado.
-        * **Códigos totales:** cantidad de códigos creados dentro de la promoción. En promociones simples normalmente será 1.
+        * **Códigos totales:** cantidad de códigos creados dentro de la promoción. Coincide con la **Cantidad** indicada al crearla, es decir, con el número de veces que se puede usar el código.
 
         En la parte inferior aparece el listado de **Códigos promocionales** asociados a la promoción.
 {% endstep %}
@@ -47,3 +47,5 @@ En este artículo te explicamos cómo editar un código promocional paso a paso.
 {% endstepper %}
 
 Editar un código promocional permite adaptar campañas activas sin necesidad de crear promociones nuevas. Revisar periódicamente sus parámetros ayuda a mantener el control de descuentos y evitar errores en su aplicación.
+
+Si quieres que el descuento solo se aplique a algunos productos, consulta [Cómo limitar un código promocional a ciertos productos](como-limitar-un-codigo-promocional-a-ciertos-productos.md).
