@@ -26,7 +26,7 @@ A continuación, se detallan los pasos a seguir:
 * Clica sobre el id de la promoción que quieres limitar.
 *   Se abrirá el detalle de la promoción con sus códigos promocionales:<br>
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/detalle-promocion.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -42,6 +42,17 @@ A continuación, se detallan los pasos a seguir:
 * Clica en **Guardar**.
 * Repite estos pasos con cada producto que quieras añadir.
 {% endstep %}
+
+{% step %}
+### Copiar los productos de otra promoción (opcional)
+
+Si ya tienes otra promoción con los mismos productos permitidos, puedes copiarlos en lugar de añadirlos uno a uno. Encima de **Productos Permitidos** hay dos botones:
+
+* **Copiar productos a…:** úsalo cuando estés en la promoción que ya tiene los productos y quieras copiarlos a otra. Por ejemplo, desde una promoción antigua a una nueva.
+* **Copiar productos desde…:** úsalo cuando estés en la promoción nueva y quieras traer los productos de otra. Por ejemplo, desde una promoción antigua.
+{% endstep %}
 {% endstepper %}
+
+> **Importante:** Si no añades ningún producto, el código se aplica a todos los productos.
 
 Una vez añadidos los productos, el descuento solo se aplicará a los productos de la lista. Recomendamos probar el código con un producto permitido y con uno que no lo esté antes de compartirlo con los clientes.

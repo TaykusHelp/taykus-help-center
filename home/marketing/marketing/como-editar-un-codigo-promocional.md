@@ -24,7 +24,7 @@ En este artículo te explicamos cómo editar un código promocional paso a paso.
 * Clica sobre el id del código que se quiere editar.
 *   Nos redirige a esta sección que se muestra en la imagen:<br>
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/detalle-promocion.png" alt=""><figcaption></figcaption></figure>
 
     *   En la parte superior, dentro del apartado **General**, se muestra un resumen del estado de la promoción:
 
