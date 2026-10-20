@@ -56,7 +56,7 @@ Acceder al portal de Apple Developer
 
 #### Número D-U-N-S
 
-* El número **D-U-N-S** es un identificador único de empresa que Google puede solicitar para verificar la organización.
+* El número **D-U-N-S** es un identificador único de empresa que Apple puede solicitar para verificar la organización.
 * Si la empresa o entidad aún no dispone de este número, será necesario solicitarlo antes de continuar con la configuración de la cuenta, haciendo clic en el siguiente botón:\
   <a href="https://cloud.email.informa.es/numero-duns" class="button primary">Solicitar número D-U-N-S</a>
 * Existen dos opciones disponibles:
