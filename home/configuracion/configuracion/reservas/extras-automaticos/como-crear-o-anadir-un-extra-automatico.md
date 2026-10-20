@@ -6,9 +6,9 @@ icon: lightbulb-dollar
 
 Un **extra automático** es un suplemento que se suma solo al precio de la reserva en determinadas condiciones. Por ejemplo, cobrar la luz aparte a partir de cierta hora o en ciertas fechas.
 
-> **Antes de empezar:** el extra tiene que existir como producto de tipo Servicio. Si todavía no lo has creado, consulta:
+> **Antes de empezar:** el extra tiene que existir como producto de tipo Servicio. Si todavía no lo has creado, consulta este artículo:
 >
-> [como-crear-un-producto-tipo-servicio.md](../../ventas/productos/como-crear-un-producto-tipo-servicio.md "mention")
+> <a href="../../ventas/productos/como-crear-un-producto-tipo-servicio.md" class="button primary">Cómo crear un producto tipo Servicio</a>
 
 A continuación, se detallan los pasos a seguir:
 

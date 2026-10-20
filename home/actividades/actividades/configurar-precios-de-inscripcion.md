@@ -39,11 +39,11 @@ Cuando una actividad permite inscribirse en **más de una categoría**, es neces
 Para ello, previamente deberán existir:
 
 * Las **categorías creadas** dentro de la actividad. \
-  _&#x50;ara saber como, sigue el siguiente enlace:_\
-  [como-crear-categorias.md](como-crear-categorias.md "mention")
+  Para saber cómo, consulta este artículo:\
+  <a href="como-crear-categorias.md" class="button primary">Cómo crear categorias</a>
 * Los **productos de tipo artículo** con los precios correspondientes.\
-  Para saber como crearlos, haz clic en el siguiente enlace:\
-  [Cómo crear un producto tipo Artículo](https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo "mention")
+  Para saber cómo crearlos, consulta este artículo:\
+  <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo" class="button primary">Cómo crear un producto tipo Artículo</a>
 
 Una vez creados, desde esta sección podrás asociar cada precio a su correspondiente opción de inscripción.
 {% endstep %}

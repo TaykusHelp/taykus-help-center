@@ -35,8 +35,8 @@ A continuación, se explica cómo realizar una venta con un producto abierto:
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-* Si necesitas hacer alguna modificación específica para este cliente, puedes **Personalizar la recarga,** para saber como haz clic en el siguiente enlace:\
-  [como-hacer-una-recarga-personalizada-de-un-bono-monedero-desde-el-tpv.md](como-hacer-una-recarga-personalizada-de-un-bono-monedero-desde-el-tpv.md "mention")<br>
+* Si necesitas hacer alguna modificación específica para este cliente, puedes **Personalizar la recarga,** para saber cómo, consulta este artículo:\
+  <a href="como-hacer-una-recarga-personalizada-de-un-bono-monedero-desde-el-tpv.md" class="button primary">Cómo hacer una recarga personalizada de un bono monedero desde el TPV</a><br>
 {% endstep %}
 
 {% step %}

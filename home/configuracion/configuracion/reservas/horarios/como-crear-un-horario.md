@@ -83,5 +83,7 @@ Aquí vas a configurar dos cosas:
 ## Si algo no funciona
 
 * **La pista no aparece en el calendario:** comprueba que está añadida en **Horas de apertura** (paso 4). Crear el horario sin añadir la pista no basta.
-* **He ampliado el horario y no me deja reservar en las horas nuevas:** amplía también la franja en [precios por calendario](../precios-por-calendario/como-poner-precios-al-horario.md). El horario y los precios tienen que cubrir las mismas horas.
+* **He ampliado el horario y no me deja reservar en las horas nuevas:** amplía también la franja en precios por calendario. El horario y los precios tienen que cubrir las mismas horas. Para hacerlo, consulta este artículo:
+
+  <a href="../precios-por-calendario/como-poner-precios-al-horario.md" class="button primary">Cómo poner precios al horario</a>
 * **No me deja guardar la duración:** la duración mínima y la máxima tienen que ser múltiplos del intervalo. Con un intervalo de 30 minutos puedes poner 60 o 90, pero no 45.

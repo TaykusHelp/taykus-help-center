@@ -31,7 +31,9 @@ A continuación, se detallan los pasos a seguir:
     * **Email:** el correo con el que entrará en Taykus.
     * **Contraseña:** su contraseña de acceso.
     * **Lenguaje preferido:** el idioma en el que verá el programa.
-    * **Rol:** los permisos que tendrá. Para saber cómo crear o editar un rol, consulta [como-crear-editar-o-borra-un-rol.md](../roles/como-crear-editar-o-borra-un-rol.md "mention").
+    * **Rol:** los permisos que tendrá. Para saber cómo crear o editar un rol, consulta este artículo:
+
+      <a href="../roles/como-crear-editar-o-borra-un-rol.md" class="button primary">Cómo crear, editar o borrar un rol</a>
     * **Página de inicio:** la pantalla que verá al entrar en el programa.
 * Clica en **Guardar**.
 {% endstep %}

@@ -8,7 +8,9 @@ Puedes cerrar el club un día completo para que no se puedan hacer reservas en n
 
 Para hacerlo se usa un horario llamado **Cerrado**, con más prioridad que el resto, al que se le añaden las fechas de cierre.
 
-> Si solo quieres cerrar **una pista** un día concreto, puedes hacerlo directamente desde el calendario: [Cómo cerrar una pista](https://app.gitbook.com/s/hSQoRJmdDmzxYVh7vpFW/calendario/calendario/como-cerrar-una-pista).
+> Si solo quieres cerrar **una pista** un día concreto, puedes hacerlo directamente desde el calendario. Para saber cómo, consulta este artículo:
+>
+> <a href="https://app.gitbook.com/s/hSQoRJmdDmzxYVh7vpFW/calendario/calendario/como-cerrar-una-pista" class="button primary">Cómo cerrar una pista</a>
 
 A continuación, se detallan los pasos a seguir:
 

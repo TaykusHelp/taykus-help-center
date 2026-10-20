@@ -34,7 +34,8 @@ En este artículo te enseñamos cómo configurarlas.
 * **Descripción:** Espacio para añadir una explicación adicional.
 * **Deporte:** se abre un desplegable donde se selecciona el deporte.
 * **Producto:** Selecciona un producto, **de categoría: ARTÍCULO,** previamente creado. Este es el precio que se le asignará a este curso.
-  * _Para crear productos tipo Artículo, véase el siguiente artículo:_ [Cómo crear un producto tipo Artículo](https://taykus-help-center.gitbook.io/taykushelpcenter/configuracion/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo)
+  * Para crear productos tipo Artículo, consulta este artículo:\
+    <a href="https://taykus-help-center.gitbook.io/taykushelpcenter/configuracion/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo" class="button primary">Cómo crear un producto tipo Artículo</a>
 * **Comentarios:** espacio para añadir alguna anotación interna.
 * **Participantes:** Define el número de personas que podrán rellenar el formulario.
 * **Inicio:** Fecha de comienzo del curso/escuela/academia.

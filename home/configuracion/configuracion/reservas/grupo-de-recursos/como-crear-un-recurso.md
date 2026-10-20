@@ -76,4 +76,4 @@ Estos son los campos obligatorios:
 
 > **Importante:** la pista todavía no aparecerá en el calendario. Antes tienes que darle un horario:
 
-[como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
+<a href="../horarios/como-crear-un-horario.md" class="button primary">Cómo crear un horario</a>

@@ -11,7 +11,7 @@ Autorizar a Taykus en la Agencia Tributaria es un paso obligatorio para que el s
 ### Acceso a la sede Electrónica de la Agencia Tributaria
 
 * Clica en el siguiente enlace para acceder.\
-  [https://sede.agenciatributaria.gob.es/Sede/procedimientoini/ZP01.shtml](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/ZP01.shtml)
+  <a href="https://sede.agenciatributaria.gob.es/Sede/procedimientoini/ZP01.shtml" class="button primary">Ir a la sede de la Agencia Tributaria</a>
 {% endstep %}
 
 {% step %}

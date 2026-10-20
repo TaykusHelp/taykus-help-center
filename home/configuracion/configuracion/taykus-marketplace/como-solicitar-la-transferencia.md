@@ -48,6 +48,6 @@ Dentro de **Pagos** hay cuatro pestañas:
 * **Ya enviados:** pagos que ya se han transferido.
 * **Incompletos:** transferencias que no se han podido hacer porque faltan datos.
 
-Para descargar el justificante de la transferencia, consulta:
+Para descargar el justificante de la transferencia, consulta este artículo:
 
-[como-descargar-la-auto-factura.md](como-descargar-la-auto-factura.md "mention")
+<a href="como-descargar-la-auto-factura.md" class="button primary">¿Cómo descargar la auto-factura?</a>

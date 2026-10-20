@@ -48,4 +48,6 @@ En este artículo te explicamos cómo editar un código promocional paso a paso.
 
 Editar un código promocional permite adaptar campañas activas sin necesidad de crear promociones nuevas. Revisar periódicamente sus parámetros ayuda a mantener el control de descuentos y evitar errores en su aplicación.
 
-Si quieres que el descuento solo se aplique a algunos productos, consulta [Cómo limitar un código promocional a ciertos productos](como-limitar-un-codigo-promocional-a-ciertos-productos.md).
+Si quieres que el descuento solo se aplique a algunos productos, consulta este artículo:
+
+<a href="como-limitar-un-codigo-promocional-a-ciertos-productos.md" class="button primary">Cómo limitar un código promocional a ciertos productos</a>

@@ -6,9 +6,9 @@ icon: party-horn
 
 Puedes cobrar un precio distinto en los festivos, por ejemplo si hay más demanda esos días. Los precios del resto de días no cambian.
 
-> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta:
+> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta este artículo:
 >
-> [como-poner-horario-de-festivo.md](../horarios/como-poner-horario-de-festivo.md "mention")
+> <a href="../horarios/como-poner-horario-de-festivo.md" class="button primary">Cómo poner horario de festivo</a>
 
 A continuación, se detallan los pasos a seguir:
 

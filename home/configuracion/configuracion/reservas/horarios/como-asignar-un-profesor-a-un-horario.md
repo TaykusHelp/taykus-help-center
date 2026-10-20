@@ -6,7 +6,7 @@ icon: circle-user-clock
 
 Para que un profesor se pueda reservar, tiene que estar en un horario, igual que las pistas. Antes de asignarlo, el profesor debe estar creado como recurso. Si todavía no lo has hecho, consulta primero este artículo:
 
-[como-anadir-a-un-profesor-nuevo.md](../grupo-de-recursos/como-anadir-a-un-profesor-nuevo.md "mention")
+<a href="../grupo-de-recursos/como-anadir-a-un-profesor-nuevo.md" class="button primary">Cómo añadir a un profesor nuevo</a>
 
 A continuación, se detallan los pasos a seguir:
 

@@ -28,4 +28,6 @@ A continuación, se detallan los pasos a seguir:
 {% endstep %}
 {% endstepper %}
 
-> **Importante:** al crear un nuevo tipo de cliente, lo habitual es querer aplicarle precios distintos, sobre todo en las reservas. Para ello, tendrás que crear [precios personalizados por tipo de jugador](https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/personalizacion-de-precios/personalizar-precios-por-tipo-de-jugador).
+> **Importante:** al crear un nuevo tipo de cliente, lo habitual es querer aplicarle precios distintos, sobre todo en las reservas. Para ello, tendrás que crear precios personalizados por tipo de jugador. Para saber cómo, consulta este artículo:
+>
+> <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/personalizacion-de-precios/personalizar-precios-por-tipo-de-jugador" class="button primary">Personalizar precios por tipo de jugador</a>

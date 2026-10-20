@@ -11,8 +11,8 @@ La primera opción consiste en acceder al listado de peticiones de stock, ingres
 bloque de entrada y agregar las nuevas cantidades para cada artículo. Este método\
 es ideal para actualizar varios productos al mismo tiempo de forma rápida y sencilla.
 
-Para saber cómo, léase el siguiente artículo:\
-[como-crear-una-peticion-de-stock.md](como-crear-una-peticion-de-stock.md "mention")
+Para saber cómo, consulta este artículo:\
+<a href="como-crear-una-peticion-de-stock.md" class="button primary">Cómo crear una petición de stock</a>
 
 Sin embargo, si solo necesitas añadir stock a un único artículo, lo más conveniente es\
 optar por la segunda opción, pensada específicamente para gestionar entradas\

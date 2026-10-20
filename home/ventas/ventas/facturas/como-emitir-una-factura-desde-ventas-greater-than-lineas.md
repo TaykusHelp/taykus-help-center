@@ -21,10 +21,11 @@ Antes de emitir la factura, revisa que estén creados estos datos en:
 * **Configuración > Ventas > Empresas**
 * **Configuración > Ventas > Empresas clientes**
 
-Para saber como hacerlo puedes consultar los siguientes artículos:
+Para saber cómo hacerlo, consulta estos artículos:
 
-* [Cómo configurar los datos de empresa](https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas/como-configurar-los-datos-de-empresa "mention")
-* [Cómo crear empresas cliente en el sistema](https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas-clientes/como-crear-empresas-cliente-en-el-sistema "mention")
+<a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas/como-configurar-los-datos-de-empresa" class="button primary">Cómo configurar los datos de empresa</a>
+
+<a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas-clientes/como-crear-empresas-cliente-en-el-sistema" class="button primary">Cómo crear empresas cliente en el sistema</a>
 
 {% stepper %}
 {% step %}

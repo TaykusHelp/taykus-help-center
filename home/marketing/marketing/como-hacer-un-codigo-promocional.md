@@ -59,4 +59,6 @@ Los códigos promocionales permiten aplicar descuentos de forma rápida y contro
 
 Crear y verificar un código promocional correctamente garantiza que los descuentos se apliquen sin errores y evita incidencias en caja o en reservas online. Recomendamos siempre probar el código antes de compartirlo con los clientes para asegurarse de que funciona según lo previsto.
 
-Si quieres que el descuento solo se aplique a algunos productos, consulta [Cómo limitar un código promocional a ciertos productos](como-limitar-un-codigo-promocional-a-ciertos-productos.md).
+Si quieres que el descuento solo se aplique a algunos productos, consulta este artículo:
+
+<a href="como-limitar-un-codigo-promocional-a-ciertos-productos.md" class="button primary">Cómo limitar un código promocional a ciertos productos</a>

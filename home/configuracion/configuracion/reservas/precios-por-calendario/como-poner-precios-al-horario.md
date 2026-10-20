@@ -6,9 +6,9 @@ icon: display-chart-up-circle-dollar
 
 En **Precios por calendario** se decide qué precio tiene cada reserva según el día y la hora. Por ejemplo, puedes cobrar distinto en hora punta y en hora valle. Cada franja usa un producto de tipo **Servicio**, que es el que marca el precio.
 
-> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta:
+> **Importante:** aquí solo se cambian los **precios**. No cambia la apertura ni la disponibilidad de las pistas. Para eso, consulta este artículo:
 >
-> [como-crear-un-horario.md](../horarios/como-crear-un-horario.md "mention")
+> <a href="../horarios/como-crear-un-horario.md" class="button primary">Cómo crear un horario</a>
 
 A continuación, se detallan los pasos a seguir:
 

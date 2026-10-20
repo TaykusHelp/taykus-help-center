@@ -17,7 +17,9 @@ A continuación, se detallan los pasos a seguir:
 
     <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-> **Importante:** El código promocional debe estar creado antes de limitarlo. Si aún no lo has hecho, consulta [Cómo hacer un código promocional](como-hacer-un-codigo-promocional.md).
+> **Importante:** El código promocional debe estar creado antes de limitarlo. Si aún no lo has hecho, consulta este artículo:
+>
+> <a href="como-hacer-un-codigo-promocional.md" class="button primary">Cómo hacer un código promocional</a>
 {% endstep %}
 
 {% step %}

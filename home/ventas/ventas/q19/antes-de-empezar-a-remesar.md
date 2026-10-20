@@ -40,6 +40,6 @@ Recuerda revisar especialmente que los datos bancarios y fiscales estén bien in
 
 Con estas comprobaciones previas realizadas, ya podrás continuar con la generación del Q19 con mayor seguridad.
 
-Para saber como, clica en el siguiente enlace:
+Para saber cómo, consulta este artículo:
 
-[generacion-del-q19-domiciliacion-de-recibos-bancarios.md](generacion-del-q19-domiciliacion-de-recibos-bancarios.md "mention")
+<a href="generacion-del-q19-domiciliacion-de-recibos-bancarios.md" class="button primary">Generación del Q19 (Domiciliación de recibos bancarios)</a>

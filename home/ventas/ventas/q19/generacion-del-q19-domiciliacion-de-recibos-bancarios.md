@@ -20,9 +20,9 @@ Antes de generar un Q19, revisa que estén creados estos datos en:
 
 * **Configuración > Ventas > Empresas**
 
-Para saber como hacerlo puedes consultar el siguiente artículo:
+Para saber cómo hacerlo, consulta este artículo:
 
-* [antes-de-empezar-a-remesar.md](antes-de-empezar-a-remesar.md "mention")
+<a href="antes-de-empezar-a-remesar.md" class="button primary">Antes de empezar a remesar</a>
 
 {% stepper %}
 {% step %}

@@ -56,4 +56,6 @@ A continuación, se detallan los pasos a seguir:
 {% endstep %}
 {% endstepper %}
 
-> Mientras el partido no esté completo, se coloca en una pista virtual llamada **Partidos**. Te lo explicamos en [Cómo funcionan los partidos en el calendario](como-funcionan-los-partidos-en-el-calendario.md).
+> Mientras el partido no esté completo, se coloca en una pista virtual llamada **Partidos**. Para saber más, consulta este artículo:
+>
+> <a href="como-funcionan-los-partidos-en-el-calendario.md" class="button primary">Cómo funcionan los partidos en el calendario</a>
