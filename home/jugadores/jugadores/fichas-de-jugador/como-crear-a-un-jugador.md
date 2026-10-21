@@ -12,7 +12,7 @@ Puedes crear un jugador nuevo de dos formas: desde **Jugadores** o desde el **Ca
 
 * Clica en **Jugadores** en el menú de la izquierda.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -45,7 +45,7 @@ Puedes crear un jugador nuevo de dos formas: desde **Jugadores** o desde el **Ca
 * Selecciona el campo **Jugador**.
 * Clica sobre **Crear nuevo**.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 > Si ya tienes jugadores creados, la opción **Crear nuevo** aparece al final del desplegable con el listado de jugadores.
 {% endstep %}
@@ -55,7 +55,7 @@ Puedes crear un jugador nuevo de dos formas: desde **Jugadores** o desde el **Ca
 
 Cualquiera de las dos opciones te lleva a esta ficha:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 La ficha tiene muchos campos por si quieres guardar la información completa del jugador, pero no todos son necesarios.
 

@@ -11,7 +11,7 @@ A continuación, se detallan los pasos a seguir:
 * Clica sobre **Jugadores** en el menú de la izquierda.
 * Selecciona **Tipos de jugador**, justo debajo.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 * En este bloque aparecen todos los tipos de jugador que ya hayas creado.
 {% endstep %}
@@ -22,7 +22,7 @@ A continuación, se detallan los pasos a seguir:
 * Clica en <i class="fa-plus">:plus:</i>.
 * Escribe el nombre de la nueva categoría.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
 
 * Guarda con <i class="fa-floppy-disk">:floppy-disk:</i>.
 {% endstep %}

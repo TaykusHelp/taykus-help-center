@@ -16,11 +16,11 @@ A continuación, se detallan los pasos a seguir:
 
 * Utiliza cualquiera de las columnas disponibles para buscar al jugador por nombre, apellido, correo, DNI, etc. y haz clic en su **ID**.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * También puedes usar el buscador de la esquina superior izquierda: escribe el nombre del jugador y pulsa **Enter**.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -28,7 +28,7 @@ A continuación, se detallan los pasos a seguir:
 
 * Dentro del perfil del jugador, localiza el bloque de **Bonos**.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -44,7 +44,7 @@ A continuación, se detallan los pasos a seguir:
 * Se abrirá una ventana con todos los bonos disponibles.
 * Selecciona el bono que quieres recargar entre los que ya tienes configurados.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 * Si necesitas hacer alguna modificación específica para este cliente, puedes elegir la opción **Personalizar la recarga**, seleccionando previamente cualquier recarga de bono ya creada.
 {% endstep %}

@@ -15,7 +15,7 @@ A continuación, se detallan los pasos a seguir:
 * Accede al menú lateral izquierdo.
 *   Haz clic en **Jugadores**.<br>
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * Busca al jugador al que quieres restarle saldo del bono.
 * Haz clic sobre su id para abrirla.
 {% endstep %}
@@ -25,12 +25,12 @@ A continuación, se detallan los pasos a seguir:
 
 *   Dentro de la ficha del jugador, accede a la pestaña **Bonos**.<br>
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * En el apartado de **bonos activos**, localiza el bono sobre el que quieres hacer el ajuste.
 * Haz clic sobre el id del bono correspondiente para abrir su detalle.
 *   Una vez dentro, accede a la pestaña **Movimientos**.<br>
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -38,7 +38,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   Dentro de **Movimientos**, haz clic en el botón **+** para añadir un nuevo movimiento.<br>
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * En la ventana emergente:
   * El campo **Balance**, se deja en blanco.
   * En el campo **Cantidad**, introduce el importe en **negativo** que quieras descontar del bono.
@@ -60,7 +60,7 @@ Una vez guardado el movimiento:
   * y el **nuevo balance** resultante.
 * Si el ajuste se ha realizado correctamente, el saldo del bono quedará actualizado automáticamente.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
