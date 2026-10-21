@@ -20,6 +20,10 @@ description: Guías del módulo de Jugadores
 [como-asignar-un-cliente-responsable-a-un-jugador.md](jugadores/fichas-de-jugador/como-asignar-un-cliente-responsable-a-un-jugador.md)
 {% endcontent-ref %}
 
+{% content-ref url="jugadores/fichas-de-jugador/que-cambia-cuando-un-jugador-tiene-cliente-responsable.md" %}
+[que-cambia-cuando-un-jugador-tiene-cliente-responsable.md](jugadores/fichas-de-jugador/que-cambia-cuando-un-jugador-tiene-cliente-responsable.md)
+{% endcontent-ref %}
+
 {% content-ref url="jugadores/fichas-de-jugador/como-ver-los-clientes-asociados-a-un-jugador.md" %}
 [como-ver-los-clientes-asociados-a-un-jugador.md](jugadores/fichas-de-jugador/como-ver-los-clientes-asociados-a-un-jugador.md)
 {% endcontent-ref %}

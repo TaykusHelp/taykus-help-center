@@ -6,6 +6,7 @@
     * [Cómo crear diferentes tipos de Jugadores](jugadores/fichas-de-jugador/como-crear-diferentes-tipos-de-jugadores.md)
     * [Cómo funciona el nivel de jugador en Taykus](jugadores/fichas-de-jugador/como-funciona-el-nivel-de-jugador-en-taykus.md)
     * [Cómo asignar un cliente responsable a un jugador](jugadores/fichas-de-jugador/como-asignar-un-cliente-responsable-a-un-jugador.md)
+    * [Qué cambia cuando un jugador tiene cliente responsable](jugadores/fichas-de-jugador/que-cambia-cuando-un-jugador-tiene-cliente-responsable.md)
     * [Cómo ver los clientes asociados a un jugador](jugadores/fichas-de-jugador/como-ver-los-clientes-asociados-a-un-jugador.md)
   * [Bonos](jugadores/bonos/README.md)
     * [Cómo recargar un bono](jugadores/bonos/como-recargar-un-bono.md)

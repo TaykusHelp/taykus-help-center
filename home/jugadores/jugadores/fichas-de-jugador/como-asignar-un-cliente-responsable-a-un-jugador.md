@@ -4,7 +4,7 @@ icon: users
 
 # Cómo asignar un cliente responsable a un jugador
 
-El cliente responsable es la persona que se hace cargo de otra ficha de jugador: por ejemplo, una madre con su hijo, una pareja o un grupo de amigos. Al relacionarlas, la ficha asociada puede usar el correo, el teléfono y los métodos de pago del cliente responsable.
+El cliente responsable es la persona que se hace cargo de otra ficha de jugador: por ejemplo, una madre con su hijo, una pareja o un grupo de amigos. Cada jugador solo puede tener un cliente responsable, pero un mismo cliente responsable puede tener varios jugadores asociados.
 
 > **Importante:** el cliente responsable se asigna desde la ficha de la persona asociada, no desde la del responsable. Por ejemplo, para relacionar a un hijo con su madre, entra en la ficha del hijo y elige a la madre como **Cliente Responsable**.
 
@@ -48,42 +48,14 @@ A continuación, se detallan los pasos a seguir:
 ### Guardar
 
 * Clica en **Guardar**.
+
+> **Importante:** al guardar, si la ficha asociada no tiene correo o teléfono, se completan con los del cliente responsable, y todo lo que se envíe a esa ficha le llegará a él.
 {% endstep %}
 {% endstepper %}
 
-## Qué cambia al asignar un cliente responsable
+Para saber qué cambia en el correo, los cobros y la zona de clientes, o cómo quitar la relación, consulta este artículo:
 
-### Correo y teléfono
-
-Si la ficha asociada tiene vacíos los campos **Email/correo electrónico** o **Nº Telefono**, al guardar se completan con los del cliente responsable.
-
-Como un correo no se puede repetir en dos fichas, el programa añade automáticamente un **+** y un número delante de la @. Por ejemplo, si el correo del responsable es `unoperez@yopmail.com`, el de la ficha asociada queda como `unoperez+239@yopmail.com`. Es un correo que funciona: todo lo que se envíe a la ficha asociada llega al correo del cliente responsable.
-
-<figure><img src="../../.gitbook/assets/cliente-responsable-correo-generado.png" alt=""><figcaption></figcaption></figure>
-
-> **Importante:** si la ficha asociada ya tiene correo o teléfono propios, no se cambian, y lo que se envíe a esa ficha sigue llegando a su propio correo.
-
-### Cobros en el TPV
-
-Al cobrar en el **TPV** una venta de la ficha asociada, aparecen como formas de pago la tarjeta guardada y el **Bono Monedero** del cliente responsable. Si pasas el ratón por encima de cualquiera de los dos, verás el nombre de su propietario.
-
-<figure><img src="../../.gitbook/assets/tpv-cobro-cliente-responsable.png" alt=""><figcaption></figcaption></figure>
-
-### Zona de clientes
-
-El cliente responsable puede entrar en la zona de clientes con su usuario y contraseña y cambiar a las cuentas de sus asociados, por ejemplo, para pagar con su bono o su tarjeta guardada. Para saber cómo, consulta este artículo:
-
-<a href="../../../zona-de-clientes/zona-de-clientes/como-cambiar-entre-tu-cuenta-y-la-de-tus-asociados-en-la-zona-de-clientes.md" class="button primary">Cómo cambiar entre tu cuenta y la de tus asociados en la zona de clientes</a>
-
-La persona asociada solo puede entrar por su cuenta si tiene un correo propio. Si no lo tiene, tiene que entrar con la cuenta del cliente responsable.
-
-## Cosas a tener en cuenta
-
-* Cada jugador solo puede tener un cliente responsable.
-* Un mismo cliente responsable puede tener varios jugadores asociados.
-* Para quitar la relación, edita la ficha asociada, vacía el campo **Cliente Responsable** y clica en **Guardar**.
-
-> **Importante:** al quitar la relación, el correo generado (con el **+** y el número) se queda en la ficha y el programa no avisa. Si quieres que lo que se envíe a esa ficha deje de llegar al antiguo responsable, cambia el correo por el de la propia persona.
+<a href="que-cambia-cuando-un-jugador-tiene-cliente-responsable.md" class="button primary">Qué cambia cuando un jugador tiene cliente responsable</a>
 
 Para ver qué jugadores tiene asociados un cliente responsable, consulta este artículo:
 
