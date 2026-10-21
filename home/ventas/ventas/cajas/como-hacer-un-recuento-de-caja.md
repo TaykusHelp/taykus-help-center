@@ -4,10 +4,6 @@ El recuento de caja permite comprobar el dinero disponible en caja en un momento
 
 Esta opción resulta útil para revisar si el efectivo real coincide con el importe que el sistema calcula que debería haber según los movimientos registrados. De esta forma, el club puede detectar posibles diferencias, revisar el estado de la caja y dejar constancia del recuento antes de continuar trabajando.
 
-### Video Explicativo
-
-
-
 {% stepper %}
 {% step %}
 ### Acceso a Cajas
@@ -50,12 +46,12 @@ Esta opción resulta útil para revisar si el efectivo real coincide con el impo
         * Debajo del campo aparecerá el importe que el sistema calcula que **deberías tener** en pagos con tarjeta, según los movimientos registrados.
     *   **Observaciones**
 
-        El campo **Observaciones** permite añadir cualquier aclaración relacionada con el cierre de caja, especialmente si hay diferencias entre los importes reales y los importes esperados por el sistema.
+        El campo **Observaciones** permite añadir cualquier aclaración relacionada con el recuento, especialmente si hay diferencias entre los importes reales y los importes esperados por el sistema.
     *   **Confirmar recuento**
 
-        Una vez revisados los datos, pulsa **OK** para confirmar el cierre de caja.
+        Una vez revisados los datos, pulsa **OK** para guardar el recuento.
 
-        Si no quieres cerrar la caja, puedes pulsar **Cancelar** o cerrar la ventana desde la **X** superior.
+        Si no quieres guardarlo, puedes pulsar **Cancelar** o cerrar la ventana desde la **X** superior.
 {% endstep %}
 {% endstepper %}
 

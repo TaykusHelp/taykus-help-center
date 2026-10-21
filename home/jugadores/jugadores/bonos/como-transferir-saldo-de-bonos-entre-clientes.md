@@ -2,7 +2,7 @@
 
 Una funcionalidad que puede enriquecer la experiencia del usuario es la opción de transferir su saldo de bonos a otro cliente o jugador de su elección. Aunque el usuario no podrá realizar la transferencia de manera autónoma, podrá contactar al club para gestionar la solicitud y asegurar que todo quede registrado correctamente en el sistema.
 
-Este proceso es sencillo y se realza siguiendo estos pasos:
+Este proceso es sencillo y se realiza siguiendo estos pasos:
 
 {% stepper %}
 {% step %}
@@ -12,7 +12,7 @@ Este proceso es sencillo y se realza siguiendo estos pasos:
 {% endstep %}
 
 {% step %}
-### Buesqueda del jugador o cliente
+### Búsqueda del jugador o cliente
 
 *   Utiliza cualquiera de las columnas disponibles para buscar al jugador por nombre, apellido, correo, DNI, etc. y haz clic en su ID.<br>
 

@@ -8,10 +8,6 @@ La sección de **Cajas** permite llevar un control de los ingresos registrados e
 
 Desde este apartado también podremos **abrir una caja**, indicando los datos necesarios para comenzar a registrar movimientos correctamente durante la jornada.
 
-### Video Explicativo
-
-
-
 En este artículo veremos cómo acceder a la sección de **Ventas > Cajas** y cómo realizar la apertura de caja paso a paso.
 
 {% stepper %}
@@ -55,15 +51,11 @@ Desde esta misma pantalla podrás consultar el resumen de formas de pago, la gr�
 {% endtab %}
 
 {% tab title="Recuento" %}
-## Cómo hgacer un recuento de caja
+## Cómo hacer un recuento de caja
 
 El recuento de caja permite comprobar el dinero disponible en caja en un momento concreto, sin necesidad de cerrar la jornada.
 
 Esta opción resulta útil para revisar si el efectivo real coincide con el importe que el sistema calcula que debería haber según los movimientos registrados. De esta forma, el club puede detectar posibles diferencias, revisar el estado de la caja y dejar constancia del recuento antes de continuar trabajando.
-
-### Video Explicativo
-
-
 
 {% stepper %}
 {% step %}
@@ -107,12 +99,12 @@ Esta opción resulta útil para revisar si el efectivo real coincide con el impo
         * Debajo del campo aparecerá el importe que el sistema calcula que **deberías tener** en pagos con tarjeta, según los movimientos registrados.
     *   **Observaciones**
 
-        El campo **Observaciones** permite añadir cualquier aclaración relacionada con el cierre de caja, especialmente si hay diferencias entre los importes reales y los importes esperados por el sistema.
+        El campo **Observaciones** permite añadir cualquier aclaración relacionada con el recuento, especialmente si hay diferencias entre los importes reales y los importes esperados por el sistema.
     *   **Confirmar recuento**
 
-        Una vez revisados los datos, pulsa **OK** para confirmar el cierre de caja.
+        Una vez revisados los datos, pulsa **OK** para guardar el recuento.
 
-        Si no quieres cerrar la caja, puedes pulsar **Cancelar** o cerrar la ventana desde la **X** superior.
+        Si no quieres guardarlo, puedes pulsar **Cancelar** o cerrar la ventana desde la **X** superior.
 {% endstep %}
 {% endstepper %}
 
@@ -125,10 +117,6 @@ De esta forma, el club podrá consultar el estado real de la caja en ese momento
 ## Cómo hacer una entrada o retirada de efectivo
 
 Las entradas y retiradas de efectivo permiten registrar movimientos manuales en caja no vinculados a ventas, como reposiciones de fondo o pagos menores. Cada operación queda reflejada en el cierre e informes, asegurando control y trazabilidad.
-
-### Video Explicativo
-
-
 
 A continuación, te explicamos el paso a paso:
 
@@ -169,10 +157,6 @@ Antes de guardar la operación, es recomendable revisar que el importe y el come
 El cierre de caja permite finalizar la jornada de trabajo y dejar registrado el efectivo disponible al terminar el día.
 
 Desde este proceso podremos indicar cuánto dinero queda en caja, revisar posibles diferencias y añadir observaciones si fuera necesario. Este dato será importante, ya que servirá como referencia para la próxima apertura de caja.
-
-### Video Explicativo
-
-
 
 En este artículo veremos cómo cerrar la caja desde **Ventas > Cajas** y qué información debemos completar antes de confirmar el cierre.
 

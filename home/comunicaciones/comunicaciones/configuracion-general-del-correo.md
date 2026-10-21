@@ -4,13 +4,16 @@ Desde la sección de **Configuración general del correo** puedes consultar y de
 
 Estos parámetros permiten establecer la conexión con el servidor de correo y garantizar que los mensajes se envíen correctamente desde la cuenta configurada.
 
-En la parte superior de la pantalla se muestra la configuración técnica del correo electrónico.
 
-Esta configuración determina desde qué cuenta se enviarán los emails automáticos del club.
+En la parte superior de la pantalla se muestra la configuración técnica del correo electrónico.
+
+
+Esta configuración determina desde qué cuenta se enviarán los emails automáticos del club.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Entre los campos disponibles podemos encontrar:
+
+Entre los campos disponibles podemos encontrar:
 
 * **Host**
 * **Puerto**
@@ -22,4 +25,9 @@ Estos parámetros permiten establecer la conexión con el servidor de correo y g
 * **Dirección de remitente de correo**
 * **Nombre de remitente de correo**
 
-Estos datos dependerán del proveedor de email que utilice el club.
+
+Estos datos dependerán del proveedor de email que utilice el club.
+
+Para saber cómo llegar a esta pantalla, consulta este artículo:
+
+<a href="acceso-a-la-configuracion-de-las-comunicaciones.md" class="button primary">Acceso a la configuración de las comunicaciones</a>

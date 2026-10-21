@@ -2,10 +2,6 @@
 
 Las entradas y retiradas de efectivo permiten registrar movimientos manuales en caja no vinculados a ventas, como reposiciones de fondo o pagos menores. Cada operación queda reflejada en el cierre e informes, asegurando control y trazabilidad.
 
-### Video Explicativo
-
-
-
 A continuación, te explicamos el paso a paso:
 
 {% stepper %}

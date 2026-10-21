@@ -2,9 +2,23 @@
 
 Taykus permite consultar el estado de los correos enviados a los clientes y revisar si el sistema ha procesado correctamente cada comunicación.
 
-En este artículo te mostramos dónde acceder al historial de envíos y cómo consultar la información disponible sobre cada correo.
+A continuación, se detallan los pasos a seguir:
 
-El estado **Enviado** indica que el correo ha sido procesado por Taykus, pero no garantiza que el proveedor de correo del destinatario lo haya entregado en su bandeja de entrada.
+{% stepper %}
+{% step %}
+### Acceso a los correos enviados
 
-### Video explicativo
+* Dirígete al menú lateral izquierdo y selecciona **Comunicaciones**.
+* En el desplegable, elige **Emails**. Verás el listado de correos enviados por el sistema.
+{% endstep %}
+
+{% step %}
+### Consultar el estado
+
+* Localiza el correo que quieres revisar.
+* Comprueba la columna **Estatus de envío**.
+{% endstep %}
+{% endstepper %}
+
+> **Importante:** el estado **Enviado** indica que el correo ha sido procesado por Taykus, pero no garantiza que el proveedor de correo del destinatario lo haya entregado en su bandeja de entrada.
 

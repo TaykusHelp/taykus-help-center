@@ -11,13 +11,13 @@ A continuación, te explicamos cómo realizar el proceso de creación y alta de 
 
 {% stepper %}
 {% step %}
-Acceder al portal de Apple Developer
+### Acceder al portal de Apple Developer
 
 *   El primer paso es acceder al portal oficial de Apple Developer desde el siguiente enlace:\
     <a href="https://developer.apple.com/" class="button primary">Acceso a Apple Developer</a><br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
-*   Si todavía no dispones de una, deberás crear una nueva.
+*   Inicia sesión con tu cuenta de Apple. Si todavía no tienes una, créala.
 
     > **Importante:** la cuenta de Apple debe crearse con información personal, no directamente con los datos de la empresa. Más adelante, durante el alta en el Apple Developer Program, se solicitará la información legal de la organización.
 {% endstep %}
@@ -60,8 +60,8 @@ Acceder al portal de Apple Developer
 * Si la empresa o entidad aún no dispone de este número, será necesario solicitarlo antes de continuar con la configuración de la cuenta, haciendo clic en el siguiente botón:\
   <a href="https://cloud.email.informa.es/numero-duns" class="button primary">Solicitar número D-U-N-S</a>
 * Existen dos opciones disponibles:
-  * **Solicitud preferente:** obtendrás el número de    &#x20;forma inmediata abonando un coste de 9 € + IVA.
-  * **Solicitud gratuita:** no tiene coste, pero el número    &#x20;tardará entre 10 y 14 días en ser emitido.
+  * **Solicitud preferente:** obtendrás el número de forma inmediata abonando un coste de 9 € + IVA.
+  * **Solicitud gratuita:** no tiene coste, pero el número tardará entre 10 y 14 días en ser emitido.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -129,7 +129,7 @@ Acceder al portal de Apple Developer
 * Desde ahí deberás:
   1. Revisar y firmar el acuerdo legal de Apple.
   2. Completar el pago de la suscripción anual al Apple Developer Program.
-* Según la información del documento, el coste de la suscripción es de **99 USD al año**.
+* El coste de la suscripción es de **99 USD al año**.
 * Una vez completado este paso, la cuenta quedará registrada dentro del Apple Developer Program.<br>
 {% endstep %}
 {% endstepper %}

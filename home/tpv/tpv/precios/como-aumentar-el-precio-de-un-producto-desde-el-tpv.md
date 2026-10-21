@@ -2,7 +2,7 @@
 
 El TPV permite modificar el precio de un producto únicamente a la baja. Si necesitas aumentar el importe de una venta puntual, puedes hacerlo añadiendo un producto abierto con la diferencia.
 
-En el siguiente video podrás visializar como:
+En el siguiente vídeo puedes ver cómo hacerlo:
 
 ### Video Explicativo
 
@@ -40,8 +40,8 @@ A continuación te explicamos cómo subir el importe de un ticket paso a paso:
 *   Haz clic sobre el **Precio Abierto.**<br>
 
     <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-* Emerge la siquiente ventana a completar.
-*
+* Se abre esta ventana, que debes completar así:
+
 
     <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 

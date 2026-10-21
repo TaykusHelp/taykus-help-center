@@ -25,14 +25,13 @@ Abrir la caja desde el TPV permite registrar el importe inicial con el que comie
 *   Selecciona **Movimientos.**<br>
 
     <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-* Sino se desea abrir con nada de efectivo registrado en el sistema, dejar en blanco.
-* Clica en OK para abrir la caja.
+* Clica en **Abrir**.
 {% endstep %}
 
 {% step %}
 ### Indicar fondo de caja
 
-* Se abrirá una ventana en la que debes introducir el efectivo inicial con el que deseas abrir la caja.\
+* Se abrirá una ventana para indicar el efectivo con el que empiezas el día.\
   ![](<../../.gitbook/assets/image (18).png>)
 * Si no quieres registrar efectivo inicial, deja el campo en blanco.
 {% endstep %}

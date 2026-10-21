@@ -44,7 +44,7 @@ Si necesitas trabajar con la información fuera del sistema, puedes exportar el 
 *   Selecciona en exportar y elige el formato de descarga.
 
     <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-* Hecho esto, comenzará la descarga y podrás localizar el archivo su carpeta de descargas.
+* Hecho esto, comenzará la descarga y podrás localizar el archivo en tu carpeta de descargas.
 {% endstep %}
 {% endstepper %}
 

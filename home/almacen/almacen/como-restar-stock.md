@@ -4,22 +4,22 @@ icon: basket-shopping-minus
 
 # Cómo restar Stock
 
-En este módulo puedes restar productos del inventario de forma fácil. Solo tienes que seleccionar el artículo, indicar cuántas unidades quieres descontar y el motivo (como rotura, devolución o error de conteo).
+En este módulo puedes restar productos del inventario de forma fácil. Se hace desde **Entrada manual**: eliges el producto e indicas en negativo cuántas unidades quieres descontar.
 
 Esto ayuda a mantener el stock actualizado y evita errores en el inventario.
 
-Para ellos, solo hay que seguir estos sencillos pasos:
+Para ello, solo hay que seguir estos sencillos pasos:
 
 {% stepper %}
 {% step %}
-### Acceso a Entrada Manual
+### Acceso a Entrada manual
 
 * Dirígete a la columna de la izquierda y selecciona **Almacén**.
 * En el desplegable, clica en **Entrada Manual**.
 {% endstep %}
 
 {% step %}
-### Añade entrada
+### Restar la cantidad
 
 * Selecciona, en la esquina superior izquierda, **Añadir Entrada**.
 *   Se abrirá el siguiente formulario que deberás completar de la siguiente manera:<br>

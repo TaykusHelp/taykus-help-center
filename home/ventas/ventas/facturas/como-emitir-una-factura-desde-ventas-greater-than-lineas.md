@@ -6,7 +6,7 @@ icon: memo-circle-check
 
 Uno de los apartados más utilizados dentro del programa será la gestión de ventas y su posterior facturación. Para ello, será necesario conocer cómo localizar una venta ya registrada, acceder a su detalle y emitir una factura con los datos fiscales correspondientes.
 
-En el siguiente video se muestra como realizar esre proceso:
+En el siguiente vídeo se muestra cómo hacerlo:
 
 ### Video Explicativo
 

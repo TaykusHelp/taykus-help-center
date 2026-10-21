@@ -18,7 +18,7 @@ Recuperar una venta aparcada permite retomar una transacción pausada sin perder
 {% endstep %}
 
 {% step %}
-### Seleccionar la ventana
+### Seleccionar la venta
 
 * Se abrirá una ventana con todas las ventas aparcadas.
 *   Elige la venta que deseas retomar.<br>

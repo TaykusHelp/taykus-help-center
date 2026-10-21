@@ -11,7 +11,7 @@ Estos pasos te permitirán asegurarte de que los datos fiscales estén correctam
 {% step %}
 ### Acceso a Configuración de empresas
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
+* Clica en el icono ⚙ de la esquina superior derecha y entra en **Configuración**.
 * Clica en **Ventas**.
 *   Selecciona la pestaña **Empresas.**<br>
 
@@ -29,7 +29,7 @@ Estos pasos te permitirán asegurarte de que los datos fiscales estén correctam
 * Completamos con los datos fiscales de la empresa. El único campo obligatorio es el mail
   * **NOTA IMPORTANTE:** no tocar el Invoice Number Format.
 * Completar el apartado de domiciliaciones con el IBAN de la cuenta, el CIF/ VAT y el prefijo de emisor bancario y prefijo banco acreedor.
-  * <mark style="background-color:$warning;">**NOTA IMPORTANTE:**</mark> <mark style="background-color:$warning;"></mark><mark style="background-color:$warning;">el prefijo de emisor bancario y prefijo banco acreedor, son dos datos que aporta el banco, también llamado sufijo y suele ser un número de 3 cifras, generalmente 000 ó 001.</mark>
+  * <mark style="background-color:$warning;">**NOTA IMPORTANTE:**</mark> <mark style="background-color:$warning;">el prefijo de emisor bancario y el prefijo del banco acreedor te los da tu banco (a veces lo llama «sufijo»). Suele ser un número de 3 cifras, normalmente 000 o 001.</mark>
 * Clica guardar para terminar.
 {% endstep %}
 {% endstepper %}

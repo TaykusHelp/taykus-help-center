@@ -34,7 +34,7 @@ Es importante utilizar datos actualizados y revisados con frecuencia, ya que Goo
 
 * Accede al siguiente enlace:\
   <a href="https://play.google.com/console/u/0/signup." class="button primary">Acceso a Google Play Console</a>
-*   Una vez ahí, inicia sesión utilizando una cuenta de    &#x20;Gmail que pertenezca a la empresa o a uno de los    &#x20;directores del club.<br>
+*   Una vez ahí, inicia sesión utilizando una cuenta de Gmail que pertenezca a la empresa o a uno de los directores del club.<br>
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -43,7 +43,7 @@ Es importante utilizar datos actualizados y revisados con frecuencia, ya que Goo
 ### Seleccionar el tipo de cuenta de organización
 
 * En la pantalla de inicio del registro, selecciona la opción **Una empresa o un negocio** como tipo de cuenta.
-*   Hax clic en el botón **Empezar** para iniciar el proceso de configuración de la cuenta.<br>
+*   Haz clic en el botón **Empezar** para iniciar el proceso de configuración de la cuenta.<br>
 
     <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -67,8 +67,8 @@ Es importante utilizar datos actualizados y revisados con frecuencia, ya que Goo
 * Si la empresa o entidad aún no dispone de este número, será necesario solicitarlo antes de continuar con la configuración de la cuenta, haciendo clic en el siguiente botón:\
   <a href="https://cloud.email.informa.es/numero-duns" class="button primary">Solicitar número D-U-N-S</a>
 * Existen dos opciones disponibles:
-  * **Solicitud preferente:** obtendrás el número de    &#x20;forma inmediata abonando un coste de 9 € + IVA.
-  * **Solicitud gratuita:** no tiene coste, pero el número    &#x20;tardará entre 10 y 14 días en ser emitido.
+  * **Solicitud preferente:** obtendrás el número de forma inmediata abonando un coste de 9 € + IVA.
+  * **Solicitud gratuita:** no tiene coste, pero el número tardará entre 10 y 14 días en ser emitido.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
