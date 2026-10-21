@@ -4,10 +4,6 @@ La sección de **Cajas** permite llevar un control de los ingresos registrados e
 
 Desde este apartado también podremos **abrir una caja**, indicando los datos necesarios para comenzar a registrar movimientos correctamente durante la jornada.
 
-### Video Explicativo
-
-
-
 En este artículo veremos cómo acceder a la sección de **Ventas > Cajas** y cómo realizar la apertura de caja paso a paso.
 
 {% stepper %}

@@ -55,7 +55,7 @@ A continuación, te explicamos cómo hacerlo:
 {% step %}
 ### Añadir stock
 
-* Dentro del módulo de Almacén, donde se hayan todas las peticiones de stock, clica en el id de la petición de stock creada.
+* Dentro del módulo de Almacén, donde están todas las peticiones de stock, clica en el id de la petición de stock creada.
 *   Accede al bloque de **Entradas**.
 
     <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

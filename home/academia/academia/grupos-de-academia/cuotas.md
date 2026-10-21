@@ -27,6 +27,6 @@ Para acceder y trabajar se debe seguir estos pasos:
 {% endstep %}
 {% endstepper %}
 
-Para aprender a gestionar las cuotas, visita el siguiente enlace
+Para saber cómo gestionarlas, consulta este artículo:
 
-<a href="https://app.gitbook.com/s/QFNRYl4MHLCMNIVqCXJJ/ventas/cuotas" class="button primary" data-icon="credit-card">Cuotas</a>
+<a href="../../../ventas/ventas/cuotas/como-ver-las-cuotas.md" class="button primary">Cómo ver las cuotas</a>

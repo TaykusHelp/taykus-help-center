@@ -2,7 +2,7 @@
 
 Recargar un bono monedero desde el TPV permite añadir saldo de forma inmediata para que el cliente pueda utilizarlo en futuras compras o reservas. Este proceso queda registrado automáticamente en el sistema y facilita la gestión de pagos anticipados.&#x20;
 
-A continuación, se explica cómo realizar una venta con un producto abierto:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}

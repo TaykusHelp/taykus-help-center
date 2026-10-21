@@ -34,7 +34,7 @@ A continuación, se explica cómo realizar una venta con un producto abierto:
 *   Haz clic sobre el **Precio Abierto.**<br>
 
     <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-*   Emerge la siquiente ventana a completar.<br>
+*   Se abre esta ventana, que debes completar así:<br>
 
     <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 

@@ -32,14 +32,14 @@ En este articulo te enseñamos como configurarlas.
       * _Para crear productos tipo Artículo, véase el siguiente artículo:_\
         <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo" class="button primary" data-icon="box">Cómo crear un producto de tipo artículo</a>
     * **Comentarios:** espacio para añadir alguna anotación interna.
-    * **Participantes:** Define el número de personas que podrán rellenar el formulario.
+    * **Participantes:** número máximo de personas que pueden apuntarse.
     * **Inicio:** Fecha de comienzo del curso/escuela/academia.
     * **Fin:** Fecha de finalización del curso/escuela/academia.
     * **Inscripción desde:** Fecha de comienzo de la inscripción.
     * **Inscripción hasta:** Fecha de finalización de las inscripciones.
-    * **Número Máximos de Participantes:** Define el número máximo de personas que podrán integrarlo.
+    * **Número Máximos de Participantes:** sirve para lo mismo que **Participantes**.
     * **Online:** Este check solo hace que el curso se vea en la web. Nada más. No activa inscripciones ni cambia su gestión.
-    * **Registro online:** Activa que los usuarios puedan acceder a las preinscripción desde la web. Sin esto marcado, el curso solo se muestra, pero no admite inscripciones.
+    * **Registro online:** Activa que los usuarios puedan acceder a la preinscripción desde la web. Sin esto marcado, el curso solo se muestra, pero no admite inscripciones.
 * Clica en Guardar para salvar los cambios.
 {% endstep %}
 

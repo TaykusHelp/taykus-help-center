@@ -4,10 +4,6 @@ El cierre de caja permite finalizar la jornada de trabajo y dejar registrado el 
 
 Desde este proceso podremos indicar cuánto dinero queda en caja, revisar posibles diferencias y añadir observaciones si fuera necesario. Este dato será importante, ya que servirá como referencia para la próxima apertura de caja.
 
-### Video Explicativo
-
-
-
 En este artículo veremos cómo cerrar la caja desde **Ventas > Cajas** y qué información debemos completar antes de confirmar el cierre.
 
 {% stepper %}

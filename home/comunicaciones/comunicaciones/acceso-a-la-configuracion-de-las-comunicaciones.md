@@ -8,8 +8,8 @@ En este artículo te mostramos cómo acceder a esta sección para revisar o modi
 {% step %}
 ### Acceso a comunicaciones
 
-* Dirígete al menú de configuración situado en la esquina superior derecha.
-*   Clica en comunicaciones<br>
+* Clica en el icono ⚙ de la esquina superior derecha y entra en **Configuración**.
+*   Clica en **Comunicaciones**<br>
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

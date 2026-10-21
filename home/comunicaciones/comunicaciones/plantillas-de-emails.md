@@ -13,4 +13,6 @@ En el listado podemos ver información como:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Una vez hecho esto, habrás accedido al apartado de las plantillas de mails donde podrás gestionar y editar cada una de ellas.
+Desde aquí puedes gestionar y editar cada una de ellas. Para saber cómo llegar a esta pantalla, consulta este artículo:
+
+<a href="acceso-a-plantillas-de-emails.md" class="button primary">Acceso a plantillas de emails</a>

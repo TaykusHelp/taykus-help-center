@@ -4,21 +4,16 @@ icon: basket-shopping-plus
 
 # Cómo hacer una entrada manual de Stock
 
-En este artículo, te mostramos cómo realizar una entrada manual de stock. Existen dos\
-formas de añadir inventario a tus productos.
+En este artículo, te mostramos cómo realizar una entrada manual de stock. Existen dos formas de añadir inventario a tus productos.
 
-La primera opción consiste en acceder al listado de peticiones de stock, ingresar al\
-bloque de entrada y agregar las nuevas cantidades para cada artículo. Este método\
-es ideal para actualizar varios productos al mismo tiempo de forma rápida y sencilla.
+La primera opción consiste en acceder al listado de peticiones de stock, ingresar al bloque de entrada y agregar las nuevas cantidades para cada artículo. Este método es ideal para actualizar varios productos al mismo tiempo de forma rápida y sencilla.
 
 Para saber cómo, consulta este artículo:\
 <a href="como-crear-una-peticion-de-stock.md" class="button primary">Cómo crear una petición de stock</a>
 
-Sin embargo, si solo necesitas añadir stock a un único artículo, lo más conveniente es\
-optar por la segunda opción, pensada específicamente para gestionar entradas\
-individuales.
+Sin embargo, si solo necesitas añadir stock a un único artículo, lo más conveniente es optar por la segunda opción, pensada específicamente para gestionar entradas individuales.
 
-Para ellos, solo hay que seguir estos sencillos pasos:
+Para ello, solo hay que seguir estos sencillos pasos:
 
 {% stepper %}
 {% step %}

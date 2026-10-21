@@ -34,12 +34,12 @@ A la hora de crear un grupo de academia, cabe destacar la importancia de seguir 
         * **Temporada:** Indica el periodo de duración del curso.
         * **Fin:** Fecha de finalización del curso/escuela/academia.
         * **Detalles:** Espacio para añadir una descripción adicional.
-        * **Producto:** Selecciona un producto, **de categoría: COUTA,** previamente creado. Este es el precio que se le asignará a este curso.
+        * **Producto:** Selecciona un producto, **de categoría: CUOTA,** previamente creado. Este es el precio que se le asignará a este curso.
           * _Para crear productos tipo Cuota, véase el siguiente artículo:_ \
             <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/productos/como-crear-un-producto-tipo-cuota" class="button primary" data-icon="box">Cómo crear un producto tipo Cuota</a>
         * **Máximos Participantes:** Define el número máximo de personas que podrán integrarlo.
-        * **Nivel Mínimo:** Establezca el nivel mínimo requerido para este grupo.
-        * **Nivel Máximo:** Establezca el nivel máximo requerido para este grupo.
+        * **Nivel Mínimo:** Indica el nivel mínimo para este grupo.
+        * **Nivel Máximo:** Indica el nivel máximo para este grupo.
 
         _<mark style="background-color:yellow;">(Con estos datos ya podríamos dejar creado nuestro grupo de academia)</mark>_
     * Clica en Guardar para salvar los cambios.
@@ -56,7 +56,7 @@ Para saber como hacerlo lea los siguientes Artículos:
 * <a href="clase-abierta.md" class="button primary" data-icon="medal">Clase abierta</a><br>
 
 A la hora de crear un grupo de academia, cabe destacar la importancia de seguir un orden en el paso a paso.\
-Es decir, una vez que se tiene el grupo creado, se debe debe seguir el siguiente orden:
+Es decir, una vez que se tiene el grupo creado, se debe seguir el siguiente orden:
 
 1. <a href="precios-por-dias.md" class="button primary" data-icon="medal">Precios por días</a>
 2. <a href="como-crear-los-entrenamientos.md" class="button primary" data-icon="medal">Cómo crear los entrenamientos</a>

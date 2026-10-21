@@ -4,7 +4,7 @@ icon: medal
 
 # Cómo crear los entrenamientos
 
-Los **entrenamientos** son las sesiones semanales del curso: día, hora y pista, también es posible selección de profesor, en la que entrena cada grupo. Al crearlos, se puede **relacionar las reservas con el grupo de academia**, lo que hace que todas las asistencias y plazas queden vinculadas al curso y no como reservas sueltas.
+Los **entrenamientos** son las sesiones semanales del curso: el día, la hora y la pista en la que entrena cada grupo y, si quieres, el profesor. Al crearlos, se puede **relacionar las reservas con el grupo de academia**, lo que hace que todas las asistencias y plazas queden vinculadas al curso y no como reservas sueltas.
 
 Si se va a usar **precios por día**, es imprescindible crearlos **antes** de añadir los entrenamientos. Solo así el sistema asignará correctamente qué días puede elegir cada alumno y qué precio corresponde. Una vez hecho, ya puedes configurar los entrenamientos y dejar el grupo listo para funcionar.
 

@@ -29,7 +29,7 @@ Para saber cómo hacerlo, consulta este artículo:
 ### Acceso al apartado Q19
 
 * Dirígete al menú izquierdo y selecciona **Ventas.**
-* Haz clin en **Q19**.
+* Haz clic en **Q19**.
 *   Desde este apartado podrás consultar remesas ya creadas o generar una nueva.<br>
 
     <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
@@ -81,7 +81,7 @@ Una vez aplicados los filtros, selecciona las líneas que quieras incluir y puls
 {% step %}
 ### Comprobar si existen errores
 
-Puede saltar un aviso al seleccionar las líneas en el paso anterior de **Error**, seleccionamos **OK** y comprobamos dichos errores.
+Al seleccionar las líneas, puede aparecer un aviso de **Error**. Si te sale, clica en **OK** y revisa los errores como se explica a continuación.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -110,7 +110,7 @@ Puede saltar un aviso al seleccionar las líneas en el paso anterior de **Error*
 ### Cerrar el archivo Q19
 
 * Cuando hayas comprobado que todas las líneas son correctas, clica sobre cerrar.
-* El programa abrirá un aviso informativo informado del importe total y número de pagos.\
+* El programa mostrará un aviso con el importe total y el número de pagos.\
   ![](<../../.gitbook/assets/image (19).png>)
 * Clica sobre **OK.**
 * Una vez hecho esto, el archivo cambiará su estado a **Cerrado.**

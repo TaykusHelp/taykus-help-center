@@ -14,7 +14,7 @@ En este artículo te enseñamos cómo configurarlas.
 {% step %}
 #### Acceso a Actividades
 
-*   En el desplegable, selecciona **Actividades.**<br>
+*   Dirígete al menú lateral izquierdo y selecciona **Actividades.**<br>
 
     <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -29,22 +29,22 @@ En este artículo te enseñamos cómo configurarlas.
 
 ![](<../.gitbook/assets/image (2)>)
 
-* **Nombre:** Especifica el titulo de la actividadal grupo de academia.
+* **Nombre:** Escribe el título de la actividad.
 * **Cartel:** clicando sobre "explorar" se puede seleccionar una imagen para que aparezca en la web.
 * **Descripción:** Espacio para añadir una explicación adicional.
 * **Deporte:** se abre un desplegable donde se selecciona el deporte.
-* **Producto:** Selecciona un producto, **de categoría: ARTÍCULO,** previamente creado. Este es el precio que se le asignará a este curso.
+* **Producto:** Selecciona un producto, **de categoría: ARTÍCULO,** previamente creado. Este es el precio de la actividad.
   * Para crear productos tipo Artículo, consulta este artículo:\
     <a href="https://taykus-help-center.gitbook.io/taykushelpcenter/configuracion/configuracion/ventas/productos/como-crear-un-producto-tipo-articulo" class="button primary">Cómo crear un producto tipo Artículo</a>
 * **Comentarios:** espacio para añadir alguna anotación interna.
-* **Participantes:** Define el número de personas que podrán rellenar el formulario.
-* **Inicio:** Fecha de comienzo del curso/escuela/academia.
-* **Fin:** Fecha de finalización del curso/escuela/academia.
+* **Participantes:** número máximo de personas que pueden apuntarse.
+* **Inicio:** Fecha de comienzo de la actividad.
+* **Fin:** Fecha de finalización de la actividad.
 * **Inscripción desde:** Fecha de comienzo de la inscripción.
 * **Inscripción hasta:** Fecha de finalización de las inscripciones.
-* **Número Máximos de Participantes:** Define el número máximo de personas que podrán integrarlo.
-* **Online:** Este check solo hace que el curso se vea en la web. Nada más. No activa inscripciones ni cambia su gestión.
-* **Registro online:** Activa que los usuarios puedan acceder a las actividades desde la web. Sin esto marcado, el curso solo se muestra, pero no admite inscripciones.
+* **Número Máximos de Participantes:** sirve para lo mismo que **Participantes**.
+* **Online:** Este check solo hace que la actividad se vea en la web. Nada más. No activa inscripciones ni cambia su gestión.
+* **Registro online:** Activa que los usuarios puedan acceder a las actividades desde la web. Sin esto marcado, la actividad solo se muestra, pero no admite inscripciones.
 * Clica en Guardar para salvar los cambios.
 {% endstep %}
 
@@ -59,7 +59,7 @@ En la parte superior aparecerán las siguientes pestañas:
 
 * **Actividad:** Permite revisar o modificar la información general de la actividad creada.
 * **Participantes:** Desde aquí se pueden visualizar y gestionar las solicitudes de inscripción realizadas por los jugadores.
-* **Categorías:** Permite organizar las actividades por categorías o niveles dentro de la academia.
+* **Categorías:** Permite organizar a los participantes por categorías o niveles.
 * **Precios Inscripción:** Define los precios asociados a la inscripción o reserva de plaza.
 * **Personalizar Registro:** Permite configurar los campos que aparecerán en el formulario de inscripción que rellenarán los usuarios.
 * **Comunicaciones:** Espacio destinado a configurar los mensajes o notificaciones relacionadas con la actividad.
