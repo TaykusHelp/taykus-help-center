@@ -36,6 +36,7 @@
     * [Grupo de recursos](configuracion/reservas/grupo-de-recursos/README.md)
       * [Cómo crear un recurso](configuracion/reservas/grupo-de-recursos/como-crear-un-recurso.md)
       * [Cómo añadir a un profesor nuevo](configuracion/reservas/grupo-de-recursos/como-anadir-a-un-profesor-nuevo.md)
+      * [Cómo recibir un email cuando alguien reserva o cancela](configuracion/reservas/grupo-de-recursos/como-recibir-un-email-cuando-alguien-reserva-o-cancela.md)
     * [Horarios](configuracion/reservas/horarios/README.md)
       * [Cómo asignar un profesor a un horario](configuracion/reservas/horarios/como-asignar-un-profesor-a-un-horario.md)
       * [Cómo crear un horario](configuracion/reservas/horarios/como-crear-un-horario.md)
