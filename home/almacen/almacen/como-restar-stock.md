@@ -24,7 +24,7 @@ Para ello, solo hay que seguir estos sencillos pasos:
 * Selecciona, en la esquina superior izquierda, **Añadir Entrada**.
 *   Se abrirá el siguiente formulario que deberás completar de la siguiente manera:<br>
 
-    <div align="left"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/restar-stock-cantidad.png" alt=""><figcaption></figcaption></figure></div>
 
     * **Ctd:** Es la cantidad que queremos restar en **NEGATIVO**, añadiendo el símbolo menos delante.
     * **Buscar Producto:** Al seleccionar, se abre un listado de todos los productos que tienen control de Stock.
