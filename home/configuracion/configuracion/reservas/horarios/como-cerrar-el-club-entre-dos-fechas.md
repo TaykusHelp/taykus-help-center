@@ -28,7 +28,9 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Crear el horario del cierre
 
-> **Importante:** no uses el horario **Cerrado** de los días sueltos. Si le pones fechas de inicio y fin, los días que tengas en **Excepciones** dejan de funcionar fuera de esas fechas. Crea siempre un horario aparte para los cierres largos.
+> **Importante:** no uses el horario **Cerrado** de los días sueltos. Si le pones fechas de inicio y fin, los días que tengas en **Excepciones** dejan de funcionar fuera de esas fechas. Crea siempre un horario aparte para los cierres largos. Para saber cómo crear un horario, consulta este artículo:
+>
+> <a href="como-crear-un-horario.md" class="button primary">Cómo crear un horario</a>
 
 * Clica en :heavy\_plus\_sign:.
 * Se abrirá esta ventana:
