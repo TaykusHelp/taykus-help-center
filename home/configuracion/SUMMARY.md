@@ -44,6 +44,7 @@
       * [Cómo editar un horario por días](configuracion/reservas/horarios/como-editar-un-horario-por-dias.md)
       * [Cómo editar un horario por horas](configuracion/reservas/horarios/como-editar-un-horario-por-horas.md)
       * [Cómo cerrar un día](configuracion/reservas/horarios/como-cerrar-un-dia.md)
+      * [Cómo cerrar el club entre dos fechas](configuracion/reservas/horarios/como-cerrar-el-club-entre-dos-fechas.md)
       * [Cómo poner horario de festivo](configuracion/reservas/horarios/como-poner-horario-de-festivo.md)
     * [Precios por calendario](configuracion/reservas/precios-por-calendario/README.md)
       * [Cómo poner precios al horario](configuracion/reservas/precios-por-calendario/como-poner-precios-al-horario.md)

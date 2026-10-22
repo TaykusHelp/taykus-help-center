@@ -61,3 +61,7 @@ Si ya tienes un horario **Cerrado**, salta este paso.
 * Clica en <i class="fa-floppy-disk" style="color:green;">:floppy-disk:</i> para guardar.
 {% endstep %}
 {% endstepper %}
+
+Si quieres cerrar varios días seguidos, no pongas fechas de inicio y fin a este horario: crea uno aparte. Para saber cómo, consulta este artículo:
+
+<a href="como-cerrar-el-club-entre-dos-fechas.md" class="button primary">Cómo cerrar el club entre dos fechas</a>
