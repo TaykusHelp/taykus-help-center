@@ -55,6 +55,6 @@ Puedes hacerlo de dos formas:
 
 A partir de ese momento, te llegará un correo cada vez que se haga o se cancele una reserva en esa pista.
 
-> Los profesores también tienen el campo **Email notificación reserva** en su ficha, para recibir los avisos de sus reservas. Para saber cómo, consulta este artículo:
+> Los profesores también pueden recibir un aviso de sus reservas en su propio correo. Para saber cómo, consulta este artículo:
 >
-> <a href="como-anadir-a-un-profesor-nuevo.md" class="button primary">Cómo añadir a un profesor nuevo</a>
+> <a href="como-avisar-por-email-a-un-profesor-cuando-tiene-una-reserva.md" class="button primary">Cómo avisar por email a un profesor cuando tiene una reserva</a>
