@@ -5,7 +5,7 @@ En **Ventas › Deudas** aparece todo lo que los clientes tienen pendiente de pa
 La pantalla tiene dos pestañas:
 
 * **Pendiente de Pago:** las deudas que el club tiene que cobrar.
-* **Pendiente Domiciliación:** las deudas que se cobrarán por domiciliación bancaria. Consulta [Deudas pendientes de domiciliación](deudas-pendientes-de-domiciliacion.md).
+* **Pendiente Domiciliación:** las deudas que se cobrarán por domiciliación bancaria y que aún están pendientes de incluir en una remesa. Consulta [Deudas pendientes de domiciliación](deudas-pendientes-de-domiciliacion.md).
 
 En las dos puedes filtrar por cualquier columna y descargar el listado con el botón de descarga.
 
