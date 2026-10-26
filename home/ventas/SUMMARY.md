@@ -2,6 +2,8 @@
 
 * [💲 Ventas](README.md)
   * [Líneas](ventas/lineas/README.md)
+    * [Cómo cobrar una venta desde Líneas](ventas/lineas/como-cobrar-una-venta-desde-lineas.md)
+    * [Cómo anular una venta desde Líneas](ventas/lineas/como-anular-una-venta-desde-lineas.md)
     * [Cómo anular una recarga de bono](ventas/lineas/como-anular-una-recarga-de-bono.md)
   * [Pagos](ventas/pagos.md)
   * [Cobros con bonos](ventas/bonos.md)

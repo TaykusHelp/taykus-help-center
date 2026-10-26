@@ -7,7 +7,7 @@ Desde esta pantalla puedes:
 * **Localizar un pago** con los filtros de cada columna.
 * **Ver la venta** clicando en el número de la columna **Venta**. Desde ahí también puedes emitir una factura.
 * **Anular un pago:** marca su casilla y clica en **Anular**. Se abre una ventana de confirmación. Para poder hacer la devolución, tienes que tener una caja abierta; si tienes más de una, cambia a la que corresponda.
-* **Ver las devoluciones:** aparecen marcadas en rojo en el listado.
+* **Ver las devoluciones:** al anular un pago, aparecen dos líneas marcadas en color: en rosa claro, la devolución (con el importe en negativo), y en rosa más oscuro, el pago anulado.
 * **Descargar el listado** con el botón de descarga.
 
 <figure><img src="../.gitbook/assets/pagos-anular-confirmar.png" alt=""><figcaption></figcaption></figure>
