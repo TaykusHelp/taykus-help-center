@@ -7,7 +7,7 @@ En **Ventas › Cobros con Bonos** tienes el listado de todo lo que se ha pagado
 Funciona igual que el listado de pagos. Desde esta pantalla puedes:
 
 * **Localizar un pago con bono** con los filtros de cada columna.
-* **Ver la venta** clicando en ella.
+* **Ver la venta** clicando en el número de la columna **Venta**. Desde ahí también puedes emitir una factura, igual que en [Cómo emitir una factura desde Ventas > Pagos](facturas/como-emitir-una-factura-desde-ventas-pagos.md).
 * **Anular un pago:** funciona igual que en **Ventas › Pagos**. Marca su casilla, clica en **Anular** y confirma. Para poder hacer la devolución, tienes que tener una caja abierta.
 * **Descargar el listado** con el botón de descarga.
 
