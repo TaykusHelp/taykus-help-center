@@ -20,6 +20,7 @@
     * [Cómo modificar el precio de una cuota](ventas/cuotas/como-modificar-el-precio-de-una-cuota.md)
   * [Facturas](ventas/facturas/README.md)
     * [Cómo emitir una factura desde Ventas > Líneas](ventas/facturas/como-emitir-una-factura-desde-ventas-greater-than-lineas.md)
+    * [Cómo emitir una factura desde Ventas > Pagos](ventas/facturas/como-emitir-una-factura-desde-ventas-pagos.md)
   * [Deudas](ventas/deudas/README.md)
     * [Cómo cobrar una deuda](ventas/deudas/como-cobrar-una-deuda.md)
     * [Cómo enviar un email de deudas](ventas/deudas/como-enviar-un-email-de-deudas.md)
