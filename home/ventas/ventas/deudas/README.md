@@ -14,5 +14,6 @@ Desde esta pantalla puedes:
 * [Cobrar una deuda](como-cobrar-una-deuda.md) abriéndola en el TPV.
 * [Enviar un email de deudas](como-enviar-un-email-de-deudas.md) a los clientes.
 * [Anular una deuda](como-anular-una-deuda.md).
+* [Pasar una deuda de Pendiente de Pago a Pendiente Domiciliación](como-pasar-una-deuda-a-pendiente-domiciliacion.md), o al revés.
 
 Los artículos explican la pestaña **Pendiente de Pago**. En **Pendiente Domiciliación** se hace igual.
