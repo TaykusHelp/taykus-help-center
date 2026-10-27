@@ -29,6 +29,7 @@
     * [Cómo enviar un email de deudas](ventas/deudas/como-enviar-un-email-de-deudas.md)
     * [Cómo anular una deuda](ventas/deudas/como-anular-una-deuda.md)
     * [Deudas pendientes de domiciliación](ventas/deudas/deudas-pendientes-de-domiciliacion.md)
+    * [Cómo pasar una deuda de Pendiente de Pago a Pendiente Domiciliación (y al revés)](ventas/deudas/como-pasar-una-deuda-a-pendiente-domiciliacion.md)
   * [Q19](ventas/q19/README.md)
     * [Antes de empezar a remesar](ventas/q19/antes-de-empezar-a-remesar.md)
     * [Generación del Q19 (Domiciliación de recibos bancarios)](ventas/q19/generacion-del-q19-domiciliacion-de-recibos-bancarios.md)

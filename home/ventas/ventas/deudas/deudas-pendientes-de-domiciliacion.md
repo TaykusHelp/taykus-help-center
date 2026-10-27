@@ -28,6 +28,8 @@ Marca la casilla de la izquierda de las deudas que quieras y clica en el botón 
 
 > **Importante:** el correo de domiciliación no es un recordatorio de deuda, sino un aviso del próximo cargo en el banco. Si quieres reclamar un pago pendiente, usa la pestaña **Pendiente de Pago** y el botón **Enviar Email Deudas**.
 
+Si quieres pasar una deuda de **Pendiente de Pago** a esta pestaña, o al revés, consulta [Cómo pasar una deuda de Pendiente de Pago a Pendiente Domiciliación (y al revés)](como-pasar-una-deuda-a-pendiente-domiciliacion.md).
+
 Para incluir estas deudas en una remesa, consulta [Generación del Q19 (Domiciliación de recibos bancarios)](../q19/generacion-del-q19-domiciliacion-de-recibos-bancarios.md).
 
 El texto de este correo es la plantilla **Notificación de domiciliación bancaria**, que puedes cambiar desde **Comunicaciones › Plantillas Email**. Consulta [Acceso a plantillas de emails](https://taykus-help-center.gitbook.io/taykushelpcenter/home/comunicaciones/comunicaciones/acceso-a-plantillas-de-emails).
