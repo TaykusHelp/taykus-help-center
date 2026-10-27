@@ -20,6 +20,7 @@
     * [Cómo restablecer una cuota](ventas/cuotas/como-restablecer-una-cuota.md)
     * [Cómo cambiar el día de vencimiento de una cuota](ventas/cuotas/como-cambiar-el-dia-de-vencimiento-de-una-cuota.md)
     * [Cómo modificar el precio de una cuota](ventas/cuotas/como-modificar-el-precio-de-una-cuota.md)
+    * [Cómo activar el cobro automático con tarjeta](ventas/cuotas/como-activar-el-cobro-automatico-con-tarjeta.md)
   * [Facturas](ventas/facturas/README.md)
     * [Cómo emitir una factura desde Ventas > Líneas](ventas/facturas/como-emitir-una-factura-desde-ventas-greater-than-lineas.md)
     * [Cómo emitir una factura desde Ventas > Pagos](ventas/facturas/como-emitir-una-factura-desde-ventas-pagos.md)
