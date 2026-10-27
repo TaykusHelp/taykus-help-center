@@ -12,6 +12,7 @@
     * [Cómo hacer un recuento de caja](ventas/cajas/como-hacer-un-recuento-de-caja.md)
     * [Cómo hacer una entrada o retirada de efectivo](ventas/cajas/como-hacer-una-entrada-o-retirada-de-efectivo.md)
     * [Cómo cerrar la caja](ventas/cajas/como-cerrar-la-caja.md)
+    * [Cómo consultar y exportar el resumen de caja](ventas/cajas/como-consultar-y-exportar-el-resumen-de-caja.md)
   * [Cuotas](ventas/cuotas/README.md)
     * [Cómo ver las cuotas](ventas/cuotas/como-ver-las-cuotas.md)
     * [Cómo emitir una cuota](ventas/cuotas/como-emitir-una-cuota.md)
