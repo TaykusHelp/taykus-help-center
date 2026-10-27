@@ -31,11 +31,12 @@ A continuación, se detallan los pasos a seguir:
     <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
     * **Nivel mínimo y máximo:** el nivel permitido en el partido. Es opcional: si no lo completas, el nivel lo marcará el primer jugador que se apunte.
+    * **Modifica Niveles:** viene marcada, y así el partido es **competitivo** (el resultado cambia el nivel de los jugadores). Desmárcala si quieres que sea **amistoso** (el resultado no cambia el nivel).
     * **Género:** al clicar se abre un desplegable con estas opciones:
       * **Abierto:** puede apuntarse cualquier persona.
       * **Masculino:** solo pueden apuntarse personas identificadas con género masculino.
       * **Femenino:** solo pueden apuntarse personas identificadas con género femenino.
-      * **Mixto:** pueden apuntarse dos personas identificadas con género masculino y dos con género femenino.
+      * **Mixto:** 2 hombres y 2 mujeres. Si quieres otra combinación, elige **Abierto**.
 {% endstep %}
 
 {% step %}
@@ -59,3 +60,8 @@ A continuación, se detallan los pasos a seguir:
 > Mientras el partido no esté completo, se coloca en una pista virtual llamada **Partidos**. Para saber más, consulta este artículo:
 >
 > <a href="como-funcionan-los-partidos-en-el-calendario.md" class="button primary">Cómo funcionan los partidos en el calendario</a>
+
+Para saber más, consulta:
+
+* [Tipos de partido: competitivo, amistoso y género](tipos-de-partido.md)
+* [Cómo cambiar el nivel de un partido](como-cambiar-el-nivel-de-un-partido.md)

@@ -11,6 +11,8 @@
     * [Cómo compartir una reserva](calendario/reservas/como-compartir-una-reserva.md)
   * [Partidos](calendario/partidos/README.md)
     * [Cómo crear un partido](calendario/partidos/como-crear-un-partido.md)
+    * [Tipos de partido: competitivo, amistoso y género](calendario/partidos/tipos-de-partido.md)
+    * [Cómo cambiar el nivel de un partido](calendario/partidos/como-cambiar-el-nivel-de-un-partido.md)
     * [Cómo compartir un partido](calendario/partidos/como-compartir-un-partido.md)
     * [Cómo funcionan los partidos en el calendario](calendario/partidos/como-funcionan-los-partidos-en-el-calendario.md)
   * [Reservar Múltiples](calendario/reservar-multiples/README.md)
