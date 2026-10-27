@@ -33,3 +33,4 @@
   * [Q19](ventas/q19/README.md)
     * [Antes de empezar a remesar](ventas/q19/antes-de-empezar-a-remesar.md)
     * [Generación del Q19 (Domiciliación de recibos bancarios)](ventas/q19/generacion-del-q19-domiciliacion-de-recibos-bancarios.md)
+  * [Domiciliaciones con tarjeta](ventas/domiciliaciones-tarjeta.md)
