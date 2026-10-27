@@ -10,7 +10,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   En el menú superior de la web del club, clica en **Reservas**.
 
-    > 📷 **CAPTURA 5 pendiente:** web del club, menú superior con Reservas.
+    <figure><img src="../.gitbook/assets/zona-clientes-menu-reservas.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -18,7 +18,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   En **Tipos de Reserva**, busca **Partido** y clica en **Reservar**.
 
-    > 📷 **CAPTURA 6 pendiente:** Tipos de Reserva con la tarjeta Partido.
+    <figure><img src="../.gitbook/assets/zona-clientes-tipos-reserva-partido.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -27,7 +27,7 @@ A continuación, se detallan los pasos a seguir:
 * Clica en **Crea tu Partido**.
 *   Elige el día y la hora.
 
-    > 📷 **CAPTURA 7 pendiente:** botón Crea tu Partido y fila de días.
+    <figure><img src="../.gitbook/assets/zona-clientes-crea-tu-partido.png" alt=""><figcaption></figcaption></figure>
 
 > **Importante:** si no pulsas **Crea tu Partido** y vas cambiando de día, verás los partidos ya creados, a los que te puedes apuntar.
 {% endstep %}
@@ -35,7 +35,7 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Datos del partido
 
-> 📷 **CAPTURA 8 pendiente:** ventana Crear partido.
+<figure><img src="../.gitbook/assets/zona-clientes-crear-partido-ventana.png" alt=""><figcaption></figcaption></figure>
 
 * **Género:** te salen **Abierto**, **Mixto** y el de tu género (**Masculino** o **Femenino**).
 * **Tipo de partido:** **Competitivo** (el resultado cambia tu nivel) o **Amistoso** (no lo cambia).
@@ -50,7 +50,7 @@ A continuación, se detallan los pasos a seguir:
 * En **Pago Compartido** verás lo que pagas tú: solo tu parte.
 *   Clica en **Añadir al carrito** y completa el pago.
 
-    > 📷 **CAPTURA 9 pendiente:** resumen del partido con Pago Compartido y Añadir al carrito.
+    <figure><img src="../.gitbook/assets/zona-clientes-partido-pago.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
