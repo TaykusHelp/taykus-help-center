@@ -17,13 +17,13 @@ A continuación, se detallan los pasos a seguir:
 * Elige el día en la barra de **Fecha**.
 *   Selecciona la hora a la que quieres jugar.
 
-    > 📷 **CAPTURA 3 pendiente:** app, fila de días y horas.
+    <figure><img src="../.gitbook/assets/app-partido-fecha-hora.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Género, tipo de partido y nivel
 
-> 📷 **CAPTURA 4 pendiente:** app, Género, Tipo de partido y nivel, y Precio y duración.
+<figure><img src="../.gitbook/assets/app-partido-tipo-nivel-precio.png" alt=""><figcaption></figcaption></figure>
 
 * **Género:** te salen **Abierto**, **Mixto** y el de tu género (**Masculino** o **Femenino**).
 * **Tipo de partido:** **Competitivo** (el resultado cambia tu nivel) o **Amistoso** (no lo cambia).

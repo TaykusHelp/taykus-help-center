@@ -12,7 +12,7 @@ A continuación, se detallan los pasos a seguir:
 * Clica sobre el partido.
 *   En el menú de la derecha, clica en **Detalles**.
 
-    > 📷 **CAPTURA 1 pendiente:** calendario con el partido seleccionado y el botón Detalles.
+    <figure><img src="../../.gitbook/assets/partido-detalles.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ A continuación, se detallan los pasos a seguir:
 * Haz scroll hacia abajo hasta **Restricciones**.
 *   Cambia el **Nivel Mínimo** y el **Nivel Máximo**.
 
-    > 📷 **CAPTURA 2 pendiente:** pestaña General con el bloque Restricciones.
+    <figure><img src="../../.gitbook/assets/partido-restricciones-nivel.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
