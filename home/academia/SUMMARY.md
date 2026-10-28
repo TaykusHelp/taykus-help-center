@@ -14,6 +14,7 @@
   * [Calendario de profesores](academia/calendario-de-profesores.md)
   * [Calendario de alumnos](academia/calendario-de-alumnos.md)
   * [Disponibilidad de grupos](academia/disponibilidad-de-grupos.md)
+  * [Taykus Coach](academia/taykus-coach/README.md)
   * [Preinscripciones](academia/preinscripciones/README.md)
     * [Cómo crear una preinscripción](academia/preinscripciones/como-crear-una-preinscripcion.md)
     * [Gestionar participantes en preinscripciones](academia/preinscripciones/gestionar-participantes-en-preinscripciones.md)
