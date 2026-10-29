@@ -20,16 +20,12 @@ La sección Emails permite configurar la cuenta desde la que se enviarán los co
 [acceso-a-la-configuracion-de-las-comunicaciones.md](comunicaciones/acceso-a-la-configuracion-de-las-comunicaciones.md)
 {% endcontent-ref %}
 
-{% content-ref url="comunicaciones/configuracion-general-del-correo.md" %}
-[configuracion-general-del-correo.md](comunicaciones/configuracion-general-del-correo.md)
+{% content-ref url="comunicaciones/como-configurar-la-cuenta-de-correo-del-club.md" %}
+[como-configurar-la-cuenta-de-correo-del-club.md](comunicaciones/como-configurar-la-cuenta-de-correo-del-club.md)
 {% endcontent-ref %}
 
 {% content-ref url="comunicaciones/uso-de-la-cuenta-de-correo-taykus.md" %}
 [uso-de-la-cuenta-de-correo-taykus.md](comunicaciones/uso-de-la-cuenta-de-correo-taykus.md)
-{% endcontent-ref %}
-
-{% content-ref url="comunicaciones/configurar-una-cuenta-propia-de-emails.md" %}
-[configurar-una-cuenta-propia-de-emails.md](comunicaciones/configurar-una-cuenta-propia-de-emails.md)
 {% endcontent-ref %}
 {% endtab %}
 
@@ -50,6 +46,14 @@ La sección Emails permite configurar la cuenta desde la que se enviarán los co
 {% tab title="Creación y envío" %}
 {% content-ref url="comunicaciones/como-adjuntar-una-imagen-a-un-mail.md" %}
 [como-adjuntar-una-imagen-a-un-mail.md](comunicaciones/como-adjuntar-una-imagen-a-un-mail.md)
+{% endcontent-ref %}
+
+{% content-ref url="comunicaciones/donde-ver-el-estado-de-envio-de-los-correos.md" %}
+[donde-ver-el-estado-de-envio-de-los-correos.md](comunicaciones/donde-ver-el-estado-de-envio-de-los-correos.md)
+{% endcontent-ref %}
+
+{% content-ref url="comunicaciones/como-reenviar-un-mail.md" %}
+[como-reenviar-un-mail.md](comunicaciones/como-reenviar-un-mail.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}

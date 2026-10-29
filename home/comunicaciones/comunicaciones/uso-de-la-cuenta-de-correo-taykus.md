@@ -8,4 +8,4 @@ En estos casos, proveedores de correo como Gmail pueden identificar la cuenta co
 
 Esto no implica necesariamente un error en el envío desde la plataforma, sino una restricción aplicada por el proveedor de correo del destinatario.
 
-Para evitarlo, el club puede enviar desde su propia cuenta. Consulta [Configurar una cuenta propia de emails](configurar-una-cuenta-propia-de-emails.md).
+Para evitarlo, el club puede enviar desde su propia cuenta. Consulta [Cómo configurar la cuenta de correo del club](como-configurar-la-cuenta-de-correo-del-club.md).

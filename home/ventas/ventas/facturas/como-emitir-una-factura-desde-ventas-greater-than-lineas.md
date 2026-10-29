@@ -99,4 +99,4 @@ Si la factura es para una empresa:
 {% endstep %}
 {% endstepper %}
 
-Una vez completados todos los pasos anteriores y revisados los datos de facturación, la factura se emitirá correctamente en el sistema. Recuerda comprobar siempre que tanto los datos del emisor como los del cliente sean correctos antes de guardarla, para evitar errores en la facturación.
+Al guardarla, la factura se envía automáticamente al cliente. Si necesitas volver a enviarla o descargarla, consulta [Cómo reenviar o descargar una factura](como-reenviar-o-descargar-una-factura.md).

@@ -50,7 +50,7 @@ A continuación, se detallan los pasos a seguir:
 
 * **Periodicidad:** elige en el desplegable cada cuánto se cobra la cuota.
 * **Prorratear primero:** márcala para que, al inscribirse a mitad de periodo, el primer cobro sea proporcional.
-* **Inscripción:** para añadir una matrícula o precio de inscripción.
+* **Inscripción:** para cobrar una matrícula o inscripción. Elige un producto de tipo **Artículo** (créalo antes si no lo tienes). Consulta [Cómo crear un producto tipo Artículo](como-crear-un-producto-tipo-articulo.md).
 * **Tipo Cliente Membresía:** al suscribirse a la cuota, el cliente pasa automáticamente a tener este tipo de cliente.
 * **Tipo Cliente Baja Membresía:** al terminar la cuota, el cliente pasa automáticamente a tener este tipo de cliente.
 * **Facturación bancaria:** márcala si la cuota se cobra por domiciliación.

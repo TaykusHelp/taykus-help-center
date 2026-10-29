@@ -78,8 +78,10 @@ Si la factura es para una empresa:
 ### Guardar
 
 * Revisa los datos y clica en el icono de guardar.
-* Se genera la factura de esa venta.
+* Se genera la factura de esa venta y se envía automáticamente al cliente.
 {% endstep %}
 {% endstepper %}
 
 > **Importante:** en **Ventas › Cobros con Bonos** se hace exactamente igual: clica en el número de la columna **Venta** y sigue los mismos pasos.
+
+Si necesitas volver a enviarla o descargarla, consulta [Cómo reenviar o descargar una factura](como-reenviar-o-descargar-una-factura.md).
