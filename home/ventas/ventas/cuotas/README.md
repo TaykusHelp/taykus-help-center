@@ -2,6 +2,8 @@
 
 En **Ventas › Cuotas** gestionas las cuotas: cobros que se repiten con una periodicidad, por ejemplo la mensualidad de un grupo de academia. Hasta que una cuota se emite, puedes cambiar su precio, su día de vencimiento u omitirla.
 
+Antes de nada, la cuota tiene que estar creada como producto. Consulta [Cómo crear un producto tipo Cuota](../../../configuracion/configuracion/ventas/productos/como-crear-un-producto-tipo-cuota.md).
+
 Desde esta sección puedes:
 
 * [Ver las cuotas](como-ver-las-cuotas.md) por cuota, por jugador o desde un grupo de academia.

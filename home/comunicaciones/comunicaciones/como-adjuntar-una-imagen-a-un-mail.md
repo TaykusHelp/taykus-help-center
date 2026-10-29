@@ -2,21 +2,19 @@
 
 Puedes incluir imágenes en los correos enviados desde Taykus para personalizar tus comunicaciones y hacerlas más visuales.
 
-Para insertar una imagen, esta debe estar previamente alojada en una página web, ya que el editor la añadirá mediante su dirección URL. En este artículo te mostramos cómo subirla a la galería del club e incorporarla al correo.
+Para insertar una imagen, primero tiene que estar publicada en internet, porque el editor la añade con su dirección (URL). Lo más sencillo es subirla a la galería del club y copiar su dirección desde ahí.
 
-### Video explicativo
+### Vídeo explicativo
 
 {% embed url="https://youtu.be/NGbdNmuGzqo" %}
 
-A continuación, te explicamos paso a paso cómo hacerlo:
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
 ### Sube la imagen a la galería del club
 
-Uno de los requisitos para insertar una imagen en un correo es que esta se encuentre alojada en una URL pública.
-
-Para ello, puedes utilizar la galería de la zona de clientes del club. Si necesitas consultar cómo subir una imagen a la galería, haz clic en el siguiente botón:
+* Sube la imagen a la galería de la zona de clientes del club. Para saber cómo, consulta este artículo:
 
 <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/zona-de-jugadores#galeria" class="button primary">Cómo subir una imagen a la galería</a>
 {% endstep %}
@@ -24,19 +22,19 @@ Para ello, puedes utilizar la galería de la zona de clientes del club. Si neces
 {% step %}
 ### Copia la dirección de la imagen
 
-* Accede a tu zona web y localiza la imagen en la galería que está al pie de la página.
-* Haz clic sobre ella con el botón derecho del ratón y selecciona **Copiar dirección de imagen**.
+* Entra en la web de tu club y localiza la imagen en la galería, al pie de la página.
+* Clica sobre ella con el botón derecho del ratón y selecciona **Copiar dirección de imagen**.
 
-> Es importante copiar la dirección de la imagen y no únicamente copiar la propia imagen.
+> **Importante:** copia la dirección de la imagen, no la imagen en sí.
 {% endstep %}
 
 {% step %}
 ### Selecciona los destinatarios
 
-*   Dirígete al apartado **Jugadores** y selecciona los jugadores a los que quieras enviar la comunicación, aplicando los filtros necesarios.<br>
+*   Dirígete al menú lateral izquierdo, selecciona **Jugadores** y marca los jugadores a los que quieres enviar el correo. Puedes usar los filtros de cada columna.<br>
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-*   A continuación, clica en **el icono del sobre** y selecciona la email.<br>
+*   Clica en el icono del sobre y elige **Email**.<br>
 
     <div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -44,7 +42,7 @@ Para ello, puedes utilizar la galería de la zona de clientes del club. Si neces
 {% step %}
 ### Inserta la imagen en el correo
 
-* Completa el asunto y el contenido del mensaje.
+* Escribe el asunto y el texto del correo.
 *   Sitúa el cursor en el lugar en el que quieras mostrar la imagen y clica en el icono **Insertar imagen** de la barra de herramientas.<br>
 
     <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -54,4 +52,4 @@ Para ello, puedes utilizar la galería de la zona de clientes del club. Si neces
 {% endstep %}
 {% endstepper %}
 
-Una vez insertada, revisa que la imagen se muestra correctamente y completa el resto del mensaje. Para finalizar, pulsa **OK** y el correo se enviará a los jugadores seleccionados.
+Revisa que la imagen se ve bien y termina el mensaje. Para enviarlo, clica en **OK**: el correo se enviará a los jugadores seleccionados.

@@ -1,33 +1,19 @@
 # Configuración general del correo
 
-Desde la sección de **Configuración general del correo** puedes consultar y definir los datos técnicos de la cuenta utilizada para enviar los correos automáticos del club.
-
-Estos parámetros permiten establecer la conexión con el servidor de correo y garantizar que los mensajes se envíen correctamente desde la cuenta configurada.
-
-
-En la parte superior de la pantalla se muestra la configuración técnica del correo electrónico.
-
-
-Esta configuración determina desde qué cuenta se enviarán los emails automáticos del club.
+En **Configuración › Comunicaciones**, pestaña **Emails**, están los datos de la cuenta desde la que se envían los correos automáticos del club. Con estos datos, Taykus se conecta al servidor de correo para enviarlos.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
-Entre los campos disponibles podemos encontrar:
+La pantalla tiene dos bloques:
 
-* **Host**
-* **Puerto**
-* **Nombre de usuario**
-* **Contraseña**
-* **Autorizado**
-* **SSL**
-* **TLS**
-* **Dirección de remitente de correo**
-* **Nombre de remitente de correo**
+* **General:** los datos técnicos de la conexión: **HOST**, **Puerto**, **Nombre de Usuario**, **Contraseña**, **Autorizado**, **Ssl** y **Tls**.
+* **Email/correo electrónico:** la **Dirección de Remitente de Correo** y el **Nombre de Remitente de Correo**, que son el correo y el nombre que ve el cliente cuando recibe un email del club.
 
-
-Estos datos dependerán del proveedor de email que utilice el club.
+Los datos técnicos los da el proveedor de correo que use el club.
 
 Para saber cómo llegar a esta pantalla, consulta este artículo:
 
 <a href="acceso-a-la-configuracion-de-las-comunicaciones.md" class="button primary">Acceso a la configuración de las comunicaciones</a>
+
+Si el club quiere enviar desde su propia cuenta, consulta [Configurar una cuenta propia de emails](configurar-una-cuenta-propia-de-emails.md).

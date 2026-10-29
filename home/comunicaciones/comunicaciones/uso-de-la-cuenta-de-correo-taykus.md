@@ -7,3 +7,5 @@ Esta opción permite que el sistema envíe los emails automáticos sin necesidad
 En estos casos, proveedores de correo como Gmail pueden identificar la cuenta como remitente masivo y bloquear, rechazar o filtrar determinados mensajes. Por este motivo, aunque el correo aparezca como enviado correctamente desde Taykus, es posible que el destinatario no llegue a recibirlo o que el mensaje sea enviado a la carpeta de spam.
 
 Esto no implica necesariamente un error en el envío desde la plataforma, sino una restricción aplicada por el proveedor de correo del destinatario.
+
+Para evitarlo, el club puede enviar desde su propia cuenta. Consulta [Configurar una cuenta propia de emails](configurar-una-cuenta-propia-de-emails.md).

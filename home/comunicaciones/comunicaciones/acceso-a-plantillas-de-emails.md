@@ -1,17 +1,18 @@
 # Acceso a plantillas de emails
 
-Desde el apartado de **Plantillas de correo** puedes consultar y gestionar los diferentes modelos de email utilizados por Taykus para las comunicaciones automáticas del club.
+En **Plantillas Email** están los modelos de los correos automáticos que Taykus envía a los clientes del club.
 
-En este artículo te mostramos cómo acceder a esta sección para revisar o modificar las plantillas disponibles.
+A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
 ### Acceso a plantillas
 
-* Dirígete al menú de la izquierda y selecciona **comunicaciones.**
-*   En el desplegable, elige **Plantillas emails.**<br>
+* Dirígete al menú lateral izquierdo y selecciona **Comunicaciones**.
+*   En el desplegable, elige **Plantillas Email**.<br>
 
     <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
+Para saber qué hay en esta pantalla, consulta [Plantillas de emails](plantillas-de-emails.md).

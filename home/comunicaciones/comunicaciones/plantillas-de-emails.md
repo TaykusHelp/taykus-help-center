@@ -1,15 +1,10 @@
 # Plantillas de emails
 
-Aquí se muestran las plantillas de correo que se envían automáticamente a los jugadores desde la zona web del club.
+En **Comunicaciones › Plantillas Email** están las plantillas de los correos que se envían automáticamente a los clientes.
 
-En el listado podemos ver información como:
+En el listado verás estas columnas: **Id**, **Asunto**, **Tema** y **Creado** (la fecha de creación).
 
-* ID
-* Asunto
-* Tema
-* Fecha de creación
-
-Estas plantillas corresponden a distintos emails automáticos, como confirmaciones, notificaciones, facturas, pedidos, emails de bienvenida u otros mensajes relacionados con la actividad del jugador en la zona web.
+Estas plantillas corresponden a distintos emails automáticos, como confirmaciones, notificaciones, facturas, pedidos, emails de bienvenida u otros mensajes relacionados con la actividad del jugador en la zona web.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

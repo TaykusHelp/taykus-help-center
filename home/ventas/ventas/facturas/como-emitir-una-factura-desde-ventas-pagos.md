@@ -2,44 +2,37 @@
 
 Desde **Ventas › Pagos** puedes emitir la factura de una venta a partir de su pago. Se hace igual que desde **Ventas › Líneas**, pero en este listado hay que clicar en el número de la columna **Venta**.
 
-A continuación, se detallan los pasos a seguir:
-
-### Antes de empezar
-
-Antes de emitir la factura, revisa que estén creados estos datos en:
-
-* **Configuración > Ventas > Empresas**
-* **Configuración > Ventas > Empresas clientes**
-
-Para saber cómo hacerlo, consulta estos artículos:
+> **Importante:** antes de emitir la factura, revisa que tienes creados los datos de tu empresa en **Configuración › Ventas › Empresas** y, si facturas a empresas, sus datos en **Configuración › Ventas › Empresas clientes**. Para saber cómo, consulta estos artículos:
 
 <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas/como-configurar-los-datos-de-empresa" class="button primary">Cómo configurar los datos de empresa</a>
 
 <a href="https://app.gitbook.com/s/V0h7jTfpeuZY1RmPEtNK/configuracion/ventas/empresas-clientes/como-crear-empresas-cliente-en-el-sistema" class="button primary">Cómo crear empresas cliente en el sistema</a>
 
+A continuación, se detallan los pasos a seguir:
+
 {% stepper %}
 {% step %}
-### Acceso a Ventas - Pagos
+### Acceso a Pagos
 
-* En el menú lateral, accede a **Ventas**.
-* Haz clic en **Pagos**.
-*   Busca el pago de la venta que quieras facturar.<br>
+* Dirígete al menú lateral izquierdo y selecciona **Ventas**.
+* En el desplegable, elige **Pagos**.
+*   Busca el pago de la venta que quieres facturar. Puedes usar los filtros de cada columna.<br>
 
     <figure><img src="../../.gitbook/assets/pagos-listado.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Cómo emitir la factura
+### Abrir la venta
 
-* Una vez localizado el pago, haz clic sobre el número de la columna **Venta** (no sobre el **Id**).
-*   Dentro de la venta, pulsa el botón **Emitir factura**.<br>
+* Clica en el número de la columna **Venta** (no en el **Id**).
+*   Dentro de la venta, clica en **Emitir factura**.<br>
 
     <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 * Se abrirá una ventana con los datos de facturación.
 {% endstep %}
 
 {% step %}
-### Completar los datos de la factura
+### Datos de la factura
 
 En el bloque **Emisor**:
 
@@ -82,10 +75,10 @@ Si la factura es para una empresa:
 {% endstep %}
 
 {% step %}
-### Guardar la factura
+### Guardar
 
-* Cuando todos los datos estén revisados, pulsa el icono de **guardar**.
-* El sistema generará la factura asociada a esa venta.
+* Revisa los datos y clica en el icono de guardar.
+* Se genera la factura de esa venta.
 {% endstep %}
 {% endstepper %}
 
