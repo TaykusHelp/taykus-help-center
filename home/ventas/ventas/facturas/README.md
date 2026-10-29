@@ -8,3 +8,5 @@ Puedes emitir la factura de una venta desde varios listados de **Ventas**. En to
 * **Ventas › Deudas:** igual que en Líneas, clica en el **Id**.
 
 > **Importante:** desde el TPV no se pueden emitir facturas.
+
+Al guardarla, la factura se envía automáticamente al cliente. Para volver a enviarla o descargarla, consulta [Cómo reenviar o descargar una factura](como-reenviar-o-descargar-una-factura.md).

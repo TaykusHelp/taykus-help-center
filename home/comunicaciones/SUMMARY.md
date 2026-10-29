@@ -2,9 +2,8 @@
 
 * [📡 Comunicaciones](README.md)
   * [Acceso a la configuración de las comunicaciones](comunicaciones/acceso-a-la-configuracion-de-las-comunicaciones.md)
-  * [Configuración general del correo](comunicaciones/configuracion-general-del-correo.md)
+  * [Cómo configurar la cuenta de correo del club](comunicaciones/como-configurar-la-cuenta-de-correo-del-club.md)
   * [Uso de la cuenta de correo Taykus](comunicaciones/uso-de-la-cuenta-de-correo-taykus.md)
-  * [Configurar una cuenta propia de emails](comunicaciones/configurar-una-cuenta-propia-de-emails.md)
   * [Acceso a plantillas de emails](comunicaciones/acceso-a-plantillas-de-emails.md)
   * [Plantillas de emails](comunicaciones/plantillas-de-emails.md)
   * [Cómo adjuntar una imagen a un mail](comunicaciones/como-adjuntar-una-imagen-a-un-mail.md)

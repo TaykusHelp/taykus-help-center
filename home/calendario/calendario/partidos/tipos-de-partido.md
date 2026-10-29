@@ -30,4 +30,4 @@ El **nivel mínimo y máximo** marca qué jugadores pueden apuntarse.
 * **Desde la app o la zona de clientes:** la barra sale con un rango alrededor del nivel del jugador, y puede moverlo libremente.
 * **Después de crear el partido:** solo el club puede cambiar el rango, desde el panel. El jugador no puede cambiarlo ni desde la app ni desde la zona de clientes. Consulta [Cómo cambiar el nivel de un partido](como-cambiar-el-nivel-de-un-partido.md).
 
-Para saber cómo se calcula el nivel, consulta el artículo **Cómo funciona el nivel de jugador en Taykus**, en el módulo Jugadores.
+Para saber cómo se calcula el nivel, consulta [Cómo funciona el nivel de jugador en Taykus](../../../jugadores/jugadores/fichas-de-jugador/como-funciona-el-nivel-de-jugador-en-taykus.md).

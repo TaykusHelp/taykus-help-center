@@ -4,13 +4,23 @@ Además de realizar reservas, la app Taykus permite a los jugadores crear partid
 
 Esta opción resulta útil cuando el jugador quiere organizar un partido, pero aún no tiene todos los participantes confirmados. Desde la app podrá seleccionar el club, la fecha, la hora y las características de la pista, así como configurar los datos necesarios para publicar el partido.
 
-### Video Explicativo
+### Vídeo explicativo
 
 {% embed url="https://youtube.com/shorts/f-GP1juEfDE?feature=share" %}
 
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
+{% step %}
+### Elegir el club
+
+* Entra en la pestaña **Partidos**.
+* Comprueba el deporte y escribe el nombre de tu club en el buscador.
+*   Clica en **Crear partido**.
+
+    <figure><img src="../.gitbook/assets/app-partido-crear.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
 {% step %}
 ### Fecha y hora
 

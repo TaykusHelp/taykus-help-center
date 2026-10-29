@@ -25,7 +25,7 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Seleccionar la cuota
 
-* Marca el círculo de la cuota del mes que quieres cambiar, en la fila del jugador.
+* Marca el círculo de la cuota del mes que quieres pagar, en la fila del jugador.
 * Puedes marcar varias a la vez: el círculo junto al nombre de un jugador marca todas sus cuotas, y el círculo junto a un mes marca las de todos los jugadores en ese mes. La acción se aplicará a todas las que marques.
 *   Clica en **Acciones**, arriba a la izquierda.
 

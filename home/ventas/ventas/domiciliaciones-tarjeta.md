@@ -11,7 +11,7 @@ A continuación, se detallan los pasos a seguir:
 ### Acceso a Domiciliaciones Tarjeta
 
 * Dirígete al menú lateral izquierdo y selecciona **Ventas**.
-*   Haz clic en **Domiciliaciones Tarjeta**. Desde aquí puedes consultar los archivos ya creados o crear uno nuevo.<br>
+*   En el desplegable, elige **Domiciliaciones Tarjeta**. Desde aquí puedes consultar los archivos ya creados o crear uno nuevo.<br>
 
     <figure><img src="../.gitbook/assets/domtarjeta-listado.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -19,24 +19,24 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Crear o abrir un archivo
 
-*   Para crear un archivo nuevo, pulsa el botón **+** y completa los campos:
+*   Para crear un archivo nuevo, clica en **+** y completa los campos:
     * **Descripción**: un nombre que identifique el archivo. Es obligatorio.
     * **Comentarios**: es opcional.
 
     <figure><img src="../.gitbook/assets/domtarjeta-crear-archivo.png" alt=""><figcaption></figcaption></figure>
-* Pulsa en **Guardar**.
+* Clica en **Guardar**.
 * Si ya tienes un archivo abierto que todavía no has cobrado, clica en su **Id** para entrar.
 {% endstep %}
 
 {% step %}
 ### Añadir las líneas
 
-*   Dentro del archivo, en el apartado **Líneas Domiciliación**, pulsa el botón **+**.<br>
+*   Dentro del archivo, en el apartado **Líneas Domiciliación**, clica en **+**.<br>
 
     <figure><img src="../.gitbook/assets/domtarjeta-archivo-nuevo.png" alt=""><figcaption></figcaption></figure>
 * Se abrirá la ventana **Seleccionar Líneas**, con todo lo que está pendiente de pago.
 * Filtra por las columnas que necesites y desplázate por el listado para encontrar las líneas que quieres cobrar.
-*   Marca las líneas y pulsa en **Seleccionar**.<br>
+*   Marca las líneas y clica en **Seleccionar**.<br>
 
     <figure><img src="../.gitbook/assets/domtarjeta-seleccionar-lineas.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -57,7 +57,7 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Cobrar el archivo
 
-*   Cuando las líneas sean correctas, pulsa en **Cobrar Archivo**.<br>
+*   Cuando las líneas sean correctas, clica en **Cobrar Archivo**.<br>
 
     <figure><img src="../.gitbook/assets/domtarjeta-cobrar-archivo.png" alt=""><figcaption></figcaption></figure>
 *   Se abre una ventana con el número de clientes a los que se va a cobrar y el total. Clica en **OK** para lanzar el cobro.<br>
@@ -70,7 +70,7 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Revisar el resultado
 
-* Pulsa el icono de recargar de **Líneas Domiciliación** para ver cómo avanza el proceso.
+* Clica en el icono de recargar de **Líneas Domiciliación** para ver cómo avanza el proceso.
 *   En la columna **Pagado** verás lo que se ha cobrado. Las líneas que no se han podido cobrar siguen como **(Pendiente)** y, en la columna **Error**, aparece el motivo.<br>
 
     <figure><img src="../.gitbook/assets/domtarjeta-resultado.png" alt=""><figcaption></figcaption></figure>
