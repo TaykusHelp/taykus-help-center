@@ -32,7 +32,7 @@ A continuación, se detallan los pasos a seguir:
     <figure><img src="../.gitbook/assets/plantilla-nueva-asunto-tema.png" alt=""><figcaption></figcaption></figure>
 
     * **Asunto:** el asunto del correo, el que verá el cliente al recibirlo. Por ejemplo, _Bienvenido al club_.
-    * **Tema:** el nombre de la plantilla. Es el nombre que verás en la lista cuando elijas la plantilla al enviar un correo. Campo obligatorio.
+    * **Tema:** el nombre de la plantilla. Escribe uno que la identifique: es el que verás en la lista cuando elijas la plantilla al enviar un correo. Campo obligatorio.
 {% endstep %}
 
 {% step %}
@@ -55,6 +55,8 @@ A continuación, se detallan los pasos a seguir:
 {% endstepper %}
 
 ## Usar la plantilla al enviar un correo
+
+Los pasos completos para enviar un correo a varios jugadores están en [Cómo enviar un correo masivo a clientes](../../jugadores/jugadores/como-enviar-un-correo-masivo-a-clientes.md). En resumen:
 
 * Dirígete al menú lateral izquierdo, selecciona **Jugadores** y marca los jugadores a los que quieres enviar el correo.
 * Clica en el icono del sobre y elige **Email**.

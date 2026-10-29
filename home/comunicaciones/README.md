@@ -8,11 +8,14 @@ metaLinks:
 
 La sección Emails permite configurar la cuenta desde la que se enviarán los correos automáticos del club y gestionar las plantillas de email que reciben los jugadores desde la zona web.
 
-Por defecto, algunos clubes pueden tener configurado el envío de correos a través de la cuenta de Taykus. Esta configuración permite realizar envíos sin que el club tenga que enlazar una cuenta propia desde el primer momento.
 
-Sin embargo, al tratarse de una cuenta compartida con otros clubes, si en un momento determinado coinciden muchos envíos, los correos pueden quedar temporalmente en espera hasta ser procesados.
+Por defecto, algunos clubes pueden tener configurado el envío de correos a través de la cuenta de Taykus. Esta configuración permite realizar envíos sin que el club tenga que enlazar una cuenta propia desde el primer momento.
 
-Por este motivo, lo recomendable es que cada club configure su propia cuenta de envío de emails mediante un proveedor externo, como Mailjet u otra plataforma similar. De esta forma, los envíos dependerán de una cuenta propia del club y podrán gestionarse de manera más independiente.
+
+Sin embargo, al tratarse de una cuenta compartida con otros clubes, si en un momento determinado coinciden muchos envíos, los correos pueden quedar temporalmente en espera hasta ser procesados.
+
+
+Por este motivo, lo recomendable es que cada club configure su propia cuenta de envío de emails mediante un proveedor externo, como Mailjet u otra plataforma similar. De esta forma, los envíos dependerán de una cuenta propia del club y podrán gestionarse de manera más independiente.
 
 {% tabs %}
 {% tab title="Configuración" %}
@@ -44,6 +47,10 @@ La sección Emails permite configurar la cuenta desde la que se enviarán los co
 {% endtab %}
 
 {% tab title="Creación y envío" %}
+{% content-ref url="../jugadores/jugadores/como-enviar-un-correo-masivo-a-clientes.md" %}
+[como-enviar-un-correo-masivo-a-clientes.md](../jugadores/jugadores/como-enviar-un-correo-masivo-a-clientes.md)
+{% endcontent-ref %}
+
 {% content-ref url="comunicaciones/como-adjuntar-una-imagen-a-un-mail.md" %}
 [como-adjuntar-una-imagen-a-un-mail.md](comunicaciones/como-adjuntar-una-imagen-a-un-mail.md)
 {% endcontent-ref %}

@@ -29,6 +29,6 @@ A continuación, se detallan los pasos a seguir:
 ### Reenviar o descargar
 
 * Clica en **Reenviar** para volver a enviarla al cliente.
-* Clica en **Descargar** para descargarla.
+* Clica en **Descargar** para descargar la factura en PDF.
 {% endstep %}
 {% endstepper %}
