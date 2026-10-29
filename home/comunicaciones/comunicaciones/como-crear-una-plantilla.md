@@ -32,7 +32,7 @@ A continuación, se detallan los pasos a seguir:
     <figure><img src="../.gitbook/assets/plantilla-nueva-asunto-tema.png" alt=""><figcaption></figcaption></figure>
 
     * **Asunto:** el asunto del correo, el que verá el cliente al recibirlo. Por ejemplo, _Bienvenido al club_.
-    * **Tema:** el nombre de la plantilla. Es el nombre que verás en la lista cuando elijas la plantilla al enviar un correo. Campo obligatorio.
+    * **Tema:** el nombre de la plantilla. Escribe uno que la identifique: es el que verás en la lista cuando elijas la plantilla al enviar un correo. Campo obligatorio.
 {% endstep %}
 
 {% step %}

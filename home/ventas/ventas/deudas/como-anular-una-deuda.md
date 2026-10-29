@@ -38,3 +38,5 @@ A continuación, se detallan los pasos a seguir:
 * Clica en **OK** para anularla, o en **Cerrar** si no quieres anularla.
 {% endstep %}
 {% endstepper %}
+
+> **Importante:** si al anular hay que devolver un pago en efectivo o con tarjeta, necesitas tener una caja abierta. Si es la devolución de un pago online, no hace falta. Para abrir una caja, consulta [Cómo abrir la caja](../cajas/como-abrir-la-caja.md).
