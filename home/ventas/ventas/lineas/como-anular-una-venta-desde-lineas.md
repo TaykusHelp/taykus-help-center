@@ -40,6 +40,6 @@ A continuación, se detallan los pasos a seguir:
 
 Una vez anulada, verás dos líneas marcadas en color en el listado: en rosa claro, la devolución (con el importe en negativo), y en rosa más oscuro, la venta anulada.
 
-> **Importante:** necesitas tener una caja abierta para poder anular. Consulta [Cómo abrir la caja](../cajas/como-abrir-la-caja.md).
+> **Importante:** si al anular hay que devolver un pago en efectivo o con tarjeta, necesitas tener una caja abierta. Si es la devolución de un pago online, no hace falta. Para abrir una caja, consulta [Cómo abrir la caja](../cajas/como-abrir-la-caja.md).
 
 Si lo que quieres anular es una recarga de bono, consulta [Cómo anular una recarga de bono](como-anular-una-recarga-de-bono.md).

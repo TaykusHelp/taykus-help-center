@@ -31,7 +31,7 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Selecciona los destinatarios
 
-*   Dirígete al menú lateral izquierdo, selecciona **Jugadores** y marca los jugadores a los que quieres enviar el correo. Puedes usar los filtros de cada columna.<br>
+*   Dirígete al menú lateral izquierdo, selecciona **Jugadores** y marca los jugadores a los que quieres enviar el correo. Puedes usar los filtros de cada columna. Para más detalle, consulta [Cómo enviar un correo masivo a clientes](../../jugadores/jugadores/como-enviar-un-correo-masivo-a-clientes.md).<br>
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 *   Clica en el icono del sobre y elige **Email**.<br>

@@ -12,20 +12,22 @@ A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
 {% step %}
-### Elegir el club
+### Elegir el club, la fecha y la hora
 
 * Entra en la pestaña **Partidos**.
-* Comprueba el deporte y escribe el nombre de tu club en el buscador.
+* Elige el deporte, la fecha y la hora, y escribe el nombre de tu club en el buscador.
 *   Clica en **Crear partido**.
 
     <figure><img src="../.gitbook/assets/app-partido-crear.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Fecha y hora
+### Revisar la fecha y la hora
 
-* Elige el día en la barra de **Fecha**.
-*   Selecciona la hora a la que quieres jugar.
+*   Se abre la página del club, en **Jugar › Partidos**, con la fecha y la hora que has elegido.
+
+    <figure><img src="../.gitbook/assets/app-partido-pagina-club.png" alt=""><figcaption></figcaption></figure>
+*   Si te has equivocado, cámbialas aquí: el día en la barra **Fecha** y la hora en la lista de horas.
 
     <figure><img src="../.gitbook/assets/app-partido-fecha-hora.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
