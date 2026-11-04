@@ -17,7 +17,15 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Elegir las fechas
 
-* [PENDIENTE: opciones del filtro de fecha, duda 1]
+*   En el desplegable, elige **En el rango** e indica la fecha de inicio y la de fin.
+
+    <figure><img src="../../.gitbook/assets/listados-filtro-opciones.png" alt=""><figcaption></figcaption></figure>
+
+    También puedes usar estas opciones:
+
+    * **Menor que:** registros anteriores a una fecha.
+    * **Mayor que:** registros posteriores a una fecha.
+    * **Igual:** registros de un día concreto.
 {% endstep %}
 {% endstepper %}
 

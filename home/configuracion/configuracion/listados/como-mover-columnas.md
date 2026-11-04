@@ -9,7 +9,9 @@ A continuación, se detallan los pasos a seguir:
 ### Arrastrar la columna
 
 * Clica en la cabecera de la columna que quieres mover y, sin soltar, arrástrala hacia la izquierda o la derecha.
-* Suéltala en el sitio donde la quieres.
+*   Suéltala en el sitio donde la quieres.
+
+    <figure><img src="../../.gitbook/assets/listados-mover-columna.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

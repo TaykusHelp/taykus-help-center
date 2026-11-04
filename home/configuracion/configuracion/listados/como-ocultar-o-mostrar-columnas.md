@@ -16,8 +16,10 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Abrir la lista de columnas
 
-* En los botones de encima del listado, junto a :heavy\_plus\_sign:, clica en el icono de las rayitas.
-* Se abre la lista con todas las columnas que puede tener el listado.
+*   En los botones de encima del listado, junto a :heavy\_plus\_sign:, clica en el icono de las rayitas.
+
+    <figure><img src="../../.gitbook/assets/listados-botones.png" alt=""><figcaption></figcaption></figure>
+* Se abre la lista con todas las columnas que puede tener el listado. Si no ves la que buscas, haz scroll hacia abajo.
 {% endstep %}
 
 {% step %}
