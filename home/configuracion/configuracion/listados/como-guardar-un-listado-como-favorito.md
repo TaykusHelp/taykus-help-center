@@ -33,3 +33,7 @@ A continuación, se detallan los pasos a seguir:
     <figure><img src="../../.gitbook/assets/listados-favorito-abrir.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+Para borrar una lista guardada, clica en la **X** que hay al lado de su nombre.
+
+> **Importante:** cualquier usuario del club puede borrar una lista guardada, no solo quien la creó.

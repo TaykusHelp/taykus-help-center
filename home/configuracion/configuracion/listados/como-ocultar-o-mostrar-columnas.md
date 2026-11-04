@@ -6,7 +6,9 @@ Puedes ocultar las columnas que no necesitas para ver el listado más limpio, y 
 
 ## Ocultar una columna arrastrándola
 
-* Clica en la cabecera de la columna y, sin soltar, arrástrala hacia arriba, fuera del listado. La columna desaparece.
+*   Clica en la cabecera de la columna y, sin soltar, arrástrala hacia arriba, fuera del listado. Cuando sale el icono del ojo junto a su nombre, suéltala: la columna desaparece.
+
+    <figure><img src="../../.gitbook/assets/listados-ocultar-arrastrando.png" alt=""><figcaption></figcaption></figure>
 
 ## Ocultar o mostrar columnas desde el botón de columnas
 
@@ -19,13 +21,15 @@ A continuación, se detallan los pasos a seguir:
 *   En los botones de encima del listado, junto a :heavy\_plus\_sign:, clica en el icono de las rayitas.
 
     <figure><img src="../../.gitbook/assets/listados-botones.png" alt=""><figcaption></figcaption></figure>
-* Se abre la lista con todas las columnas que puede tener el listado. Si no ves la que buscas, haz scroll hacia abajo.
+* Se abre **Seleccionar Columnas**, con todas las columnas que puede tener el listado. Si no ves la que buscas, haz scroll hacia abajo.
 {% endstep %}
 
 {% step %}
 ### Elegir las columnas
 
-* Marca las columnas que quieres ver y desmarca las que quieres ocultar.
+*   Las columnas con el círculo en azul son las que se ven. Clica en el círculo para mostrar u ocultar cada una.
+
+    <figure><img src="../../.gitbook/assets/listados-seleccionar-columnas.png" alt=""><figcaption></figcaption></figure>
 * Desde aquí puedes recuperar una columna que hayas ocultado sin querer, o añadir una que no aparece de inicio.
 {% endstep %}
 {% endstepper %}
