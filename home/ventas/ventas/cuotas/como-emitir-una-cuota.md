@@ -6,7 +6,7 @@ icon: arrow-right-to-bracket
 
 Al emitir una cuota, el programa registra la deuda: se crea una línea de venta pendiente de pago y el cliente la ve en su zona de clientes, en sus ventas pendientes, para poder pagarla.
 
-> **Importante:** si la cuota tiene activada la emisión automática, se emite sola y no hace falta hacerlo a mano. Se activa en la ficha de la cuota, en Configuración, con el check **Emisión Automática**, o para cada jugador, con el check de la lista de jugadores de la cuota. Para saber cómo crear la cuota, consulta este artículo:
+> **Importante:** si la cuota tiene activada la emisión automática, se emite sola y no hace falta hacerlo a mano. Para saber cómo activarla, consulta [Cómo automatizar la emisión de cuotas](como-automatizar-la-emision-de-cuotas.md). Para saber cómo crear la cuota, consulta este artículo:
 >
 > <a href="../../../configuracion/configuracion/ventas/productos/como-crear-un-producto-tipo-cuota.md" class="button primary">Cómo crear un producto tipo Cuota</a>
 
