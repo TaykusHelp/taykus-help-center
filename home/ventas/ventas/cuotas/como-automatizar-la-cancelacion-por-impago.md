@@ -27,7 +27,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   En el bloque **Cuotas Automaticas**, rellena estos campos:
 
-    <figure><img src="../../.gitbook/assets/cuotas-automaticas-campos.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/cuotas-cancelar-impago.png" alt=""><figcaption></figcaption></figure>
 
     * **Días Cortesía Impago:** los días que se esperan, desde el vencimiento de la cuota, antes de cancelarla.
     * **Cancelar con Impago:** márcalo para que la cuota se cancele cuando pasen esos días sin pagar.
