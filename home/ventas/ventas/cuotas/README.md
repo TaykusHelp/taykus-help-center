@@ -16,5 +16,6 @@ Desde esta sección puedes:
 * [Activar el cobro automático con tarjeta](como-activar-el-cobro-automatico-con-tarjeta.md).
 * [Automatizar la emisión de cuotas](como-automatizar-la-emision-de-cuotas.md).
 * [Automatizar la cancelación por impago](como-automatizar-la-cancelacion-por-impago.md).
+* [Dar de baja a un cliente de una cuota](como-dar-de-baja-a-un-cliente-de-una-cuota.md).
 
 Si la cuota cambia el tipo de cliente (por ejemplo, de No socio a Socio), es una membresía. Consulta [Qué es una membresía y cómo funciona](que-es-una-membresia-y-como-funciona.md).

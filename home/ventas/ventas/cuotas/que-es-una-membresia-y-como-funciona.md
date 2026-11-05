@@ -28,4 +28,4 @@ El cliente pasa al **Tipo Cliente Baja Membresía** en cualquiera de estos casos
 
 * Cuando llega la fecha de **Fin** de su cuota.
 * Cuando la cuota se cancela por impago. Consulta [Cómo automatizar la cancelación por impago](como-automatizar-la-cancelacion-por-impago.md).
-* Cuando el club le da de baja de la cuota.
+* Cuando el club le da de baja de la cuota, cambiando su fecha de **Fin**. Consulta [Cómo dar de baja a un cliente de una cuota](como-dar-de-baja-a-un-cliente-de-una-cuota.md).

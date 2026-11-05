@@ -25,6 +25,7 @@
     * [Cómo automatizar la emisión de cuotas](ventas/cuotas/como-automatizar-la-emision-de-cuotas.md)
     * [Cómo automatizar la cancelación por impago](ventas/cuotas/como-automatizar-la-cancelacion-por-impago.md)
     * [Qué es una membresía y cómo funciona](ventas/cuotas/que-es-una-membresia-y-como-funciona.md)
+    * [Cómo dar de baja a un cliente de una cuota](ventas/cuotas/como-dar-de-baja-a-un-cliente-de-una-cuota.md)
   * [Facturas](ventas/facturas/README.md)
     * [Cómo emitir una factura desde Ventas > Líneas](ventas/facturas/como-emitir-una-factura-desde-ventas-greater-than-lineas.md)
     * [Cómo emitir una factura desde Ventas > Pagos](ventas/facturas/como-emitir-una-factura-desde-ventas-pagos.md)
