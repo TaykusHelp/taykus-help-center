@@ -23,7 +23,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   En el bloque **Cuotas Automaticas**, marca **Emisión Automática**.
 
-    <figure><img src="../../.gitbook/assets/cuotas-automaticas-campos.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/cuotas-emision-automatica.png" alt=""><figcaption></figcaption></figure>
 * Clica en **Guardar**.
 {% endstep %}
 {% endstepper %}

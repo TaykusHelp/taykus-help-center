@@ -19,7 +19,7 @@ A continuación, se detallan los pasos a seguir:
 
 *   Localiza al jugador en el listado.
 
-    <figure><img src="../../.gitbook/assets/cuotas-cobro-tarjeta-listado.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/cuotas-baja-jugadores.png" alt=""><figcaption></figcaption></figure>
 * Edita su fecha de **Fin** y pon el día en que quieres que se dé de baja.
 {% endstep %}
 {% endstepper %}
