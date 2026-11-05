@@ -55,15 +55,15 @@ A continuación, se detallan los pasos a seguir:
 * **Tipo Cliente Baja Membresía:** al terminar la cuota, el cliente pasa automáticamente a tener este tipo de cliente.
 * **Facturación bancaria:** márcala si la cuota se cobra por domiciliación.
 
-> **Membresías:** con los dos campos de tipo de cliente, una cuota funciona como la de un gimnasio. Mientras el cliente la tiene, pasa a ser del tipo que elijas (por ejemplo, **Socio**) y disfruta de sus ventajas, como precios especiales. Cuando la cuota termina, pasa al tipo de baja que hayas indicado.
+> **Membresías:** con los dos campos de tipo de cliente, una cuota funciona como la de un gimnasio. Mientras el cliente la tiene, pasa a ser del tipo que elijas (por ejemplo, **Socio**) y disfruta de sus ventajas, como precios especiales. Cuando se da de baja, pasa al tipo de baja que hayas indicado. Consulta [Qué es una membresía y cómo funciona](../../../../ventas/ventas/cuotas/que-es-una-membresia-y-como-funciona.md).
 {% endstep %}
 
 {% step %}
 ### Cuotas automáticas
 
-* **Días Cortesía Impago:** número de días que se esperan tras un impago antes de dar de baja la membresía.
-* **Emisión Automática:** márcala para que las cuotas se emitan solas, sin tener que hacerlo a mano desde el calendario de cuotas.
-* **Cancelar con Impago:** si se produce un impago, cancela la cuota y lo que la originó (por ejemplo, la inscripción a una actividad o a un grupo de escuela).
+* **Días Cortesía Impago:** días que se esperan, desde el vencimiento, antes de cancelar la cuota por impago.
+* **Emisión Automática:** márcala para que las cuotas se emitan solas el día siguiente a su vencimiento, sin tener que hacerlo a mano. Consulta [Cómo automatizar la emisión de cuotas](../../../../ventas/ventas/cuotas/como-automatizar-la-emision-de-cuotas.md).
+* **Cancelar con Impago:** si la cuota no se paga en los días de cortesía, deja de emitirse y, si es una membresía, el cliente pasa al tipo de baja. Consulta [Cómo automatizar la cancelación por impago](../../../../ventas/ventas/cuotas/como-automatizar-la-cancelacion-por-impago.md).
 
 > En los desplegables solo aparecen cinco opciones. Si no ves la que buscas, empieza a escribir su nombre.
 {% endstep %}
