@@ -28,4 +28,5 @@
     * [Display](calendario/display/display.md)
   * [Calendario](calendario/calendario/README.md)
     * [Cómo cerrar una pista](calendario/calendario/como-cerrar-una-pista.md)
+    * [Cómo abrir una pista](calendario/calendario/como-abrir-una-pista.md)
     * [Qué significa cada icono](calendario/calendario/que-significa-cada-icono.md)
