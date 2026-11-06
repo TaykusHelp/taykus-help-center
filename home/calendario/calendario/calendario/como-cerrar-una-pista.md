@@ -34,3 +34,5 @@ A continuación, se detallan los pasos a seguir:
 {% endstepper %}
 
 > **Importante:** el cierre se aplica solo a la pista seleccionada. Si necesitas cerrar más pistas ese mismo día, repite el proceso con cada una de ellas.
+
+Para volver a abrirla, consulta [Cómo abrir una pista](como-abrir-una-pista.md).
