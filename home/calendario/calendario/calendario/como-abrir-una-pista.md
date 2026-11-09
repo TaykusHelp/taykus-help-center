@@ -40,6 +40,8 @@ A continuación, se detallan los pasos a seguir:
 
 * Clica en **Restaurar a Por Defecto**.
 * La pista vuelve a tener su horario normal y aparece de nuevo en el calendario.
+
+> **Importante:** **Restaurar a Por Defecto** se aplica a todos los días del periodo. Si el día anterior o el siguiente tenían un horario especial, también vuelven a su horario normal. Revísalos después y, si hace falta, vuelve a ponerles su horario.
 {% endstep %}
 {% endstepper %}
 
