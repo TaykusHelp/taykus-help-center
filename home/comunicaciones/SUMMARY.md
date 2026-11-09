@@ -8,5 +8,6 @@
   * [Plantillas de emails](comunicaciones/plantillas-de-emails.md)
   * [Cómo adjuntar una imagen a un mail](comunicaciones/como-adjuntar-una-imagen-a-un-mail.md)
   * [Cómo crear una plantilla](comunicaciones/como-crear-una-plantilla.md)
+  * [Cómo editar una plantilla](comunicaciones/como-editar-una-plantilla.md)
   * [Dónde ver el estado de envío de los correos](comunicaciones/donde-ver-el-estado-de-envio-de-los-correos.md)
   * [Cómo reenviar un mail](comunicaciones/como-reenviar-un-mail.md)

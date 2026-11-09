@@ -35,4 +35,4 @@ A continuación, se detallan los pasos a seguir:
 
 > **Importante:** el cierre se aplica solo a la pista seleccionada. Si necesitas cerrar más pistas ese mismo día, repite el proceso con cada una de ellas.
 
-Para volver a abrirla, consulta [Cómo abrir una pista](como-abrir-una-pista.md).
+Para volver a abrirla, consulta [Cómo abrir una pista](como-abrir-una-pista.md). Si solo quieres cerrarla unas horas, consulta [Cómo cerrar una pista unas horas](como-cerrar-una-pista-unas-horas.md).

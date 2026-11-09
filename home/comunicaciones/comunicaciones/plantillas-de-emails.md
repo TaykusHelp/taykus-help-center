@@ -8,7 +8,7 @@ Estas plantillas corresponden a distintos emails automáticos, como confirmacion
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Para editar una plantilla, clica en su **Id**.
+Para editar una plantilla, clica en su **Id**. Consulta [Cómo editar una plantilla](como-editar-una-plantilla.md).
 
 Las palabras entre dobles corchetes, como `[[CustomerName]]`, se sustituyen automáticamente por los datos de cada cliente al enviar el correo. Por ejemplo, `[[CustomerName]]` se cambia por el nombre del cliente.
 

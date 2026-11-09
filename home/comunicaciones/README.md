@@ -44,6 +44,10 @@ Por este motivo, lo recomendable es que cada club configure su propia cuenta de 
 {% content-ref url="comunicaciones/como-crear-una-plantilla.md" %}
 [como-crear-una-plantilla.md](comunicaciones/como-crear-una-plantilla.md)
 {% endcontent-ref %}
+
+{% content-ref url="comunicaciones/como-editar-una-plantilla.md" %}
+[como-editar-una-plantilla.md](comunicaciones/como-editar-una-plantilla.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Creación y envío" %}
