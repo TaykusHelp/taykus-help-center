@@ -9,7 +9,9 @@ A continuación, se detallan los pasos a seguir:
 ### Acceso a los correos enviados
 
 * Dirígete al menú lateral izquierdo y selecciona **Comunicaciones**.
-* En el desplegable, elige **Emails**. Verás el listado de correos enviados por el sistema.
+*   En el desplegable, elige **Emails**. Verás el listado de correos enviados por el sistema.
+
+    <figure><img src="../.gitbook/assets/reenviar-acceso-emails.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

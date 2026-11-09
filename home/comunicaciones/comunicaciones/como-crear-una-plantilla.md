@@ -13,7 +13,9 @@ A continuación, se detallan los pasos a seguir:
 ### Acceso a Plantillas Email
 
 * Dirígete al menú lateral izquierdo y selecciona **Comunicaciones**.
-* En el desplegable, elige **Plantillas Email**.
+*   En el desplegable, elige **Plantillas Email**.
+
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
