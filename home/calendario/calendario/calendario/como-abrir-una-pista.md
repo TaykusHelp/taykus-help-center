@@ -10,8 +10,12 @@ A continuación, se detallan los pasos a seguir:
 {% step %}
 ### Acceso a Calendario
 
-* Dirígete al menú lateral izquierdo y selecciona **Calendario**.
-* Ve al día anterior al día en que la pista está cerrada.
+*   Dirígete al menú lateral izquierdo y selecciona **Calendario**.
+
+    <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+*   Ve al día anterior al día en que la pista está cerrada. Puedes elegir el día en el calendario de arriba.
+
+    <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -9,7 +9,9 @@ A continuación, se detallan los pasos a seguir:
 ### Acceso a la cuota
 
 * Dirígete al menú lateral izquierdo y selecciona **Ventas**.
-* En el desplegable, elige **Cuotas**.
+*   En el desplegable, elige **Cuotas**.
+
+    <figure><img src="../../.gitbook/assets/cuotas-listado.png" alt=""><figcaption></figcaption></figure>
 * Clica en el **Id** de la cuota.
 * Entra en la pestaña **Jugadores**.
 {% endstep %}
