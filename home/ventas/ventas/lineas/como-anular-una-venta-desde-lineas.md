@@ -42,4 +42,6 @@ Una vez anulada, verás dos líneas marcadas en color en el listado: en rosa cla
 
 > **Importante:** si al anular hay que devolver un pago en efectivo o con tarjeta, necesitas tener una caja abierta. Si es la devolución de un pago online, no hace falta. Para abrir una caja, consulta [Cómo abrir la caja](../cajas/como-abrir-la-caja.md).
 
+También puedes anular una venta desde la ficha del jugador. Consulta [Cómo anular una venta desde la ficha del jugador](../../../jugadores/jugadores/fichas-de-jugador/como-anular-una-venta-desde-la-ficha-del-jugador.md).
+
 Si lo que quieres anular es una recarga de bono, consulta [Cómo anular una recarga de bono](como-anular-una-recarga-de-bono.md).

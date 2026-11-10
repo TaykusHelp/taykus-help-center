@@ -8,6 +8,7 @@
     * [Cómo asignar un cliente responsable a un jugador](jugadores/fichas-de-jugador/como-asignar-un-cliente-responsable-a-un-jugador.md)
     * [Qué cambia cuando un jugador tiene cliente responsable](jugadores/fichas-de-jugador/que-cambia-cuando-un-jugador-tiene-cliente-responsable.md)
     * [Cómo ver los clientes asociados a un jugador](jugadores/fichas-de-jugador/como-ver-los-clientes-asociados-a-un-jugador.md)
+    * [Cómo anular una venta desde la ficha del jugador](jugadores/fichas-de-jugador/como-anular-una-venta-desde-la-ficha-del-jugador.md)
   * [Bonos](jugadores/bonos/README.md)
     * [Cómo recargar un bono](jugadores/bonos/como-recargar-un-bono.md)
     * [Cómo transferir saldo de Bonos entre clientes](jugadores/bonos/como-transferir-saldo-de-bonos-entre-clientes.md)
