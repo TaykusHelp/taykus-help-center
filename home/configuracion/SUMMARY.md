@@ -75,5 +75,7 @@
     * [Cómo crear, editar o borra un rol](configuracion/roles/como-crear-editar-o-borra-un-rol.md)
   * [🏅 Academia](configuracion/academia/README.md)
     * [Cómo especificar qué usuarios son entrenadores](configuracion/academia/como-especificar-que-usuarios-son-entrenadores.md)
+  * [📱 Permisos Taykus Pro](configuracion/permisos-taykus-pro/README.md)
+    * [Cómo dar permisos en Taykus Pro](configuracion/permisos-taykus-pro/como-dar-permisos-en-taykus-pro.md)
   * [👤 Usuarios](configuracion/usuarios/README.md)
     * [Cómo crear un usuario](configuracion/usuarios/como-crear-un-usuario.md)

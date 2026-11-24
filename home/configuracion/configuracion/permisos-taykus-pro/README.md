@@ -1,0 +1,1 @@
+# 📱 Permisos Taykus Pro
