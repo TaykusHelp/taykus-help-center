@@ -82,7 +82,20 @@ A continuación, se detallan los pasos a seguir:
     * **Copiar:** copia la reserva para repetirla en otro día, pista u hora. Después, clica en el hueco donde quieres la copia.
     * **Mover:** otra forma de moverla. Después, clica en la nueva hora o pista.
     * **Resultados:** añade los resultados de la reserva.
+    * **Chat:** entra en el chat de la reserva para hablar con los jugadores. Lo ves en el paso siguiente.
     * **Contactar:** envía un email a los participantes.
     * **Anular reserva:** cancela la reserva.
+{% endstep %}
+
+{% step %}
+### Hablar con los jugadores de la reserva
+
+* Dentro de la reserva, clica en **⋯** y después en **Chat**.
+*   Se abre un aviso: entrarás en el chat de la reserva como el club y los jugadores verán tus mensajes. Clica en **Entrar**.
+
+    <div align="left"><figure><img src="../.gitbook/assets/taykus-pro-entrar-chat-reserva.png" alt="" width="300"><figcaption></figcaption></figure></div>
+*   Escribe tu mensaje abajo, en **Escribe un mensaje**.
+
+    <div align="left"><figure><img src="../.gitbook/assets/taykus-pro-chat-reserva.png" alt="" width="300"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

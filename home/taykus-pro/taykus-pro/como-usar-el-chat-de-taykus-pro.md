@@ -2,6 +2,8 @@
 
 Con el chat de Taykus Pro puedes hablar con otros trabajadores del club que tienen usuario en Taykus, uno a uno o en grupo. Para usarlo, tu rol necesita el permiso **Ver el chat**.
 
+Para hablar con los jugadores de una reserva, usa la opción **Chat** de la reserva. Consulta [Cómo usar el calendario en Taykus Pro](como-usar-el-calendario-en-taykus-pro.md).
+
 A continuación, se detallan los pasos a seguir:
 
 {% stepper %}
