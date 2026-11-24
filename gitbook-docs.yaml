@@ -124,6 +124,13 @@ site:
             directory: ./home/app-propia
             language: es
         - type: space
+          key: space-19
+          title: Taykus Pro
+          path: taykus-pro
+          content:
+            directory: ./home/taykus-pro
+            language: es
+        - type: space
           key: space-17
           title: App Taykus
           path: app-taykus
