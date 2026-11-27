@@ -4,7 +4,7 @@ icon: square-google-plus
 
 # Cómo invitar a Taykus a tu cuenta de Google Play Console
 
-Para poder ayudarte con la configuración o gestión de tu aplicación Android, es necesario que invites al equipo de Taykus a tu cuenta de **Google Play Console**.
+Para poder ayudarte con la configuración o gestión de tu aplicación Android, es necesario que invites al equipo técnico de Taykus a tu cuenta de **Google Play Console**.
 
 Desde esta plataforma, Google permite gestionar usuarios, permisos y accesos relacionados con las aplicaciones publicadas o en proceso de publicación.
 
