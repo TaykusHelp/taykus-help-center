@@ -7,6 +7,8 @@ icon: apple
 Para poder publicar y gestionar una aplicación en el entorno de Apple, es necesario disponer de una cuenta dentro del **Apple Developer Program**.\
 Esta cuenta permite a la empresa identificarse oficialmente ante Apple y completar los pasos necesarios para trabajar con aplicaciones iOS.
 
+Antes de empezar, revisa que tienes todo lo necesario en [Requisitos para crear una cuenta de desarrollador](../requisitos-para-crear-una-cuenta-de-desarrollador.md).
+
 A continuación, te explicamos cómo realizar el proceso de creación y alta de la cuenta.
 
 {% stepper %}
@@ -17,9 +19,11 @@ A continuación, te explicamos cómo realizar el proceso de creación y alta de 
     <a href="https://developer.apple.com/" class="button primary">Acceso a Apple Developer</a><br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
-*   Inicia sesión con tu cuenta de Apple. Si todavía no tienes una, créala.
+*   Inicia sesión con tu cuenta de Apple. Si todavía no tienes una, créala siguiendo [Cómo crear una cuenta de Apple](../como-crear-una-cuenta-de-apple.md).
 
-    > **Importante:** la cuenta de Apple debe crearse con información personal, no directamente con los datos de la empresa. Más adelante, durante el alta en el Apple Developer Program, se solicitará la información legal de la organización.
+    > **Importante:** la cuenta de Apple tiene que estar a nombre de una persona con autoridad para firmar en nombre de la empresa, con su nombre y apellidos reales (no el nombre del club). Usa el correo de la empresa (por ejemplo, nombre@tuclub.com). Si Apple no te deja crear la cuenta con él, por ejemplo porque ese correo ya tiene una cuenta de Apple, usa otro correo (por ejemplo, de Gmail). Activa también la verificación en dos pasos.
+    >
+    > Más adelante, durante el alta en el Apple Developer Program, se solicitará la información legal de la organización.
 {% endstep %}
 
 {% step %}
@@ -56,14 +60,8 @@ A continuación, te explicamos cómo realizar el proceso de creación y alta de 
 
 #### Número D-U-N-S
 
-* El número **D-U-N-S** es un identificador único de empresa que Apple puede solicitar para verificar la organización.
-* Si la empresa o entidad aún no dispone de este número, será necesario solicitarlo antes de continuar con la configuración de la cuenta, haciendo clic en el siguiente botón:\
-  <a href="https://cloud.email.informa.es/numero-duns" class="button primary">Solicitar número D-U-N-S</a>
-* Existen dos opciones disponibles:
-  * **Solicitud preferente:** obtendrás el número de forma inmediata abonando un coste de 9 € + IVA.
-  * **Solicitud gratuita:** no tiene coste, pero el número tardará entre 10 y 14 días en ser emitido.
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+* Si no sabes qué es el número D-U-N-S o la empresa todavía no lo tiene, consulta [Qué es el número D-U-N-S](../que-es-el-numero-d-u-n-s.md) y [Cómo solicitar el número D-U-N-S](../como-solicitar-el-numero-d-u-n-s.md).
+* Cuando lo tengas, continúa con el siguiente paso.
 {% endstep %}
 
 {% step %}

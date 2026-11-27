@@ -14,17 +14,7 @@ En este artículo veremos cómo crear una cuenta de desarrollador para Android y
 
 ### Antes de empezar
 
-Antes de iniciar el registro, recomendamos tener preparada la siguiente información:
-
-* Una cuenta de Gmail asociada a la empresa, club o a uno de sus responsables.
-* Número **D-U-N-S** de la empresa o entidad.
-* Teléfono y correo electrónico de contacto.
-* Sitio web oficial del club o entidad.
-* Datos de facturación.
-* Método de pago para abonar la tarifa de registro.
-* Nombre de desarrollador que se mostrará públicamente en Google Play.
-
-Es importante utilizar datos actualizados y revisados con frecuencia, ya que Google puede utilizarlos para verificar la cuenta o enviar comunicaciones importantes.
+Antes de iniciar el registro, revisa que tienes todo lo necesario en [Requisitos para crear una cuenta de desarrollador](../requisitos-para-crear-una-cuenta-de-desarrollador.md). Además, necesitarás decidir el **nombre de desarrollador** que se mostrará públicamente en Google Play.
 
 ***
 
@@ -34,7 +24,7 @@ Es importante utilizar datos actualizados y revisados con frecuencia, ya que Goo
 
 * Accede al siguiente enlace:\
   <a href="https://play.google.com/console/u/0/signup." class="button primary">Acceso a Google Play Console</a>
-*   Una vez ahí, inicia sesión utilizando una cuenta de Gmail que pertenezca a la empresa o a uno de los directores del club.<br>
+*   Una vez ahí, inicia sesión con la cuenta de Gmail de la empresa.<br>
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -63,14 +53,8 @@ Es importante utilizar datos actualizados y revisados con frecuencia, ya que Goo
 
 #### Número D-U-N-S
 
-* El número **D-U-N-S** es un identificador único de empresa que Google puede solicitar para verificar la organización.
-* Si la empresa o entidad aún no dispone de este número, será necesario solicitarlo antes de continuar con la configuración de la cuenta, haciendo clic en el siguiente botón:\
-  <a href="https://cloud.email.informa.es/numero-duns" class="button primary">Solicitar número D-U-N-S</a>
-* Existen dos opciones disponibles:
-  * **Solicitud preferente:** obtendrás el número de forma inmediata abonando un coste de 9 € + IVA.
-  * **Solicitud gratuita:** no tiene coste, pero el número tardará entre 10 y 14 días en ser emitido.
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+* Si no sabes qué es el número D-U-N-S o la empresa todavía no lo tiene, consulta [Qué es el número D-U-N-S](../que-es-el-numero-d-u-n-s.md) y [Cómo solicitar el número D-U-N-S](../como-solicitar-el-numero-d-u-n-s.md).
+* Cuando lo tengas, continúa con el siguiente paso.
 {% endstep %}
 
 {% step %}
